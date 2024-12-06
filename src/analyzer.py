@@ -9,7 +9,8 @@ import json
 import spacy
 from loguru import logger
 
-nlp = spacy.load("grc_odycy_joint_trf")
+#nlp = spacy.load("grc_odycy_joint_trf")
+nlp = spacy.load("grc_proiel_lg")
 
 
 
