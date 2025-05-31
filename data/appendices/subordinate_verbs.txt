@@ -1,47 +1,1153 @@
 ============
 AndrMattTisch1115
-Sent with subordinate verbs: ὑμεῖς δὲ ἐὰν πορνεύσητε .
+Subordinate start ἃς. Matched verb ἐποίησεν. Sent with subordinate verbs: ἀποκριθεὶς δὲ ὁ ἰησοῦς εἶπεν ποῖαι εἰσὶν αἱ δυνάμεις ἃς ἐποίησεν ἐν τῷ κρυπτῷ .
+Subordinate start ἵνα. Matched verb ἀναγγείλω. Sent with subordinate verbs: καθὼς ἔπεισάς με νῦν ἵνα ἀναγγείλω σοι τὰ σημεῖα ἃ ἐποίησεν ὁ κύριος ἡμῶν ἐν τῷ κρυπτῷ .
+Subordinate start ἃ. Matched verb ἐποίησεν. Sent with subordinate verbs: καθὼς ἔπεισάς με νῦν ἵνα ἀναγγείλω σοι τὰ σημεῖα ἃ ἐποίησεν ὁ κύριος ἡμῶν ἐν τῷ κρυπτῷ .
+Subordinate start ἵνα. Matched verb γνωρίσῃ. Sent with subordinate verbs: εγένετο πορευομένων ἡμῶν τῶν δώδεκα μαθητῶν μετὰ τοῦ κυρίου ἡμῶν εἰς ἱερὸν τῶν ἐθνῶν ἵνα γνωρίσῃ ἡμῖν τὴν ἄγνοιαν τοῦ διαβόλου .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: πῶς περιπατεῖτε μετὰ τοῦ λέγοντος ὅτι υἱός εἰμι τοῦ θεοῦ .
+Subordinate start ὅτι. Matched verb ἐξέκλιναν. Sent with subordinate verbs: ἐστράφησαν αἱ καρδίαι ἡμῶν εἰς ἀσθένεια». γνοὺς δὲ ὁ ἰησοῦς ὅτι ἐξέκλιναν αἱ καρδίαι ἡμῶν .
+Subordinate start ὅτι. Matched verb ἔλθατε. Sent with subordinate verbs: ἡμεῖς δὲ εἴπαμεν τοῖς ἀρχιερεῦσι λέγοντες ὅτι ἔλθατε καὶ ὑμεῖς καὶ θεάσασθε .
+Subordinate start ἵνα. Matched verb γνῶμεν. Sent with subordinate verbs: ἵνα γνῶμεν εἰ ἀληθῆ ἐστὶν ἢ οὔ .
+Subordinate start εἰ. Matched verb ἐστὶν. Sent with subordinate verbs: ἵνα γνῶμεν εἰ ἀληθῆ ἐστὶν ἢ οὔ .
+Subordinate start ὃ. Matched verb ἔγλυψαν. Sent with subordinate verbs: ὃ ἔγλυψαν τεχνιτῶν χεῖρες .
+Subordinate start εἰ. Matched verb εἰμι. Sent with subordinate verbs: καὶ ἀποκρίθητι καὶ ἔλεγξον τοὺς ἀρχιερεῖς καὶ ὑπόδειξον αὐτοῖς εἰ ἐγὼ θεός εἰμι ἢ ἄνθρωπος .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: μὴ προσέχετε ὅτι ἐγώ εἰμι ψηλαφητὸν εἴδωλον .
+Subordinate start ὅτι. Matched verb εἰσι. Sent with subordinate verbs: λέγω γὰρ ὑμῖν ὅτι καλλίονά εἰσι τὰ ἱερὰ τῆς συναγωγής ὑμῶν .
+Subordinate start ἐὰν. Matched verb συνέλθωσι. Sent with subordinate verbs: ἐὰν γὰρ συνέλθωσι γυναιξί .
+Subordinate start ὃ. Matched verb ἔδωκαν. Sent with subordinate verbs: διὰ τὸ ὄνομα ὃ ἔδωκαν ἡμῖν ὅτι θεός .
+Subordinate start ἐὰν. Matched verb πορνεύσητε. Sent with subordinate verbs: ὑμεῖς δὲ ἐὰν πορνεύσητε .
+Subordinate start ὅτι. Matched verb καθαρίζουσιν. Sent with subordinate verbs: διὰ τοῦτο λέγω ὑμῖν ὅτι τὰ ἱερὰ καθαρίζουσιν τὰς συναγωγὰς ὑμῶν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: καὶ μὴ νομίσητε ὅτι θεός ἐστιν .
+Subordinate start εἰ. Matched verb ἐδοκιμάσατε. Sent with subordinate verbs: εἰ γὰρ ἐδοκιμάσατε τὰ λεχθέντα ὑπὸ τοῦ λίθου .
+Subordinate start διότι. Matched verb ἀπιστοῦσιν. Sent with subordinate verbs: επιστραφεὶς δὲ πάλιν ὁ ἰησοῦς πρὸς τὴν ἐκτύπωσιν εἶπεν αὐτῇ διότι ἀπιστοῦσιν οὗτοι ὅτι μετὰ ᾿αβραὰμ λελάληκα .
+Subordinate start ὅτι. Matched verb λελάληκα. Sent with subordinate verbs: επιστραφεὶς δὲ πάλιν ὁ ἰησοῦς πρὸς τὴν ἐκτύπωσιν εἶπεν αὐτῇ διότι ἀπιστοῦσιν οὗτοι ὅτι μετὰ ᾿αβραὰμ λελάληκα .
+Subordinate start ἵνα. Matched verb ἐλέγξωμεν. Sent with subordinate verbs: καὶ ἔλθετε εἰς τὰ ἱερὰ τῶν ιεβουσαίων ἵνα ἐλέγξωμεν τοὺς ἀρχιερεῖς .
+Subordinate start ὅτι. Matched verb ἐπίσταμαι. Sent with subordinate verbs: ὅπως γνῶσιν ὅτι ἐπίσταμαι σὲ καὶ σὺ ἐμέ .
+Subordinate start ὡς. Matched verb ἤκουσε. Sent with subordinate verbs: καὶ ὡς ἤκουσε τοὺς λόγους τούτους ἡ σφίγξ .
+Subordinate start ἅπερ. Matched verb διηγήσωμαι. Sent with subordinate verbs: ἅπερ ἐὰν διηγήσωμαι .
 ============
 AndrMattTisch
-Sent with subordinate verbs: άλλὰ εἰ δύνασαι .
+Subordinate start ὃς. Matched verb ἀπήρχετο. Sent with subordinate verbs: πᾶς οὖν ἄνθρωπος ὃς ἀπήρχετο ἐν τῇ πόλει αὐτῶν .
+Subordinate start ὃν. Matched verb κατελείψαμεν. Sent with subordinate verbs: δι᾿ ὃν τὰ πάντα κατελείψαμεν καὶ ἠκολουθήσαμέν σοι .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: γινώσκοντες ὅτι σὺ εἶ βοηθὸς πάντων τῶν ἐλπιζόντων ἐπὶ σοί .
+Subordinate start ἃ. Matched verb ἐποίησαν. Sent with subordinate verbs: πρόσχες οὖν καὶ θέασαι ἃ ἐποίησαν ματθείᾳ τῷ δούλῳ σου .
+Subordinate start εἰ. Matched verb ὥρισάς. Sent with subordinate verbs: εἰ οὖν ὥρισάς με ἵνα καταφάγωσιν με οἱ ἐν τῇ πόλει ταύτῃ ἄνθρωποι ἄνομοι .
+Subordinate start ἵνα. Matched verb καταφάγωσιν. Sent with subordinate verbs: εἰ οὖν ὥρισάς με ἵνα καταφάγωσιν με οἱ ἐν τῇ πόλει ταύτῃ ἄνθρωποι ἄνομοι .
+Subordinate start ἵνα. Matched verb θεάσωμαι. Sent with subordinate verbs: ἵνα κἂν θεάσωμαι ἃ ἐπιχει ροῦσίν μοι οἱ ἐν τῇ πόλει ταύτῃ ἄνομοι ἄνδρες .
+Subordinate start ἃ. Matched verb ἐπιχει. Sent with subordinate verbs: ἵνα κἂν θεάσωμαι ἃ ἐπιχει ροῦσίν μοι οἱ ἐν τῇ πόλει ταύτῃ ἄνομοι ἄνδρες .
+Subordinate start ἵνα. Matched verb ἐξενέγκωσιν. Sent with subordinate verbs: καὶ ἐγένετο ἐν τῷ εἰσέρχεσθαι τοὺς δημίους εἰς τὴν φυλακὴν ἵνα ἐξενέγκωσιν τοὺς ἀνθρώπους εἰς βρῶσιν αὐτῶν .
+Subordinate start ὅπως. Matched verb θεωρήσωσιν. Sent with subordinate verbs: ὅπως μὴ θεωρήσωσιν αὐτὸν βλέποντα .
+Subordinate start ἐπειδὴ. Matched verb κατεῖχον. Sent with subordinate verbs: ἐπειδὴ πάντα ἄνθρωπον ὃν κατεῖχον .
+Subordinate start ὃν. Matched verb κατεῖχον. Sent with subordinate verbs: ἐπειδὴ πάντα ἄνθρωπον ὃν κατεῖχον .
+Subordinate start ᾗ. Matched verb κατεῖχον. Sent with subordinate verbs: ἐσημειοῦντο τὴν ἡμέραν ἐκείνην ἐν ᾗ κατεῖχον αὐτόν .
+Subordinate start ὅτε. Matched verb ἐπληρώθησαν. Sent with subordinate verbs: καὶ ἐγένετο ὅτε ἐπληρώθησαν αἱ κζ ' ἡμέραι ἐν τῷ συλληφθῆναι τὸν ματθείαν .
+Subordinate start ἵνα. Matched verb ἐξάξει. Sent with subordinate verbs: άλλὰ ἀπόστειλον τὸν ἄγγελον σου τὸ τάχος ἵνα ἐξάξει αὐτὸν ἐκεῖθεν .
+Subordinate start οὓς. Matched verb ἐποίησεν. Sent with subordinate verbs: καὶ εἰσήνεγκεν δύο ἀγγέλους οὓς ἐποίησεν ὡς ἀνθρώπους φανῆναι .
+Subordinate start ὅτι. Matched verb πορεύομαι. Sent with subordinate verbs: ὁ δὲ ἰησοῦς ἀκούσας τοῦ ᾿ανδρέου λέγοντος ὅτι κἀ γὼ εἰς τὴν χώραν τῶν ἀνθρωποφάγων πορεύομαι .
+Subordinate start εἰ. Matched verb δύνασαι. Sent with subordinate verbs: άλλὰ εἰ δύνασαι .
+Subordinate start ᾗ. Matched verb μέλλετε. Sent with subordinate verbs: ἐν ᾗ καὶ ὑμεῖς μέλλετε πορεύεσθαι .
+Subordinate start ὃ. Matched verb βούλῃ. Sent with subordinate verbs: ὁ δὲ ἰησοῦς εἶπεν λέγε ὃ βούλῃ .
+Subordinate start ὅτι. Matched verb διδομέν. Sent with subordinate verbs: μὴ νομίσῃς ὅτι κατὰ τυραννίαν οὐ διδομέν σοι τὸν ναῦλον ἡμῶν .
+Subordinate start ὅτι. Matched verb βαστάζετε. Sent with subordinate verbs: καὶ παρέδωκεν ἡμῖν ἐντολὴν τοιαύτην λέγων ὅτι πορευόμενοι κηρύσσειν μὴ βαστάζετε ἀργύριον ἐν τῇ ὁδῷ μήτε ἄρτον μήτε πήραν μήτε ὑποδήματα μήτε ῥάβδον μήτε δύο χιτῶνας .
+Subordinate start εἰ. Matched verb ποιεῖς. Sent with subordinate verbs: εἰ οὖν ποιεῖς τὴν φιλανθρωπίαν μεθ᾿ ἡμῶν .
+Subordinate start εἰ. Matched verb ποιεῖς. Sent with subordinate verbs: εἰ οὐ ποιεῖς .
+Subordinate start εἰ. Matched verb ἐστὶν. Sent with subordinate verbs: ἀποκριθεὶς δὲ ὁ ἰησοῦς εἶπεν τῷ ᾿ανδρέᾳ εἰ αὕτη ἐστὶν ἡ ἐντολὴ ἣν ἐλάβετε καὶ τηρεῖτε αὐτήν .
+Subordinate start ἣν. Matched verb ἐλάβετε. Sent with subordinate verbs: ἀποκριθεὶς δὲ ὁ ἰησοῦς εἶπεν τῷ ᾿ανδρέᾳ εἰ αὕτη ἐστὶν ἡ ἐντολὴ ἣν ἐλάβετε καὶ τηρεῖτε αὐτήν .
+Subordinate start ἵνα. Matched verb φάγωσιν. Sent with subordinate verbs: καὶ ἀποκριθεὶς ὁ ἰησοῦς εἶπεν ἑνὶ τῶν ἀγγέλων ᾿αναστὰς κατελθε εἰς τὴν κοίλην τοῦ πλοίου καὶ ἀνένεγκε τρεῖς ἄρτους ἵνα φάγωσιν οἱ ἄνδρες .
+Subordinate start ἵνα. Matched verb ἰσχύσητε. Sent with subordinate verbs: ἵνα ἰσχύσητε ὑπενεγκεῖν τὸν κλύδωνα τῆς θαλάσσης .
+Subordinate start ἵνα. Matched verb ἰσχύσητε. Sent with subordinate verbs: ἵνα ἰσχύσητε ὑπενεγκεῖν τὸν κλύδωνα τῆς θαλάσσης .
+Subordinate start ἵνα. Matched verb μεταλάβῃ. Sent with subordinate verbs: τότε ὁ ἰησοῦς ἠνάγκαζεν τὸν ᾿ανδρέαν ἵνα μεταλάβῃ καὶ αὐτὸς ἄρτου τροφῆς σὺν τοῖς μαθηταῖς αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἐστίν. Sent with subordinate verbs: μὴ γινώσκων ὅτι ἰησοῦς ἐστίν .
+Subordinate start ὅτι. Matched verb εἰσὶν. Sent with subordinate verbs: ὁρᾷς γὰρ τὰ παιδία ὅτι τεταραγμένα εἰσὶν ἕνεκεν τῆς θαλάσσης .
+Subordinate start εἰ. Matched verb θέλουσιν. Sent with subordinate verbs: άλλὰ ἐξέτασιν αὐτοὺς εἰ θέλουσιν ἐπανελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί σε .
+Subordinate start ἕως. Matched verb ἐκτελέσεις. Sent with subordinate verbs: ἕως ἂν ἐκτελέσεις τὴν διακονίαν σου καὶ πάλιν ἐπανέλθῃς πρὸς αὐτούς .
+Subordinate start εἰ. Matched verb θέλετε. Sent with subordinate verbs: εἰ θέλετε ἀνελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί με ἐνταῦθα ἕως ἐκτελέσω τὴν διακονίαν μου εἰς ἣν ἀπεστάλην .
+Subordinate start ἕως. Matched verb ἐκτελέσω. Sent with subordinate verbs: εἰ θέλετε ἀνελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί με ἐνταῦθα ἕως ἐκτελέσω τὴν διακονίαν μου εἰς ἣν ἀπεστάλην .
+Subordinate start ἣν. Matched verb ἀπεστάλην. Sent with subordinate verbs: εἰ θέλετε ἀνελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί με ἐνταῦθα ἕως ἐκτελέσω τὴν διακονίαν μου εἰς ἣν ἀπεστάλην .
+Subordinate start ἐὰν. Matched verb ἀποστῶμεν. Sent with subordinate verbs: καὶ ἀποκριθέντες εἶπον τῷ ᾿ανδρέᾳ ἐὰν ἀποστῶμεν ἀπὸ σοῦ .
+Subordinate start ὧν. Matched verb παρέσχεν. Sent with subordinate verbs: ξένοι γενώμεθα τῶν ἀγαθῶν ὧν παρέσχεν ἡμῖν ὁ κύριος .
+Subordinate start εἰ. Matched verb εἶ. Sent with subordinate verbs: αποκριθεὶς δὲ ὁ ἰησοῦς εἶπεν τῷ ᾿ανδρέᾳ εἰ ἀληθῶς μαθητὴς εἶ τοῦ λεγομένου ἰησοῦ .
+Subordinate start ἃς. Matched verb ἐποίησεν. Sent with subordinate verbs: λάλησον τοῖς μαθηταῖς σου τὰς δυνάμεις ἃς ἐποίησεν ὁ διδάσκαλός σου .
+Subordinate start ἵνα. Matched verb χαίρῃ. Sent with subordinate verbs: ἵνα χαίρῃ αὐτῶν ἡ ψυχὴ καὶ ἐπιλάθωνται τὸν φόβον τῆς θαλάσσης .
+Subordinate start ὅτε. Matched verb ἤμην. Sent with subordinate verbs: ἐν γὰρ τῷ καιρῷ ἐκείνῳ ὅτε ἤμην σὺν τῷ κυρίῳ ἡμῶν .
+Subordinate start ὅπως. Matched verb ἑλκυσθῶσιν. Sent with subordinate verbs: καὶ ταῦτα λέγων ὁ ἅγιος ᾿ανδρέας ηὔχετο ἐν τῇ καρδίᾳ αὐτοῦ ὅπως οἱ μαθηταὶ αὐτοῦ ἑλκυσθῶσιν εἰς ὕπνον .
+Subordinate start ὅτι. Matched verb ἴδον. Sent with subordinate verbs: ὅτι οὐδένα ἴδον ἄνθρωπόν ποτε κυβερνῶντα οὕτως ἐν τῇ θαλάσσῃ ὥσπερ νῦν σὲ ὁρῶ .
+Subordinate start ἐπειδὴ. Matched verb εἶ. Sent with subordinate verbs: άλλὰ ἐπειδὴ σὺ μαθητὴς εἶ τοῦ λεγομένου ἰησοῦ .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: ἐπέγνω σε ἡ θάλασσα ὅτι δίκαιος εἶ .
+Subordinate start ὅτι. Matched verb ἔστιν. Sent with subordinate verbs: λέγοντες ὅτι οὐκ ἔστιν θεὸς άλλὰ ἄνθρωπος .
+Subordinate start ὅτι. Matched verb ἐφανέρωσεν. Sent with subordinate verbs: ἠκούσαμεν γὰρ ὅτι ἐφανέρωσεν τὴν θεότητα αὐτοῦ τοῖς μαθηταῖς αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: ἐφανέρωσεν ἡμῖν ὅτι θεός ἐστιν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: μὴ οὖν νομίσῃς ὅτι ἄνθρωπός ἐστιν .
+Subordinate start ἃς. Matched verb ἐποίησεν. Sent with subordinate verbs: καὶ ἀποκριθεὶς ᾿ανδρέας εἶπεν οὐκ ἤκουσας τὰς δυνάμεις ἃς ἐποίησεν ἐνώπιον αὐτῶν .
+Subordinate start οτε. Matched verb ἔμελλε. Sent with subordinate verbs: " οτε δὲ ἔμελλε τὸ πλοῖον ἐγγίζειν ἐπὶ τὴν γῆν .
+Subordinate start ὅτι. Matched verb ἦν. Sent with subordinate verbs: καὶ μάθετε ὅτι ὁ κύριος ἦν μεθ᾿ ἡμῶν ἐν τῷ πλοίῳ καὶ οὐκ ἔγνωμεν αὐτόν .
+Subordinate start ὅτι. Matched verb ἔγνωμεν. Sent with subordinate verbs: μὴ νομίσῃς ὅτι ἔγνωμεν ἐν τῷ σε λαλεῖν ἐν τῷ πλοίῳ μετ᾿ αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἀκούετε. Sent with subordinate verbs: καὶ ἠκούσαμεν τοῦ κυρίου λέγοντος τοῖς ἀγγέλοις ὅτι ἀκούετε τῶν ἀποστόλων κατὰ πάντα ὅσα ἂν ἐρωτῶσιν ὑμᾶς .
+Subordinate start ὅσα. Matched verb ἐρωτῶσιν. Sent with subordinate verbs: καὶ ἠκούσαμεν τοῦ κυρίου λέγοντος τοῖς ἀγγέλοις ὅτι ἀκούετε τῶν ἀποστόλων κατὰ πάντα ὅσα ἂν ἐρωτῶσιν ὑμᾶς .
+Subordinate start ἃ. Matched verb εἴδαμεν. Sent with subordinate verbs: ταῦτά εἰσιν ἃ εἴδαμεν .
+Subordinate start ὅτι. Matched verb κατηξιώθησαν. Sent with subordinate verbs: τότε ᾿ανδρέας ἀκούσας ἐχάρη χαρὰν μεγάλην ὅτι κατηξιώθησαν οἱ μαθηταὶ αὐτοῦ τὰ θαυμάσια ταῦτα θεάσασθαι .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: ἐγὼ γὰρ γινώσκω ὅτι οὐκ εἶ μακρὰν ἀπὸ τῶν σῶν δούλων .
+Subordinate start ὃ. Matched verb ἐποίησα. Sent with subordinate verbs: ὃ ἐποίησα .
+Subordinate start ὡς. Matched verb τεθέαμαι. Sent with subordinate verbs: ὡς γὰρ ἄνθρωπόν σε τεθέαμαι ἐν τῷ πλοίῳ καὶ ὡς ἀνθρώπῳ σοι ὡμίλησα .
+Subordinate start ὡς. Matched verb εἶδον. Sent with subordinate verbs: ὡς γὰρ ἄνθρωπόν σε εἶδον ἐν τῇ θαλάσσῃ καὶ ὡμίλησά σοι .
+Subordinate start ὅ. Matched verb ἡμάρτηκα. Sent with subordinate verbs: τί οὖν ἐστὶν ὅ τι ἡμάρτηκα .
+Subordinate start ὅτι. Matched verb εἶπας. Sent with subordinate verbs: ἀλλὰ ταῦτά σοι ἐποίησα ὅτι εἶπας οὐ δυνήσομαι πορευθῆναι εἰς τὴν πόλιν τῶν ἀνθρωποφάγων ἐν τρισὶν ἡμέραις .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: καὶ ὑπέδειξά σοι ὅτι πάντα δυνατός εἰμι καὶ ἑκάστῳ φανῆναι καθώς βούλομαι .
+Subordinate start ἃ. Matched verb δεῖ. Sent with subordinate verbs: ἃ δεῖ σε παθεῖν πρὸ τοῦ ἐλθεῖν ἐν τῇ πόλει ταύτῃ .
+Subordinate start ὡς. Matched verb ἀπῆλθεν. Sent with subordinate verbs: καὶ ὡς ἀπῆλθεν ἐν τῇ φυλακῇ .
+Subordinate start ἃ. Matched verb ἐδιδάχθης. Sent with subordinate verbs: ποῦ εἰσὶν τὰ μεγάλα μυστήρια ἃ ἐδιδάχθης καὶ τὰ θαυμάσια ἃ ἐπιστεύθημεν .
+Subordinate start ἃ. Matched verb ἐπιστεύθημεν. Sent with subordinate verbs: ποῦ εἰσὶν τὰ μεγάλα μυστήρια ἃ ἐδιδάχθης καὶ τὰ θαυμάσια ἃ ἐπιστεύθημεν .
+Subordinate start ἵνα. Matched verb ποιήσῃς. Sent with subordinate verbs: καὶ πάλιν παρεγένου καὶ ἐν τῇ πόλει ταύτῃ ἵνα καὶ τοὺς ἐνταῦθα ποιήσῃς κατεσθίειν ἀνθρώπους .
+Subordinate start ἵνα. Matched verb γένηται. Sent with subordinate verbs: ἵνα γένηται καὶ τούτων τὸ τέλος εἰς κατάραν καὶ ἀπώλειαν .
+Subordinate start ὅτι. Matched verb ἐξαλείψει. Sent with subordinate verbs: νομίζων ἐν σεαυτῷ ὅτι ὁ θεὸς ἐξαλείψει το πλάσμα αὐτοῦ .
+Subordinate start ὅτι. Matched verb εἶπεν. Sent with subordinate verbs: ἢ οὐκ ἤκουσας ὅτι εἶπεν ὁ θεὸς ὅτι οὐ μὴ ἐπάξω κατακλυσμὸν ἐπὶ τῆς γῆς .
+Subordinate start ὅτι. Matched verb ἐπάξω. Sent with subordinate verbs: ἢ οὐκ ἤκουσας ὅτι εἶπεν ὁ θεὸς ὅτι οὐ μὴ ἐπάξω κατακλυσμὸν ἐπὶ τῆς γῆς .
+Subordinate start εἴ. Matched verb ἐστιν. Sent with subordinate verbs: ἀλλὰ εἴ τί ἐστιν ἑτοιμαζόμενον κολάσεως .
+Subordinate start ἕως. Matched verb ἔλθω. Sent with subordinate verbs: καὶ καθίσατε ὑπὸ τὴν συκῆν καὶ ἐσθίετε ἀπὸ τοῦ καρποῦ αὐτῆς ἕως ἂν ἔλθω πρὸς ὑμᾶς .
+Subordinate start ἐὰν. Matched verb βραδύνω. Sent with subordinate verbs: ἐὰν δὲ βραδύνω τοῦ ἐλθεῖν ἐκεῖ .
+Subordinate start ὅσον. Matched verb ἐσθίετε. Sent with subordinate verbs: άλλὰ ὅσον ὑμεῖς ἐσθίετε .
+Subordinate start ὧν. Matched verb ἐπεδείξαντο. Sent with subordinate verbs: μή ποτε πάλιν θεασάμενοι ἡμᾶς οἱ τῆς πόλεως ταύτης ἄνομοι ἄνδρες κατακλείσουσιν ἡμᾶς καὶ ἐνδείξονται ἡμῖν βασάνους δεινοτέρας καὶ πλείους ὧν ἐπεδείξαντο ἡμῖν .
+Subordinate start ὅτι. Matched verb ὑλάξει. Sent with subordinate verbs: ἐπί ἀληθείας γὰρ λέγω ὑμῖν ὅτι πορευομένων ὑμῶν οὐ μὴ ὑλάξει κύων ἐν τῇ γλώττῃ αὐτοῦ ἐπί ὑμᾶς .
+Subordinate start οὓς. Matched verb ἀπέλυσεν. Sent with subordinate verbs: ἦσαν δὲ οἱ πάντες ἄνδρες διακόσιοι ἑβδομήκοντα καὶ γυναῖκες τεσσαράκοντα ἐννέα οὓς ἀπέλυσεν ᾿ανδρέας ἐκ τῆς φυλακῆς .
+Subordinate start ἕως. Matched verb ἴδῃ. Sent with subordinate verbs: καὶ ἐλθὼν ἐκαθέσθη ὀπίσω τοῦ στύλου ἐκείνου ἕως ἂν ἴδῃ τί ἔσται τὸ γενόμενον .
+Subordinate start ἵνα. Matched verb ἐκβάλωσιν. Sent with subordinate verbs: καὶ ἐγένετο πορευθῆναι τοὺς δημίους εἰς τὴν φυλακὴν ἵνα ἐκβάλωσιν ἀνθρώπους εἰς βρῶσιν αὐτῶν κατὰ τὴν συνήθειαν .
+Subordinate start ὅτι. Matched verb ηὕρομεν. Sent with subordinate verbs: καὶ εὐθέως ἐπορεύθησαν καὶ ἀπήγγειλαν τοῖς ἄρχουσιν τῆς πόλεως λέγοντες ὅτι τὸ δεσμωτήριον ηὕρομεν ἠνεωγμένον .
+Subordinate start ἵνα. Matched verb καταφάγωμεν. Sent with subordinate verbs: ἵνα κἂν αὐτοὺς καταφάγωμεν ἐν τῇ σήμερον .
+Subordinate start κἂν. Matched verb καταφάγωμεν. Sent with subordinate verbs: ἵνα κἂν αὐτοὺς καταφάγωμεν ἐν τῇ σήμερον .
+Subordinate start ὅπως. Matched verb βάλωσιν. Sent with subordinate verbs: καὶ ἀνέλθωμεν ἐπὶ τὴν αὔριον καὶ ἐπισυνάξωμεν πάντας τοὺς γηραιοὺς τῆς πόλεως ὅπως βάλωσιν κλήρους εἰς ἑαυτοὺς ἕως ἂν ἔλθωσιν οἱ κληροὶ ἑπτά .
+Subordinate start ἕως. Matched verb ἔλθωσιν. Sent with subordinate verbs: καὶ ἀνέλθωμεν ἐπὶ τὴν αὔριον καὶ ἐπισυνάξωμεν πάντας τοὺς γηραιοὺς τῆς πόλεως ὅπως βάλωσιν κλήρους εἰς ἑαυτοὺς ἕως ἂν ἔλθωσιν οἱ κληροὶ ἑπτά .
+Subordinate start ἕως. Matched verb ἐκλεξώμεθα. Sent with subordinate verbs: καὶ ἔσονται ἡμῖν εἰς διατροφὰς ἕως ἂν ἐκλεξώμεθα νεανίσκους καὶ ὁρίσωμεν αὐτοὺς ἐν πλοίοις ὡς ναυτικούς .
+Subordinate start ἵνα. Matched verb ἔσονται. Sent with subordinate verbs: καὶ ἀπελθόντες εἰς τὰς κύκλῳ χώρας καὶ ἐμβαλλόμενοί τινας ἀγάγωσιν ἐνταῦθα ἵνα ἔσονται ἡμῖν εἰς διατροφάς .
+Subordinate start ᾗ. Matched verb ἐσφαγίαζον. Sent with subordinate verbs: καὶ προσέκειτο ἐν τῷ κλιβάνῳ ληνὸς μεγάλη ἐν ᾗ τοὺς ἀνθρώπους ἐσφαγίαζον .
+Subordinate start ἐὰν. Matched verb ἀνενέγκωμεν. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ ὑπηρέται εἶπαν αὐτῷ οὐ δυνησόμεθα λαβεῖν τὸν υἱόν σου ἐὰν μὴ πρῶτον ἀνενέγκωμεν τοῖς μείζοσιν ἡμῶν .
+Subordinate start ὅτι. Matched verb δώῃ. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ ἄρχοντες εἶπαν τοῖς ὑπηρέταις ὅτι ἐὰν δώῃ ὑμῖν τὸν υἱὸν αὐτοῦ ἀντ᾿ αὐτοῦ .
+Subordinate start ἐὰν. Matched verb δώῃ. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ ἄρχοντες εἶπαν τοῖς ὑπηρέταις ὅτι ἐὰν δώῃ ὑμῖν τὸν υἱὸν αὐτοῦ ἀντ᾿ αὐτοῦ .
+Subordinate start ἵνα. Matched verb σφάξωσιν. Sent with subordinate verbs: καὶ παρέδωκεν αὐτοῦ τὰ παιδία τοῖς ὑπηρέταις ἵνα σφάξωσιν αὐτά .
+Subordinate start ὡς. Matched verb ἤγαγον. Sent with subordinate verbs: καὶ ἐγένετο ὡς ἤγαγον αὐτὰ τοῦ σφάξαι .
+Subordinate start ὅτι. Matched verb ὑπήκουσεν. Sent with subordinate verbs: καὶ ἰδὼν ᾿ανδρέας τὸ γενόμενον ἐδόξασεν τὸν κύριον ὅτι ὑπήκουσεν αὐτοῦ ἐν παντὶ ἔργῳ .
+Subordinate start ἵνα. Matched verb δυνηθῆτε. Sent with subordinate verbs: ἵνα τοῦ λοιποῦ δυνηθῆτε τὰς τροφὰς ὑμῶν ἐπισυνάξαι .
+Subordinate start ω. Matched verb ἐχθρότατε. Sent with subordinate verbs: τότε ἀποκριθεὶς ᾿ανδρέας πρὸς τὸν διάβολον εἶπεν ω βελία ἐχθρότατε .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: οὐχ ὅτι τυφλὸς εἶ .
+Subordinate start ἵνα. Matched verb μάθωσιν. Sent with subordinate verbs: ἵνα μάθωσιν τὴν δύναμιν μοῦ καὶ τὴν ἀδυναμίαν τοῦ ἐνεργοῦντος αὐτοῖς διαβόλου .
+Subordinate start ὃν. Matched verb ζητεῖτε. Sent with subordinate verbs: τότε ἀναστὰς ᾿ανδρέας ἐνώπιον πάντων εἶπεν ἰδοὺ ἐγώ εἰμι ᾿ανδρέας ὃν ζητεῖτε .
+Subordinate start α. Matched verb ἐποίησας. Sent with subordinate verbs: ἐπέδραμεν δὲ ἐπ᾿ αὐτὸν οἱ ὄχλοι καὶ ἐκράτησαν αὐτὸν λέγοντες α σὺ ἐποίησας ἡμῖν .
+Subordinate start ὅτι. Matched verb ἄρωμεν. Sent with subordinate verbs: καὶ ἔλεγαν πρὸς ἑαυτοὺς ὅτι ἐὰν ἄρωμεν αὐτοῦ τὴν κεφαλήν .
+Subordinate start ἐὰν. Matched verb ἄρωμεν. Sent with subordinate verbs: καὶ ἔλεγαν πρὸς ἑαυτοὺς ὅτι ἐὰν ἄρωμεν αὐτοῦ τὴν κεφαλήν .
+Subordinate start εἰ. Matched verb καύσωμεν. Sent with subordinate verbs: εἰ δὲ καύσωμεν αὐτόν .
+Subordinate start ὅτι. Matched verb ἐποίησεν. Sent with subordinate verbs: τότε ἀποκριθεὶς εἷς ἐξ αὐτῶν εἰσελθόντος εἰς αὐτὸν τοῦ διαβόλου ἔλεγε τοῖς ὄχλοις ὅτι καθὼς ἐποίησεν ἡμῖν .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: ἐγὼ γὰρ γινώσκω ὅτι οὐκ εἶ μακρὰν ἀπὸ τῶν σῶν δούλων .
+Subordinate start ἵνα. Matched verb λαλῇ. Sent with subordinate verbs: καὶ εὐχομένου αὐτοῦ ὁ διάβολος ὄπισθεν περιεπάτει καὶ τοῖς ὄχλοις ἔλεγε τύπτετε αὐτοῦ τὸ στόμα ἵνα μὴ λαλῇ .
+Subordinate start οὓς. Matched verb ἐξέβαλεν. Sent with subordinate verbs: οὓς ὁ μακάριος ἐξέβαλεν ἐκ τῶν πέριξ χωρῶν .
+Subordinate start ἵνα. Matched verb ἀναχθῶσι. Sent with subordinate verbs: καὶ ἐποίησας τὰ ἐργαστήρια ἡμῶν καὶ τοὺς ναοὺς ἐρήμους γενέσθαι ἵνα μὴ ἀναχθῶσι θυσίαι ἐν αὐτοῖς .
+Subordinate start ἣν. Matched verb ἔδωκεν. Sent with subordinate verbs: ἣν ἔδωκεν αὐτῷ ὁ κύριος .
+Subordinate start ὅτι. Matched verb ἐφύγετε. Sent with subordinate verbs: καὶ ὁ διάβολος λέγει αὐτοῖς τί ὅτι ἐφύγετε ἀπ᾿ αὐτοῦ .
+Subordinate start ὅτι. Matched verb δυνάμεθα. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ δαίμονες εἶπον τῷ διαβόλῳ ὅτι ἡμεῖς οὐ δυνάμεθα αὐτὸν ἀποκτεῖναι .
+Subordinate start εἰ. Matched verb εἶ. Sent with subordinate verbs: άλλὰ εἰ δυνατὸς εἶ σύ .
+Subordinate start ὅτι. Matched verb ἐνετείλατό. Sent with subordinate verbs: καὶ ἀποκριθεὶς ᾿ανδρέας εἶπε κλαίω ὅτι ἐνετείλατό μοι ὁ θεὸς λέγων μακροθύμησον ἐπί αὐτοῖς .
+Subordinate start εἴ. Matched verb ἐστι. Sent with subordinate verbs: καὶ ὁ διάβολος εἶπεν εἴ τί σοί ἐστι δυνατόν .
+Subordinate start ἐὰν. Matched verb ποιήσηται. Sent with subordinate verbs: ἐὰν γὰρ ὁ κύριος ἐπισκοπήν μοι ποιήσηται ἐν τῇ πόλει ταύτῃ .
+Subordinate start ὅσα. Matched verb ἐνεδείξατό. Sent with subordinate verbs: ὅσα ὁ ἐχθρὸς ἐνεδείξατό μοι μετὰ τῶν ἑαυτοῦ δαιμόνων .
+Subordinate start ὅτι. Matched verb ἐποίησας. Sent with subordinate verbs: μνήσθητι ὅτι ἐποίησας τρεῖς ὥρας ἐπὶ τοῦ σταυροῦ καὶ πρὸς τὸν πατέρα ἐβόησας πάτερ μου .
+Subordinate start ἵνα. Matched verb ἐγκατέλιπες. Sent with subordinate verbs: ἵνα τί με ἐγκατέλιπες .
+Subordinate start οὓς. Matched verb ἐλάλησας. Sent with subordinate verbs: οὓς ἐλάλησας πρὸς ἡμᾶς ἐπιστηρίζων ἡμᾶς .
+Subordinate start ὅτε. Matched verb περιεπατήσαμεν. Sent with subordinate verbs: ὅτε περιεπατήσαμεν μετὰ σοῦ .
+Subordinate start ὃν. Matched verb φρίσσει. Sent with subordinate verbs: ὃν φρίσσει ὁ οὐρανὸς καὶ ἡ γῆ .
+Subordinate start οὗ. Matched verb παιδευθῶσιν. Sent with subordinate verbs: μέχρι οὗ παιδευθῶσιν οἱ ἐν τῇ πόλει πάντες .
+Subordinate start ὅτι. Matched verb εἰμὶ. Sent with subordinate verbs: καὶ μὴ εἴπῃς ὅτι λίθος εἰμὶ καὶ οὐκ εἰμὶ ἄξιος αἰνέσαι τὸν κύριον .
+Subordinate start ᾧ. Matched verb ἤλπισα. Sent with subordinate verbs: ἐπί ᾧ ἤλπισα γενέσθαι τὸ σημεῖον τοῦτο ἐν τῇ πόλει ταύτῃ .
+Subordinate start ἵνα. Matched verb δυνηθῇ. Sent with subordinate verbs: καὶ περιτείχισον τὴν πόλιν ἵνα μὴ δυνηθῇ τις ἐκφυγεῖν τοῦ πυρός .
+Subordinate start ὅτι. Matched verb ἐγένοντο. Sent with subordinate verbs: καὶ ἔγνω ὁ ἀπόστολος ὅτι κατώδυνοι ἐγένοντο .
+Subordinate start ὅτι. Matched verb πεισθώσιν. Sent with subordinate verbs: λέγω δέ σοι ὅτι εἰ πεισθώσιν οἱ πολίται τῆς πόλεως ταύτης .
+Subordinate start εἰ. Matched verb πεισθώσιν. Sent with subordinate verbs: λέγω δέ σοι ὅτι εἰ πεισθώσιν οἱ πολίται τῆς πόλεως ταύτης .
+Subordinate start ὅτι. Matched verb ἐποίησάς. Sent with subordinate verbs: ὅτι ἐποίησάς μοι τὴν διακονίαν ταύτην .
+Subordinate start ἃ. Matched verb ἐποιήσαμεν. Sent with subordinate verbs: καὶ μὴ ποιήσεις κατὰ τὴν ἀπιστίαν ἡμῶν καὶ κατά ἃ ἐποιήσαμεν τῷ ἀνδρὶ τούτῳ .
+Subordinate start ἵνα. Matched verb σφάξωσιν. Sent with subordinate verbs: καὶ ἐλθὼν ὁ γέρων ὁ παραδοὺς τὰ παιδία αὐτοῦ ἵνα σφάξωσιν αὐτὰ ἀντ᾿ αὐτοῦ .
+Subordinate start ἃς. Matched verb πεποιήκαμεν. Sent with subordinate verbs: καὶ νῦν ἀποκτενεῖ ἡμᾶς διὰ τὰς θλίψεις ἃς πεποιήκαμεν αὐτῷ .
+Subordinate start ἵνα. Matched verb πιστεύσητε. Sent with subordinate verbs: ἀλλὰ ἐπορεύθησαν ἐκεῖνοι ἵνα ὑμεῖς πιστεύσητε εἰς τὸν κύριον ἡμῶν ἰησοῦν χριστόν .
+Subordinate start ἵνα. Matched verb γνῶτε. Sent with subordinate verbs: λέγων πρὸς αὐτούς στήκετε πρὸς ταῦτα ἵνα γνῶτε τὰ μυστήρια τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ .
+Subordinate start ἵνα. Matched verb κορεσθῶμεν. Sent with subordinate verbs: ποίησον πρὸς ἡμᾶς ὀλίγας ἡμέρας ἵνα κορεσθῶμεν τῆς σῆς πηγῆς .
+Subordinate start ὅτι. Matched verb ποίησον. Sent with subordinate verbs: καὶ οὐκ ἐσπλαγχνίσθης ἐπὶ τοῖς παιδίοις τοῖς ἀκολουθοῦσιν ὄπισθέν σου καὶ τῶν δεομένων ἀνδρῶν ὅτι ποίησον μεθ᾿ ἡμῶν ἡμέρας ὀλίγας .
+Subordinate start ἕως. Matched verb ἐπιστηρίξω. Sent with subordinate verbs: ἕως οὗ ἐπιστηρίξω τὰς ψυχὰς αὐτῶν ἐν τῇ πίστει .
+Subordinate start οὗ. Matched verb ἐπιστηρίξω. Sent with subordinate verbs: ἕως οὗ ἐπιστηρίξω τὰς ψυχὰς αὐτῶν ἐν τῇ πίστει .
+Subordinate start ἅ. Matched verb ἐντέλλομαι. Sent with subordinate verbs: καὶ ποιήσεις ἅ σοι ἐντέλλομαι .
 ============
 MartAndrBonAlt
-Sent with subordinate verbs: ἐπεὶ εἶχεν .
+Subordinate start ἣν. Matched verb ἔμαθον. Sent with subordinate verbs: ἣν ἐγὼ ἔμαθον πεισθεὶς διὰ αὐτῆς νῦν σοὶ καὶ τῷ θεῷ χαίρειν .
+Subordinate start ἵνα. Matched verb ἐνόμιζεν. Sent with subordinate verbs: ἵνα ὡς ἐνόμιζεν ἔτι μᾶλλον αὐτὴν κολάσει .
+Subordinate start ὡς. Matched verb ἤγαγον. Sent with subordinate verbs: ὡς δὲ ἤγαγον αὐτὸν εἰς τὸν τόπον οἱ δήμοι τὸ κελευσθὲν εἰς πέρας ἀγαγεῖν βουλόμενοι .
+Subordinate start ὧν. Matched verb ἐφείσατο. Sent with subordinate verbs: ὧν οὐκ ἐφείσατο .
+Subordinate start ἐπεὶ. Matched verb ἔδειξα. Sent with subordinate verbs: ἐπεὶ ἔδειξα ὑμῖν τί στρατοκλῆς δύναται καὶ τί ὁ μιαρὸς αἰγιάτης .
+Subordinate start εἴ. Matched verb χρῄζει. Sent with subordinate verbs: ἀλλὰ μηδὲ ἀντείπητε εἴ τινος ὅλως χρῄζει ὑμῶν .
+Subordinate start ὃς. Matched verb ἀφειδήσει. Sent with subordinate verbs: ὃς τάχα κἀμοῦ ἀφειδήσει εἰ ἄρα προξυνθείη .
+Subordinate start εἰ. Matched verb προξυνθείη. Sent with subordinate verbs: ὃς τάχα κἀμοῦ ἀφειδήσει εἰ ἄρα προξυνθείη .
+Subordinate start τὸν. Matched verb κέκτισται. Sent with subordinate verbs: ἀκίνητόν σε βούλομαι τοῦ λοιποῦ τὸν νῦν κέκτισται .
+Subordinate start ὅτι. Matched verb ἐτέλεσεν. Sent with subordinate verbs: τύπτεται καὶ ἐρείδεται ὅλως νεκρούμενος ὅτι οὐκ ἐτέλεσεν ὃ ἐνεβάλετο .
+Subordinate start ὃ. Matched verb ἐνεβάλετο. Sent with subordinate verbs: τύπτεται καὶ ἐρείδεται ὅλως νεκρούμενος ὅτι οὐκ ἐτέλεσεν ὃ ἐνεβάλετο .
+Subordinate start μήπως. Matched verb ἀποσφάξῃ. Sent with subordinate verbs: μήπως ἀποκοιμηθέντων ἡμῶν ὡς ἀντίδικος ἀποσφάξῃ ὑμᾶς .
+Subordinate start ὅτι. Matched verb στερισκόμεθα. Sent with subordinate verbs: ἡμᾶς ὁ ἄγγελός σου ποιεῖ πενθεῖν καὶ κλαίειν ὅτι σοῦ στερισκόμεθα .
+Subordinate start ἧς. Matched verb οἴεται. Sent with subordinate verbs: οὐ μὴ γελάσω τέκνον μου στρατόνικε τὴν κενὴν ἐνέδραν τοῦ αἰγεάτου διὰ ἧς οἴεται ἡμᾶς τιμωρεῖσθαι .
+Subordinate start ὅτι. Matched verb ἐσμεν. Sent with subordinate verbs: οὐδέπω πέπισθαι ὅτι ἀλλότριοι αὐτοῦ ἐσμεν καὶ τῶν ἐπιβουλιῶν αὐτοῦ .
+Subordinate start ἐπεὶ. Matched verb εἶχεν. Sent with subordinate verbs: ἐπεὶ εἶχεν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: ἀκοῆν ὅτι τοῦ ἰησοῦ ἄνθρωπος ἀτιμώρητος αὐτῷ ἐστιν .
+Subordinate start ὡς. Matched verb παρέκυψεν. Sent with subordinate verbs: ὡς δὲ παρέκυψεν ὁ αἰγεάτης τὰ πρῶτα τοῦ ὄχλου .
+Subordinate start ἧς. Matched verb παραγίνεται. Sent with subordinate verbs: ἔφθανον οὖν αὐτὸ τοῦτο τῷ ἀποστόλῳ διδόντες καὶ τὴν αἰτίαν διὰ ἧς παραγίνεται ἐπὶ τὸν τόπον .
+Subordinate start ὅτι. Matched verb ἔμελλεν. Sent with subordinate verbs: καὶ ἔχαιρον οἱ ὄχλοι ὅτι ἔμελλεν ὁ ἅγιος λύεσθαι .
+Subordinate start ὅτι. Matched verb συνθήσομαι. Sent with subordinate verbs: οὐδ ’ ἂν ὁ ἀληθῶς ἐπέγνως αἰγεᾶτα ὅτι σοι συνθήσομαι .
+Subordinate start ὡς. Matched verb ἐτόλμα. Sent with subordinate verbs: καὶ ὡς πάλιν αὐτὸς ἐτόλμα προσεγγίσαι τῷ ξύλῳ ὥστε λῦσαι τὸν μακάριον .
+Subordinate start ὃν. Matched verb ἠγάπησα. Sent with subordinate verbs: άλλὰ αὐτὸς ὃν ἠγάπησα .
+Subordinate start ᾧ. Matched verb δοξάζομεν. Sent with subordinate verbs: ἐν ᾧ οἱ προσφυγόντες δοξάζομεν τὸν κύριον ἡμῶν ἰησοῦν χριστόν .
+Subordinate start ᾧ. Matched verb πρέπει. Sent with subordinate verbs: ᾧ πρέπει σοι πᾶσα δόξα καὶ τιμὴ εἰς τοὺς αἰῶνας τῶν αἰώνων .
 ============
 MartAndrBonPrius
-
+Subordinate start ὡς. Matched verb ἐνετείλατο. Sent with subordinate verbs: πάντως μέμνησθε ὡς ἐνετείλατο ἡμῖν λαβοῦσιν τὸ πνεῦμα τὸ ἅγιον διασπαρῆναι εἰς ὅλην τὴν οἰκουμένην κηρύσσοντας μετάνοιαν καὶ ἄφεσιν ἁμαρτιῶν τοῖς πιστεύουσιν εἰς τὸ ὄνομα τὸ ἅγιον αὐτοῦ .
+Subordinate start ὃ. Matched verb προσκέκληται. Sent with subordinate verbs: ἡμεῖς δὲ ὀκνοῦμεν καὶ ῥᾳθυμοῦμεν ἐξελθεῖν ἐπὶ τὸ ἔργον εἰς ὃ προσκέκληται ἡμᾶς καὶ εἰς ὃ ἐξελέξατο ἡμᾶς .
+Subordinate start ὃ. Matched verb ἐξελέξατο. Sent with subordinate verbs: ἡμεῖς δὲ ὀκνοῦμεν καὶ ῥᾳθυμοῦμεν ἐξελθεῖν ἐπὶ τὸ ἔργον εἰς ὃ προσκέκληται ἡμᾶς καὶ εἰς ὃ ἐξελέξατο ἡμᾶς .
+Subordinate start οὗ. Matched verb ποιεῖ. Sent with subordinate verbs: διὰ οὗ σημεῖα ποιεῖ καὶ τέρατα μεγάλα καὶ νόσους θεραπεύει καὶ δαίμονας ἐκβάλλει καὶ νεκροὺς ἐγείρει καὶ λεπροὺς καθαρίζει καὶ πᾶν πάθος θεραπεύει .
+Subordinate start ὃν. Matched verb κηρύττει. Sent with subordinate verbs: τί παθὼν παρὰ τοῦ ξένου ἀνδρὸς κακὸν ἐλογίσω ἔνεδρα καὶ παρελογίσω τὸν θεὸν ὃν κηρύττει .
+Subordinate start ἕως. Matched verb ἐπιγνῷς. Sent with subordinate verbs: καὶ νῦν ἰδοὺ χεὶρ κυρίου αὐτοῦ ἐπὶ σὲ καὶ ἔσῃ παραπλὴξ ἕως οὗ ἐπιγνῷς διὰ αὐτοῦ τὴν ἀλήθειαν .
+Subordinate start οὗ. Matched verb ἐπιγνῷς. Sent with subordinate verbs: καὶ νῦν ἰδοὺ χεὶρ κυρίου αὐτοῦ ἐπὶ σὲ καὶ ἔσῃ παραπλὴξ ἕως οὗ ἐπιγνῷς διὰ αὐτοῦ τὴν ἀλήθειαν .
+Subordinate start ὃς. Matched verb κηρύττει. Sent with subordinate verbs: ἀναζητήσατε ἐν τῇ πόλει ξένον ἄνθρωπον ὀνόματι ἀνδρέαν καλούμενον ὃς κηρύττει ξένον θεόν .
+Subordinate start οὗ. Matched verb δυνήσομαι. Sent with subordinate verbs: διὰ οὗ δυνήσομαι ἐπιγνῶναι τὴν ἀλήθειαν .
+Subordinate start ἵνα. Matched verb ἔσται. Sent with subordinate verbs: ἵνα καὶ αὐτὸς ἔσται τῶν σῶν ἀνθρώπων .
+Subordinate start ἐπειδὴ. Matched verb πεπίστευκας. Sent with subordinate verbs: ἐπειδὴ μεγάλως πεπίστευκας εἰς τὸν ἀποστείλαντά με .
+Subordinate start ὡς. Matched verb ἦν. Sent with subordinate verbs: ὡς δὲ ἐν τούτοις ἦν .
+Subordinate start ὡς. Matched verb παρῴκησεν. Sent with subordinate verbs: ὡς δὲ χρόνος ἱκανὸς παρῴκησεν .
+Subordinate start ὡς. Matched verb ἀπώλεσας. Sent with subordinate verbs: ἀνεδίδαξαν αὐτὸν ὡς ὅτι τοὺς θεοὺς ἀπώλεσας τῆς πόλεως καὶ τοὺς ναοὺς αὐτῶν κατέστρεψας καὶ τὰ ἄλση ἐξέκοψας καὶ ἕνα τινὰ ἐσταυρωμένον ἔπεισας προσκυνεῖν .
+Subordinate start ὅτι. Matched verb ἀπώλεσας. Sent with subordinate verbs: ἀνεδίδαξαν αὐτὸν ὡς ὅτι τοὺς θεοὺς ἀπώλεσας τῆς πόλεως καὶ τοὺς ναοὺς αὐτῶν κατέστρεψας καὶ τὰ ἄλση ἐξέκοψας καὶ ἕνα τινὰ ἐσταυρωμένον ἔπεισας προσκυνεῖν .
+Subordinate start ὡς. Matched verb ηὔχετο. Sent with subordinate verbs: καὶ ὡς ἔτι τὴν εὐχὴν ηὔχετο .
+Subordinate start μήποτε. Matched verb διαχειρίσηται. Sent with subordinate verbs: ταῦτα αὐτῶν βοώντων φοβηθεὶς ὁ μακάριος ἀπόστολος μήποτε τὸ πλῆθος τῆς πόλεως διαχειρίσηται τοὺς ἀποσταλέντας παρὰ τοῦ μιαροῦ αἰγεάτου .
+Subordinate start ὃς. Matched verb διῆλθεν. Sent with subordinate verbs: μέγας ὁ θεὸς τοῦ ξένου ἀνθρώπου ὃς διῆλθεν διὰ τοῦ δούλου αὐτοῦ εὐεργετῶν πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου .
+Subordinate start ἵνα. Matched verb πιστεύσητε. Sent with subordinate verbs: οὐ τοῦτο μόνον χάρις ἐστὶν ἵνα εἰς τὸν ἀποστείλαντά με πιστεύσητε .
+Subordinate start ἵνα. Matched verb ἀποθάνητε. Sent with subordinate verbs: άλλὰ ἵνα καὶ ὑπὲρ αὐτοῦ ἀποθάνητε .
+Subordinate start ᾧ. Matched verb πέποιθα. Sent with subordinate verbs: ᾧ πέποιθα .
+Subordinate start οὗ. Matched verb ῥέριπται. Sent with subordinate verbs: διὰ οὗ τὸ μὲν στῖφος τῶν δαιμόνων εἰς ἄβυσσον ῥέριπται .
+Subordinate start ἵνα. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἵνα ἐὰν ἀκούσας εἰς αὐτὸν πιστεύσῃς σωθήσει .
+Subordinate start ἐὰν. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἵνα ἐὰν ἀκούσας εἰς αὐτὸν πιστεύσῃς σωθήσει .
+Subordinate start εἰ. Matched verb ἀνανεύσεις. Sent with subordinate verbs: εἰ δὲ ἀπιστήσας ἀνανεύσεις κατακριθήσει μετὰ τῶν λεγομένων θεῶν σου .
+Subordinate start ὅτι. Matched verb ἐκόσμησας. Sent with subordinate verbs: καλὸς εἶ ἰησοῦ χριστὲ ὅτι ἐκόσμησας ἡμᾶς τῷ σῷ ὅπλῳ καὶ ἐστεφάνωσας ἡμᾶς τῇ σῇ χάριτι .
+Subordinate start ἵνα. Matched verb αἰνέσῃ. Sent with subordinate verbs: ἵνα ἡ ψυχή μου μετὰ ἀγγέλων χορεύουσα αἰνέσῃ σε .
+Subordinate start ὡς. Matched verb ἦλθεν. Sent with subordinate verbs: ὡς δὲ ἦλθεν ἐπὶ τὸν σταυρόν .
+Subordinate start ὡς. Matched verb ἦλθεν. Sent with subordinate verbs: ὡς δὲ ἦλθεν ἐπὶ τὸν τόπον .
+Subordinate start ὃν. Matched verb ἐπίσταμαι. Sent with subordinate verbs: ἧκον ἐπὶ σὲ ὃν ἐπίσταμαι ἴδιόν μου .
+Subordinate start ἵνα. Matched verb στηρίξῃς. Sent with subordinate verbs: πέπηξαι γὰρ ἐν τῷ κόσμῳ ἵνα τὰ ἄστατα στηρίξῃς .
+Subordinate start ἵνα. Matched verb σημαίνῃς. Sent with subordinate verbs: καὶ τὸ μέν σου εἰς οὐρανοὺς ἀνατείνεται ἵνα τὸν ἄνθρωπον λόγον σημαίνῃς .
+Subordinate start ἵνα. Matched verb τροπώσῃ. Sent with subordinate verbs: τὸ δέ σου ἥπλωτο δεξιᾷ καὶ ἀριστερᾷ ἵνα τὴν φοβερὰν καὶ ἀντικειμένην δύναμιν τροπώσῃ καὶ τὸν κόσμον συναγάγῃ εἰς ἕν .
+Subordinate start ἵνα. Matched verb συνάψῃς. Sent with subordinate verbs: τὸ δέ σου πέπηκται εἰς γῆν ἵνα τὰ εἰς γῆν καὶ τὰ ἐν τοῖς καταχθονίοις συνάψῃς τοῖς ἐπουρανίοις .
+Subordinate start ἵνα. Matched verb ζωοποιηθῶ. Sent with subordinate verbs: ἵνα ἐν τῷ σταυρῷ ζωοποιηθῶ .
+Subordinate start ὅτι. Matched verb ζῇ. Sent with subordinate verbs: καὶ ὁ αἰγεάτης ἀκούσας ὅτι ἔτι ζῇ ἐθαύμασεν καὶ δρομαῖος ὥρμα πρὸς αὐτόν .
+Subordinate start ὡς. Matched verb εἶδεν. Sent with subordinate verbs: καὶ ὡς εἶδεν ὁ ἀπόστολος ἑστῶτα αὐτὸν ἄντικρυς αὐτοῦ .
+Subordinate start ἵνα. Matched verb σωθῶσιν. Sent with subordinate verbs: ἵνα διὰ ἐμοῦ οἱ πιστεύοντες σωθῶσιν καὶ γένωμαι κἀ γὼ μάρτυς ἀληθὴς τῆς σῆς θεότητος .
 ============
 PAndr2
-Sent with subordinate verbs: καὶ μᾶλλον ὤφειλον εὔξασθαι ἐντυχεῖν τῷ τροπαίῳ τοῦ σταυροῦ ἤπερ δειλιᾶσαι .
-Sent with subordinate verbs: ἐπεὶ εἰ εἶχεν .
+Subordinate start ἅπερ. Matched verb ἐθεασάμεθα. Sent with subordinate verbs: ἅπερ τοῖς ὀφθαλμοῖς ἡμῶν ἐθεασάμεθα πάντες οἵ τε πρεσβύτεροι καὶ διάκονοι τῶν ἐκκλησιῶν τῆς ᾿αχαΐας .
+Subordinate start ὅπως. Matched verb δειχθῇ. Sent with subordinate verbs: ὅπως δειχθῇ ἓν πνεῦμα ἅγιον τὸ ἐν τῷ πατρὶ καὶ υἱῷ ὑπάρχον ἐν θεότητι τιμία .
+Subordinate start ὅσον. Matched verb ἔχομεν. Sent with subordinate verbs: οὗτινος καὶ τὴν πάθησιν κατενώπιον ἡμῶν προκειμένην έωρακότες κατά ὅσον δυνάμεως ἔχομεν ἀναγράψασθαι οὐκ ὠκνήσαμεν .
+Subordinate start ὃν. Matched verb εἶπεν. Sent with subordinate verbs: πρὸς ὃν ὁ αἰγεάτης εἶπεν σὺ εἶ ᾿ανδρέας ὁ καταλύων τοὺς ναοὺς τῶν θεῶν καὶ ἀναπείθων τοὺς ἀνθρώπους περὶ τὴν θρησκίαν ἥνπερ ἔναγχος φανεῖσαν οἱ ῾ρωμαίων βασιλεῖς ἐξαφανίσαι ἐκέλευσαν .
+Subordinate start ἥνπερ. Matched verb ἐκέλευσαν. Sent with subordinate verbs: πρὸς ὃν ὁ αἰγεάτης εἶπεν σὺ εἶ ᾿ανδρέας ὁ καταλύων τοὺς ναοὺς τῶν θεῶν καὶ ἀναπείθων τοὺς ἀνθρώπους περὶ τὴν θρησκίαν ἥνπερ ἔναγχος φανεῖσαν οἱ ῾ρωμαίων βασιλεῖς ἐξαφανίσαι ἐκέλευσαν .
+Subordinate start εἰ. Matched verb βούλει. Sent with subordinate verbs: ὁ μακάριος ανδρέας ἀποκριθεὶς εἶπεν ω εἰ βούλει ἐπιγνῶναι τὸ μυστήριον τοῦ σταυροῦ .
+Subordinate start ἐπειδὴ. Matched verb ἤμην. Sent with subordinate verbs: ὁ ἅγιος ανδρέας εἶπεν διὰ τοῦτο ἐγὼ λέγω ἑκουσίως ἐπειδὴ σὺν αὐτῷ ἤμην ἐν τῷ παραδίδοσθαι αὐτὸν παρὰ τοῦ αὐτοῦ μαθητοῦ .
+Subordinate start πρὶν. Matched verb παραδοθῇ. Sent with subordinate verbs: πρὶν γὰρ παραδοθῇ εἶπεν ἡμῖν ὡς οἷα παραδοθήσεται καὶ σταυρωθήσεται ὑπὲρ τῆς τῶν ἀνθρώπων σωτηρίας .
+Subordinate start ὡς. Matched verb παραδοθήσεται. Sent with subordinate verbs: πρὶν γὰρ παραδοθῇ εἶπεν ἡμῖν ὡς οἷα παραδοθήσεται καὶ σταυρωθήσεται ὑπὲρ τῆς τῶν ἀνθρώπων σωτηρίας .
+Subordinate start οἷα. Matched verb παραδοθήσεται. Sent with subordinate verbs: πρὶν γὰρ παραδοθῇ εἶπεν ἡμῖν ὡς οἷα παραδοθήσεται καὶ σταυρωθήσεται ὑπὲρ τῆς τῶν ἀνθρώπων σωτηρίας .
+Subordinate start ὃν. Matched verb λελεχεν. Sent with subordinate verbs: πρὸς ὃν ὁ ἐμὸς ἀδελφὸς πέτρος λελεχεν ιλεός σοι ἔσται .
+Subordinate start ἵνα. Matched verb ἐξαρτίσει. Sent with subordinate verbs: καὶ ἵνα πληρέστατα ἐξαρτίσει ὅτι ἑκουσίως τὸ πάθος ἀνεδέξατο .
+Subordinate start ὅτι. Matched verb ἀνεδέξατο. Sent with subordinate verbs: καὶ ἵνα πληρέστατα ἐξαρτίσει ὅτι ἑκουσίως τὸ πάθος ἀνεδέξατο .
+Subordinate start ὅτι. Matched verb παραδώσει. Sent with subordinate verbs: ἔσχατον δὲ ἐν τῷ δειπνῆσαι αὐτὸν μεθ᾿ ἡμῶν εἶπεν ὅτι εἷς ἐξ ὑμῶν παραδώσει με .
+Subordinate start ἵνα. Matched verb γένηται. Sent with subordinate verbs: ἵνα ἡ ὑποψία ἀναμφίβολος γένηται .
+Subordinate start ὡς. Matched verb ἐδίδαξεν. Sent with subordinate verbs: ἐν τῷ οὖν ἐπιδοῦναι ἑνὶ τῶν συμμαθητῶν ἡμῶν καὶ τὰ μέλλοντα ὡς ἤδη παροχηκότα διηγησαμένου ἐδίδαξεν ἑκουσίως ἑαυτὸν παραδοθησόμενον .
+Subordinate start ᾧ. Matched verb ἐγίνωσκεν. Sent with subordinate verbs: άλλὰ ἐν τῷ τόπῳ ἐν ᾧ αὐτὸν ἐγίνωσκεν εἶναι παραγενόμενος διέμεινεν .
+Subordinate start ὅπερ. Matched verb λέλεχα. Sent with subordinate verbs: ὁ μακάριος ανδρέας εἶπεν τοῦτό ἐστιν ὅπερ λέλεχα .
+Subordinate start εἰ. Matched verb κατέχεις. Sent with subordinate verbs: εἰ ἤδη κατέχεις .
+Subordinate start ὅτι. Matched verb ἐστὶν. Sent with subordinate verbs: ὅτι μέγα ἐστὶν τὸ μυστήριον τοῦ σταυροῦ .
+Subordinate start ὅπερ. Matched verb θέλεις. Sent with subordinate verbs: ὅπερ εἰ θέλεις ὡς εἰκὸς ἀκοῦσαι .
+Subordinate start εἰ. Matched verb θέλεις. Sent with subordinate verbs: ὅπερ εἰ θέλεις ὡς εἰκὸς ἀκοῦσαι .
+Subordinate start εἰ. Matched verb ἀκούσῃ. Sent with subordinate verbs: εἰ σοφωτέρως ἀκούσῃ .
+Subordinate start εἰ. Matched verb ὑπακούσῃς. Sent with subordinate verbs: σὺ δὲ εἰ μὴ ἐμοὶ πειθαρχῶν ὑπακούσῃς .
+Subordinate start ἵνα. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἵνα ἴσως ἐπιγινώσκων πιστεύσῃς .
+Subordinate start ὅπερ. Matched verb διδάσκεται. Sent with subordinate verbs: ο αιγεάτης εἶπεν εἰς ἀνανέωσιν τοῦτο ὅπερ ἀπόλλυσθαι διδάσκεται .
+Subordinate start ἵνα. Matched verb ποιεῖς. Sent with subordinate verbs: μήτιγε ἡ ψυχή μου ἀπόλλυται ἵνα πρὸς τὴν αὐτῆς με ανανέωσιν ποιεῖς ἐλθεῖν διὰ τῆς οὐκ οἶδα ποίας πίστεως ἧς σὺ ἔφης .
+Subordinate start τῆς. Matched verb οἶδα. Sent with subordinate verbs: μήτιγε ἡ ψυχή μου ἀπόλλυται ἵνα πρὸς τὴν αὐτῆς με ανανέωσιν ποιεῖς ἐλθεῖν διὰ τῆς οὐκ οἶδα ποίας πίστεως ἧς σὺ ἔφης .
+Subordinate start ἧς. Matched verb ἔφης. Sent with subordinate verbs: μήτιγε ἡ ψυχή μου ἀπόλλυται ἵνα πρὸς τὴν αὐτῆς με ανανέωσιν ποιεῖς ἐλθεῖν διὰ τῆς οὐκ οἶδα ποίας πίστεως ἧς σὺ ἔφης .
+Subordinate start ὅπερ. Matched verb ἐπεθύμουν. Sent with subordinate verbs: ὁ μακάριος ανδρέας ἀπεκρίνατο τοῦτό ἐστιν ὅπερ σε μαθεῖν ἐπεθύμουν .
+Subordinate start ὃ. Matched verb φανερώσω. Sent with subordinate verbs: ὃ καὶ διδάξας φανερώσω ὅτι ἐν τῷ ἀπολέσθαι τὰς ψυχὰς τῶν ἀνθρώπων διὰ τὸ μυστήριον τοῦ σταυροῦ ἀνακαινισθήσονται .
+Subordinate start ὅτι. Matched verb ἀνακαινισθήσονται. Sent with subordinate verbs: ὃ καὶ διδάξας φανερώσω ὅτι ἐν τῷ ἀπολέσθαι τὰς ψυχὰς τῶν ἀνθρώπων διὰ τὸ μυστήριον τοῦ σταυροῦ ἀνακαινισθήσονται .
+Subordinate start ἵνα. Matched verb ἐξωσθῇ. Sent with subordinate verbs: καὶ χρεία ἦν τοῦτο τῷ ἀνθρωπίνῳ γένει ἵνα διὰ τῆς τοῦ ξύλου παθήσεως ὁ θάνατος ἐξωσθῇ ὁ εἰς τὸν κόσμον εἰσεληλυθώς .
+Subordinate start ἐπειδὴ. Matched verb ἐγεγόνει. Sent with subordinate verbs: καὶ ἐπειδὴ ἐκ τῆς ἀμωμήτου γῆς ἐγεγόνει ὁ πρῶτος ἄνθρωπος ὁ διὰ τῆς τοῦ ξύλου παραβάσεως τὸν θάνατον εἰς τὸν κόσμον εἰσαγαγών .
+Subordinate start ἵνα. Matched verb γεννηθῇ. Sent with subordinate verbs: ἀναγκαῖον ὑπῆρχεν ἵνα ἐκ τῆς ἀμωμήτου παρθένου ὁ τοῦ θεοῦ υἱὸς τέλειος ἄνθρωπος γεννηθῇ .
+Subordinate start ἥνπερ. Matched verb ἀπολωλέκεισαν. Sent with subordinate verbs: ζωὴν αἰώνιον ἥνπερ ἀπολωλέκεισαν οἱ ἄνθρωποι διὰ τοῦ αδὰμ αὐτὸς ἀνακαινουργήσῃ καὶ διὰ τοῦ ξύλου τοῦ σταυροῦ τὸ ξύλον τῆς ἐπιθυμίας ἀποκλείσῃ .
+Subordinate start οἵτινές. Matched verb πιστεύσουσιν. Sent with subordinate verbs: ὁ αἰγεάτης εἶπεν ταῦτα τὰ ῥήματα ἐκείνοις ἀφηγεῖσθαι δονήσει οἵτινές σοι πιστεύσουσιν .
+Subordinate start εἰ. Matched verb ἔλθῃς. Sent with subordinate verbs: ἐμοὶ δὲ εἰ μὴ τοῦτο συναινέσαι ἔλθῃς ὅπως τοῖς παντοδυνάμοις θεοῖς τὰς θυσίας προσενέγκῃς .
+Subordinate start ὅπως. Matched verb προσενέγκῃς. Sent with subordinate verbs: ἐμοὶ δὲ εἰ μὴ τοῦτο συναινέσαι ἔλθῃς ὅπως τοῖς παντοδυνάμοις θεοῖς τὰς θυσίας προσενέγκῃς .
+Subordinate start εἰ. Matched verb βούλει. Sent with subordinate verbs: ο μακάριος ᾿ανδρέας εἶπεν εἰ βούλει γνῶναι .
+Subordinate start ὅπως. Matched verb δυνήσει. Sent with subordinate verbs: ἀνάλαβε μορφὴν μαθητοῦ ὅπως δυνήσει μαθεῖν ὅπερ ἐπεζήτεις .
+Subordinate start ὅπερ. Matched verb ἐπεζήτεις. Sent with subordinate verbs: ἀνάλαβε μορφὴν μαθητοῦ ὅπως δυνήσει μαθεῖν ὅπερ ἐπεζήτεις .
+Subordinate start ἵνα. Matched verb δυνηθῇς. Sent with subordinate verbs: ὁ μακάριος ανδρέας ἀπεφήνατο θαυμάζω σε ἄνδρα φρόνιμον ὄντα εἰς τοσαύτην μωρίαν προσκυλινδούμενον ἵνα δυνηθῇς με διὰ τῶν βασάνων σου πεῖσαι τὰ θεῖα σοι ἐκφάναι ἱερουργήματα .
+Subordinate start εἰ. Matched verb πιστεύεις. Sent with subordinate verbs: εἰ πιστεύεις εἰς χριστὸν τὸν υἱὸν τοῦ θεοῦ τὸν σταυρωθέντα .
+Subordinate start εἰ. Matched verb πιστεύεις. Sent with subordinate verbs: ὁ μακάριος ανδρέας εἶπεν εἰ πιστεύεις ἐξ ὅλης σου τῆς καρδίας .
+Subordinate start εἰ. Matched verb πιστεύεις. Sent with subordinate verbs: εἰ δὲ μὴ πιστεύεις .
+Subordinate start οὓς. Matched verb ἐνουθέτησεν. Sent with subordinate verbs: οὓς ὁ μακάριος ᾿ανδρέας τοιούτοις ρήμασιν ἐνουθέτησεν λέγων μὴ θελήσητε τὴν ἡσυχίαν τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ εἰς στασιώδη καὶ διαβολικὴν ταραχὴν ἐξεγείραι .
+Subordinate start μὴ. Matched verb ἐμποδίσητε. Sent with subordinate verbs: καὶ μὴ τὸ ἐμὸν μαρτύριον ἐμποδίσητε .
+Subordinate start ὅπως. Matched verb νικήσητε. Sent with subordinate verbs: ὅπως τὰς ἀπειλὰς ἀδειλάνδρῳ τῇ ψυχῇ νικήσητε .
+Subordinate start ὅστις. Matched verb διεγείρεται. Sent with subordinate verbs: ὅστις ἐν ὅσῳ ἀθρόον διεγείρεται .
+Subordinate start ὅσῳ. Matched verb διεγείρεται. Sent with subordinate verbs: ὅστις ἐν ὅσῳ ἀθρόον διεγείρεται .
+Subordinate start εἰ. Matched verb εἰσιν. Sent with subordinate verbs: εἰ δὲ βαρεῖαί εἰσιν .
+Subordinate start ἃς. Matched verb δέδοικεν. Sent with subordinate verbs: πρὸς ἃς ὁ ἀνθύπατος αἰγεάτης ἀπιέναι οὐ δέδοικεν .
+Subordinate start ὅπως. Matched verb δυνήσῃ. Sent with subordinate verbs: ὅπως δυνήσῃ μεθ᾿ ἡμῶν εἶναι καὶ μὴ ἀποβάλλεσθαι τὰ τοῦ βίου χαρίεντα .
+Subordinate start ἐὰν. Matched verb πιστεύσῃς. Sent with subordinate verbs: ὁ ἅγιος ανδρέας ἀπεκρίθη τὴν χαρὰν μετὰ σοῦ σχεῖν δυνήσομαι ἐὰν πιστεύσῃς τῷ χριστῷ καὶ ἀποβάλῃς τὴν τῶν εἰδώλων θρησκίαν .
+Subordinate start ἣν. Matched verb περιεποιησάμην. Sent with subordinate verbs: εἰς ἣν οὐκ ἐλάχιστον δῆμον τῷ χριστῷ περιεποιησάμην .
+Subordinate start ὅπως. Matched verb ἐγκαταλείψουσιν. Sent with subordinate verbs: ὅπως οὗτοι οἱ ὑπὸ σοῦ ἀπατηθέντες λαοὶ ἐγκαταλείψουσιν τὴν ματαιό τητα τῆς σῆς διδασκαλίας καὶ αὐτοὶ προσκομίσωσιν τοῖς θεοῖς χαρίεντας σπονδάς .
+Subordinate start ᾗ. Matched verb ἐγκατελείφθησαν. Sent with subordinate verbs: οὐδὲ γὰρ μία πόλις ἀπέμεινεν ἐν τῇ ᾿αχαΐα ἐν ᾗ τὰ ἱερὰ αὐτῶν οὐκ ἐγκατελείφθησαν καὶ ἠρήμωνται .
+Subordinate start ἵνα. Matched verb δυνηθῇς. Sent with subordinate verbs: ὅπως καὶ οἱ θεοὶ οἱ κατὰ σοῦ θυμούμενοι ἐπὶ τούτῳ ἀρεσθέντες ποιήσωσιν ἵνα καὶ εἰς τὴν αὐτῶν καὶ εἰς τὴν ἡμετέραν φιλίαν δυνηθῇς ἐπανακάμψαι .
+Subordinate start ᾧ. Matched verb ἐπαινεῖς. Sent with subordinate verbs: καὶ μετὰ ταῦτα τῷ τοῦ σταυροῦ ξύλω ᾧ ἐπαινεῖς ἀναρτηθεὶς ἐκλείψεις .
+Subordinate start ἐπειδὰν. Matched verb μένεις. Sent with subordinate verbs: ἐπειδὰν δὲ τῇ ἀναιδίᾳ τῇ αὐτῇ μένεις διατελῶν καὶ ἐμὲ οἴει διὰ τῶν ἀπειλῶν σου ἐκφοβεῖν .
+Subordinate start εἴ. Matched verb δοκεῖ. Sent with subordinate verbs: εἴ τί σοι δοκεῖ ἐν κολαστηρίοις μείζον ὑπάρχειν .
+Subordinate start ὅσον. Matched verb διακαρτερήσω. Sent with subordinate verbs: ὅσον ὑπὲρ τῆς τοῦ ὀνόματος αὐτοῦ ὁμολογίας ἐν ταῖς βασάνοις διακαρτερήσω .
+Subordinate start ὃν. Matched verb διελέχθη. Sent with subordinate verbs: πρὸς ὃν διελέχθη οὕτως ακουσόν μου .
+Subordinate start εἰ. Matched verb βούλει. Sent with subordinate verbs: εἰ δὲ οὐ βούλει μοι ὑπακοῦσαι .
+Subordinate start ἤπερ. Matched verb δειλιᾶσαι. Sent with subordinate verbs: καὶ μᾶλλον ὤφειλον εὔξασθαι ἐντυχεῖν τῷ τροπαίῳ τοῦ σταυροῦ ἤπερ δειλιᾶσαι .
+Subordinate start ἥνπερ. Matched verb δυνήσει. Sent with subordinate verbs: ἥνπερ καὶ ἐκφυγεῖν δυνήσει μετὰ τὸ δοκιμάσαι σε τὴν ὑπομονήν μου .
+Subordinate start ἐὰν. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἐὰν πιστεύσῃς τῷ χριστῷ μου .
+Subordinate start πρὶν. Matched verb ἐσχήκεις. Sent with subordinate verbs: καὶ μὴν πρὶν ἢ εἰς σὲ ἀνελθεῖν τὸν κύριόν μου πολὺν φόβον ἐπίγειον ἐσχήκεις .
+Subordinate start ὅπως. Matched verb ὑποδέξῃ. Sent with subordinate verbs: ὅπως καὶ σὺ ἀγαλλιώμενος ὑποδέξῃ με τὸν μαθητὴν τοῦ κρεμασθέντος εἰς σέ .
+Subordinate start ἵνα. Matched verb ἀπολάβῃ. Sent with subordinate verbs: ἵνα διὰ σοῦ ἀπολάβῃ με ὁ διὰ σοῦ με λυτρωσάμενος .
+Subordinate start οἵτινες. Matched verb ἐκούφισαν. Sent with subordinate verbs: οἵτινες προσελθόντες ἐκούφισαν αὐτὸν ἐν τῷ σταυρῷ καὶ διατείναντες τοῖς σχοινίοις τὸ σῶμα αὐτοῦ μόνον ἀπέδησαν τοὺς πόδας αὐτοῦ .
+Subordinate start ὧν. Matched verb πάσχουσιν. Sent with subordinate verbs: καὶ θεασάμενοι τους δημίους ἀποστάντας καὶ μηδὲν πεποιηκότας περὶ τὸν μακάριον ὧν οἱ ἀνακρεμάμενοι πάσχουσιν .
+Subordinate start ἧς. Matched verb οἴεται. Sent with subordinate verbs: διὰ ἧς οἴεται ἡμᾶς τιμωρεῖσθαι .
+Subordinate start ἐπεὶ. Matched verb εἶχεν. Sent with subordinate verbs: ἐπεὶ εἰ εἶχεν .
+Subordinate start εἰ. Matched verb εἶχεν. Sent with subordinate verbs: ἐπεὶ εἰ εἶχεν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: συνῆκεν ἂν ὅτι τοῦ ἰησοῦ ἄνθρωπος ἀτιμώρητός ἐστιν .
+Subordinate start ὅσοι. Matched verb μέλλετε. Sent with subordinate verbs: καὶ ὅσοι μέλλετε .
+Subordinate start ὧν. Matched verb εἰρήκει. Sent with subordinate verbs: καὶ ὁ μακάριος ᾿ανδρέας μᾶλλον προσετίθει τοῦ λέγειν πρὸς αὐτοὺς πλείονα ὧν εἰρήκει .
+Subordinate start ὡς. Matched verb ἐθεάσαντο. Sent with subordinate verbs: ὡς δὲ καὶ τῇ τετάρτῃ ἡμέρᾳ τὸ γενναῖον αὐτοῦ ἐθεάσαντο .
+Subordinate start ὅτι. Matched verb παύεται. Sent with subordinate verbs: ὅτι κρεμάμενος τὴν ἀλήθειαν κηρύττειν οὐ παύεται .
+Subordinate start μή. Matched verb πάθοι. Sent with subordinate verbs: δεδοικώς μή τι δεινὸν πάθοι .
+Subordinate start ἣν. Matched verb παραγίνονται. Sent with subordinate verbs: καὶ τὴν αἰτίαν διὰ ἣν ἐπὶ τὸν τόπον παραγίνονται .
+Subordinate start ὅτι. Matched verb ἤμελλεν. Sent with subordinate verbs: παντὸς οὖν τοῦ ὄχλου ἀγαλλιωμένου ὅτι ἤμελλεν ὁ μακάριος ᾿ανδρέας ἀπολύεσθαι .
+Subordinate start α. Matched verb δεῖ. Sent with subordinate verbs: ὁ μακάριος ᾿ανδρέας ταῦτα ἀκούσας εἶπεν τοῖς παρεστῶσιν ἀδελφοῖς α δεῖ με πρὸς αὐτὸν εἰπεῖν .
+Subordinate start ἄν. Matched verb συνθήσομαι. Sent with subordinate verbs: οὐδ᾽ ἄν σοι συνθήσομαι .
+Subordinate start ἄν. Matched verb πιστεύσω. Sent with subordinate verbs: οὐδ᾽ ἄν σοι πιστεύσω .
+Subordinate start ᾧ. Matched verb συνέσομαι. Sent with subordinate verbs: ἔχω γὰρ ᾧ συνέσομαι εἰς τὸ διηνεκές .
+Subordinate start ᾧ. Matched verb συμπολιτεύσομαι. Sent with subordinate verbs: ἔχω ᾧ συμπολιτεύσομαι εἰς ἀναριθμήτους αἰῶνας .
+Subordinate start μή. Matched verb ἐκφοβείτω. Sent with subordinate verbs: τὸν καὶ σέ μοι γνωρίσαντα τὸν εἰρηκότα μοι μή σε ἐκφοβείτω ὁ δεινὸς ἐκεῖνος .
+Subordinate start εἰ. Matched verb βούλει. Sent with subordinate verbs: εἰ δὲ καὶ βούλει πιστεῦσαι τῷ χριστῷ .
+Subordinate start εἰ. Matched verb ἐλήλυθας. Sent with subordinate verbs: εἰ δὲ πρὸς τὸ λύσαί με μόνον ἐλήλυθας .
+Subordinate start ὅσῳ. Matched verb δύνασαι. Sent with subordinate verbs: ἐν ὅσῳ ἔτι δύνασαι .
+Subordinate start ἵνα. Matched verb ποιήσω. Sent with subordinate verbs: ἵνα πρῶτον πρὸς τὸν κύριόν μου μίαν εὐχὴν ποιήσω .
+Subordinate start ἵνα. Matched verb ἀποδοθῇ. Sent with subordinate verbs: καιρὸς γάρ ἐστιν ἵνα ἀποδοθῇ τῇ γῇ τὸ σῶμά μου .
+Subordinate start ὃν. Matched verb ἠγάπησα. Sent with subordinate verbs: σὺ ὁ διδάσκαλός μου ὃν ἠγάπησα .
+Subordinate start ὃν. Matched verb καθομολογῶ. Sent with subordinate verbs: ὃν ἐν τούτῳ τῷ σταυρῷ καθομολογῶ .
+Subordinate start ὃν. Matched verb οἶδα. Sent with subordinate verbs: ὃν οἶδα .
+Subordinate start ὃν. Matched verb ἔχω. Sent with subordinate verbs: ὃν ἔχω .
+Subordinate start πρὶν. Matched verb καταβῇ. Sent with subordinate verbs: καὶ πρὶν ἢ τὸ σῶμά μου ἀπὸ τοῦ σταυροῦ καταβῇ προσλαβοῦ με πρὸς σέ .
+Subordinate start ὡς. Matched verb ἔμαθεν. Sent with subordinate verbs: παραυτίκα ὡς ἔμαθεν τὸν ἀπόστολον πρὸς κύριον πορευθέντα .
+Subordinate start ὅπως. Matched verb θάψωσιν. Sent with subordinate verbs: καὶ ἀπέστειλεν τοὺς παῖδας αὐτοῦ εἰρηκὼς αὐτοῖς ὅπως μεταξὺ τῶν βιοθανάτων αὐτὸν θάψωσιν .
+Subordinate start ἵνα. Matched verb ἅψομαι. Sent with subordinate verbs: ἵνα ἐγὼ ἐκ τῶν ἀγαθῶν τοῦ ἀδελφοῦ μου τί ποτε ἅψομαι .
+Subordinate start ἵνα. Matched verb μολύνῃ. Sent with subordinate verbs: ἵνα μὴ μολύνῃ μὲ τὸ κατάκριμα αὐτοῦ .
+Subordinate start ὅστις. Matched verb ἐτόλμησεν. Sent with subordinate verbs: ὅστις τὸν ἀπόστολον τοῦ κυρίου ἐτόλμησεν ἀνελεῖν .
 ============
 AndrMattBon
-Sent with subordinate verbs: άλλὰ εἰ δύνασαι .
-Sent with subordinate verbs: ἀλλὰ ταῦτά σοι ἐποίησα ὅτι εἶπας .
+Subordinate start ὅπως. Matched verb ἀπέλθῃ. Sent with subordinate verbs: βάλλοντες κλήρους ὅπως ἀπέλθῃ ἕκαστος εἰς τὸ λαχὸν αὐτοῦ μέρος .
+Subordinate start ὃς. Matched verb ἀπήρχετο. Sent with subordinate verbs: πᾶς οὖν ἄνθρωπος ὃς ἀπήρχετο ἐν τῇ πόλει αὐτῶν .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: γινώσκοντες ὅτι σὺ εἶ βοηθὸς πάντων τῶν ἐλπιζόντων ἐπὶ σέ .
+Subordinate start ἃ. Matched verb ἐποίησαν. Sent with subordinate verbs: πρόσσχες οὖν καὶ θέασαι ἃ ἐποίησαν ματθείᾳ τῷ δούλῳ σου .
+Subordinate start εἰ. Matched verb ὥρισάς. Sent with subordinate verbs: εἰ οὖν ὥρισάς με ἵνα καταφάγωσίν με οἱ ἐν τῇ πόλει ταύτῃ ἄνθρωποι ἄνομοι .
+Subordinate start ἵνα. Matched verb καταφάγωσίν. Sent with subordinate verbs: εἰ οὖν ὥρισάς με ἵνα καταφάγωσίν με οἱ ἐν τῇ πόλει ταύτῃ ἄνθρωποι ἄνομοι .
+Subordinate start ἵνα. Matched verb θεάσωμαι. Sent with subordinate verbs: ἵνα κἂν θεάσωμαι ἃ ἐπιχειροῦσίν μοι οἱ ἐν τῇ πόλει ταύτῃ ἄνομοι ἄνδρες .
+Subordinate start ἃ. Matched verb ἐπιχειροῦσίν. Sent with subordinate verbs: ἵνα κἂν θεάσωμαι ἃ ἐπιχειροῦσίν μοι οἱ ἐν τῇ πόλει ταύτῃ ἄνομοι ἄνδρες .
+Subordinate start ἵνα. Matched verb ἐξενέγκωσιν. Sent with subordinate verbs: καὶ ἐγένετο ἐν τῷ εἰσέρχεσθαι τοὺς δημίους εἰς τὴν φυλακὴν ἵνα ἐξενέγκωσιν τοὺς ἀνθρώπους εἰς βρῶσιν αὐτῶν .
+Subordinate start ὅπως. Matched verb θεωρήσωσιν. Sent with subordinate verbs: ὅπως μὴ θεωρήσωσιν αὐτὸν βλέποντα .
+Subordinate start ἐπειδὴ. Matched verb κατεῖχον. Sent with subordinate verbs: ἐπειδὴ πάντα ἄνθρωπον ὃν κατεῖχον ἐσημειοῦντο τὴν ἡμέραν ἐκείνην ἐν ᾗ κατεῖχον αὐτόν .
+Subordinate start ὃν. Matched verb κατεῖχον. Sent with subordinate verbs: ἐπειδὴ πάντα ἄνθρωπον ὃν κατεῖχον ἐσημειοῦντο τὴν ἡμέραν ἐκείνην ἐν ᾗ κατεῖχον αὐτόν .
+Subordinate start ᾗ. Matched verb κατεῖχον. Sent with subordinate verbs: ἐπειδὴ πάντα ἄνθρωπον ὃν κατεῖχον ἐσημειοῦντο τὴν ἡμέραν ἐκείνην ἐν ᾗ κατεῖχον αὐτόν .
+Subordinate start ἵνα. Matched verb γνῶσι. Sent with subordinate verbs: ἵνα γνῶσι τὴν πλήρωσιν τῶν τριάκοντα ἡμερῶν .
+Subordinate start ὅτε. Matched verb ἐπληρώθησαν. Sent with subordinate verbs: καὶ ἐγένετο ὅτε ἐπληρώθησαν αἱ κζ́ ἡμέραι ἐν τῷ συλλημφθῆναι τὸν ματθείαν .
+Subordinate start ᾗ. Matched verb ἦν. Sent with subordinate verbs: ἐφάνη ὁ κύριος ἐν τῇ χώρᾳ ᾗ ἦν διδάσκων ὁ ἀνδρέας .
+Subordinate start ἵνα. Matched verb ἐξάξει. Sent with subordinate verbs: άλλὰ ἀπόστειλον τὸν ἄγγελον σου τὸ τάχος ἵνα ἐξάξει αὐτὸν ἐκεῖθεν .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: ὅτι κἀ γὼ σάρξ εἰμι καὶ οὐ δυνήσομαι τὸ τάχος πορευθῆναι ἐκεῖ .
+Subordinate start οὓς. Matched verb ἐποίησεν. Sent with subordinate verbs: οὓς ἐποίησεν ὡς ἀνθρώπους φανῆναι .
+Subordinate start ὅτι. Matched verb πορεύομαι. Sent with subordinate verbs: ὁ δὲ ἰησοῦς ἀκούσας τοῦ ἀνδρέου λέγοντος ὅτι κἀ γὼ εἰς τὴν χώραν τῶν ἀνθρωποφάγων πορεύομαι .
+Subordinate start εἰ. Matched verb δύνασαι. Sent with subordinate verbs: άλλὰ εἰ δύνασαι .
+Subordinate start ᾗ. Matched verb μέλλετε. Sent with subordinate verbs: ἐν ᾗ καὶ ὑμεῖς μέλλετε πορεύεσθαι .
+Subordinate start ὃ. Matched verb βούλῃ. Sent with subordinate verbs: λέγε ὃ βούλῃ .
+Subordinate start ὅτι. Matched verb δίδομέν. Sent with subordinate verbs: μὴ νομίσῃς ὅτι κατὰ τυραννίαν οὐ δίδομέν σοι τὸν ναῦλον ἡμῶν .
+Subordinate start ὅτι. Matched verb βαστάζετε. Sent with subordinate verbs: λέγων ὅτι πορευόμενοι κηρύσσειν μὴ βαστάζετε ἀργύριον ἐν τῇ ὁδῷ μήτε ἄρτον μήτε πήραν μήτε ὑποδήματα μήτε ῥάβδον μήτε δύο χιτῶνας .
+Subordinate start εἰ. Matched verb ποιεῖς. Sent with subordinate verbs: εἰ οὖν ποιεῖς τὴν φιλανθρωπίαν μετά ἡμῶν ἀδελφέ .
+Subordinate start εἰ. Matched verb ἐστὶν. Sent with subordinate verbs: εἰ αὕτη ἐστὶν ἡ ἐντολὴ ἣν ἐλάβετε .
+Subordinate start ἣν. Matched verb ἐλάβετε. Sent with subordinate verbs: εἰ αὕτη ἐστὶν ἡ ἐντολὴ ἣν ἐλάβετε .
+Subordinate start ἵνα. Matched verb ἀνέλθῃ. Sent with subordinate verbs: πάντως γὰρ ἄξιός εἰμι ἵνα ὁ ἀπόστολος τοῦ κυρίου ἀνέλθῃ ἐν τῷ πλοίῳ μου .
+Subordinate start ἵνα. Matched verb φάγωσιν. Sent with subordinate verbs: ἵνα φάγωσιν οἱ ἄνδρες .
+Subordinate start ἵνα. Matched verb ἰσχύσητε. Sent with subordinate verbs: ἵνα ἰσχύσητε ὑπενεγκεῖν τὸν κλύδωνα τῆς θαλάσσης .
+Subordinate start ἵνα. Matched verb ἰσχύσητε. Sent with subordinate verbs: ἵνα ἰσχύσητε ὑπενεγκεῖν τὸν κλύδωνα τῆς θαλάσσης .
+Subordinate start ἵνα. Matched verb μεταλάβῃ. Sent with subordinate verbs: τότε ὁ ἰησοῦς ἠνάγκαζεν τὸν ἀνδρέαν ἵνα μεταλάβῃ καὶ αὐτὸς ἄρτου τροφῆς σὺν τοῖς μαθηταῖς αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: μὴ γινώσκων ὅτι ἰησοῦς ἐστιν .
+Subordinate start ὅτι. Matched verb εἰσὶν. Sent with subordinate verbs: ὁρᾷς γὰρ τὰ παιδία ὅτι τεταραγμένα εἰσὶν ἕνεκεν τῆς θαλάσσης .
+Subordinate start εἰ. Matched verb θέλουσιν. Sent with subordinate verbs: άλλὰ ἐξέτασον αὐτοὺς εἰ θέλουσιν ἐλθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί σε ἕως ἂν ἐκτελέσῃς τὴν διακονίαν σου καὶ πάλιν ἐπανέλθῃς πρὸς αὐτούς .
+Subordinate start ἕως. Matched verb ἐκτελέσῃς. Sent with subordinate verbs: άλλὰ ἐξέτασον αὐτοὺς εἰ θέλουσιν ἐλθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί σε ἕως ἂν ἐκτελέσῃς τὴν διακονίαν σου καὶ πάλιν ἐπανέλθῃς πρὸς αὐτούς .
+Subordinate start εἰ. Matched verb θέλετε. Sent with subordinate verbs: εἰ θέλετε ἀνελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί με ἐνταῦθα ἕως ἂν ἐκτελέσω τὴν διακονίαν μου εἰς ἣν ἀπεστάλην .
+Subordinate start ἕως. Matched verb ἐκτελέσω. Sent with subordinate verbs: εἰ θέλετε ἀνελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί με ἐνταῦθα ἕως ἂν ἐκτελέσω τὴν διακονίαν μου εἰς ἣν ἀπεστάλην .
+Subordinate start ἣν. Matched verb ἀπεστάλην. Sent with subordinate verbs: εἰ θέλετε ἀνελθεῖν ἐπὶ τὴν γῆν καὶ προσμεῖναί με ἐνταῦθα ἕως ἂν ἐκτελέσω τὴν διακονίαν μου εἰς ἣν ἀπεστάλην .
+Subordinate start ἐὰν. Matched verb ἀποστῶμεν. Sent with subordinate verbs: ἐὰν ἀποστῶμεν ἀπὸ σοῦ .
+Subordinate start ὧν. Matched verb παρέσχεν. Sent with subordinate verbs: ξένοι γενῶμεθα τῶν ἀγαθῶν ὧν παρέσχεν ἡμῖν ὁ κύριος .
+Subordinate start εἰ. Matched verb εἶ. Sent with subordinate verbs: εἰ ἀληθῶς μαθητὴς εἶ τοῦ λεγομένου ἰησοῦ .
+Subordinate start ἃς. Matched verb ἐποίησεν. Sent with subordinate verbs: λάλησον τοῖς μαθηταῖς σου τὰς δυνάμεις ἃς ἐποίησεν ὁ διδάσκαλός σου .
+Subordinate start ἵνα. Matched verb χαίρῃ. Sent with subordinate verbs: ἵνα χαίρῃ αὐτῶν ἡ ψυχὴ καὶ ἐπιλάθωνται τὸν φόβον τῆς θαλάσσης .
+Subordinate start ὅτε. Matched verb ἤμην. Sent with subordinate verbs: ἐν γὰρ τῷ καιρῷ ἐκείνῳ ὅτε ἤμην σὺν τῷ κυρίῳ ἡμῶν .
+Subordinate start ὅπως. Matched verb ἑλκυσθῶσιν. Sent with subordinate verbs: καὶ ταῦτα λέγων ὁ ἅγιος ἀνδρέας ηὔχετο ἐν τῇ καρδίᾳ αὐτοῦ ὅπως οἱ μαθηταὶ αὐτοῦ ἑλκυσθῶσιν εἰς ὕπνον .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: μὴ γινώσκων ὅτι ὁ κύριός ἐστιν .
+Subordinate start ὅτι. Matched verb εἶδον. Sent with subordinate verbs: ὅτι οὐδένα εἶδον ἄνθρωπόν ποτε κυβερνῶντα οὕτως ἐν τῇ θαλάσσῃ ὥσπερ νῦν σὲ ὁρῶ .
+Subordinate start ἐπειδὴ. Matched verb εἶ. Sent with subordinate verbs: άλλὰ ἐπειδὴ σὺ μαθητὴς εἶ τοῦ λεγομένου ἰησοῦ .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: ἐπέγνω σε ἡ θάλασσα ὅτι δίκαιος εἶ .
+Subordinate start ὅτι. Matched verb ἔστιν. Sent with subordinate verbs: λέγοντες ὅτι οὐκ ἔστιν θεὸς άλλὰ ἄνθρωπος .
+Subordinate start ὅτι. Matched verb ἐφανέρωσεν. Sent with subordinate verbs: ἠκούσαμεν γὰρ ὅτι ἐφανέρωσεν τὴν θεότητα αὐτοῦ τοῖς μαθηταῖς αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: ἀληθῶς ἀδελφὲ ἐφανέρωσεν ἡμῖν ὅτι θεός ἐστιν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: μὴ οὖν νομίσῃς ὅτι ἄνθρωπός ἐστιν .
+Subordinate start ἃς. Matched verb ἐποίησεν. Sent with subordinate verbs: οὐκ ἤκουσας τὰς δυνάμεις ἃς ἐποίησεν ἐνώπιον αὐτῶν .
+Subordinate start ὅτι. Matched verb ἔμελλεν. Sent with subordinate verbs: τότε γνοὺς ὁ ἰησοῦς ὅτι ἔμελλεν τὸ πλοῖον ἐγγίζειν ἐπὶ τὴν γῆν .
+Subordinate start ὅτι. Matched verb ἀφύπνωσεν. Sent with subordinate verbs: ὁ οὖν ἰησοῦς γνοὺς ὅτι ἀφύπνωσεν ὁ ἀνδρέας εἶπεν τοῖς ἀγγέλοις αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἦν. Sent with subordinate verbs: καὶ μάθετε ὅτι ὁ κύριος ἦν μετά ἡμῶν ἐν τῷ πλοίῳ καὶ οὐκ ἔγνωμεν αὐτόν .
+Subordinate start ὅτι. Matched verb ἔγνωμεν. Sent with subordinate verbs: μὴ νομίσῃς ὅτι ἔγνωμεν ἐν τῷ σε λαλεῖν ἐν τῷ πλοίῳ μετ’ αὐτοῦ .
+Subordinate start ὅτι. Matched verb ἀκούετε. Sent with subordinate verbs: καὶ ἠκούσαμεν τοῦ κυρίου λέγοντος τοῖς ἀγγέλοις ὅτι ἀκούετε τῶν ἀποστόλων κατὰ πάντα ὅσα ἂν ἐρωτῶσιν ὑμᾶς .
+Subordinate start ὅσα. Matched verb ἐρωτῶσιν. Sent with subordinate verbs: καὶ ἠκούσαμεν τοῦ κυρίου λέγοντος τοῖς ἀγγέλοις ὅτι ἀκούετε τῶν ἀποστόλων κατὰ πάντα ὅσα ἂν ἐρωτῶσιν ὑμᾶς .
+Subordinate start ἃ. Matched verb εἴδαμεν. Sent with subordinate verbs: ταῦτα εἰσιν ἃ εἴδαμεν πάτερ ἀνδρέα ἕως οὗ διύπνισας ἡμᾶς .
+Subordinate start ὅτι. Matched verb κατηξιώθησαν. Sent with subordinate verbs: τότε ἀδρέας ἀκούσας ἐχάρη χαρὰν μεγάλην ὅτι κατηξιώθησαν οἱ μαθηταὶ αὐτοῦ τὰ θαυμάσια ταῦτα θεάσασθαι .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: ἐγὼ γὰρ γινώσκω ὅτι οὐκ εἶ μακρὰν ἀπὸ τῶν σῶν δούλων .
+Subordinate start ὃ. Matched verb ἐποίησα. Sent with subordinate verbs: συγχώρησόν μοι κύριε ὃ ἐποίησα .
+Subordinate start ὡς. Matched verb τεθέαμαι. Sent with subordinate verbs: ὡς γὰρ ἄνθρωπόν σε τεθέαμαι ἐν τῷ πλοίῳ καὶ ὡς ἀνθρώπῳ σοι ὡμίλησα .
+Subordinate start ὡς. Matched verb εἶδον. Sent with subordinate verbs: ὡς γὰρ ἄνθρωπόν σε εἶδον ἐν τῇ θαλάσσῃ καὶ ὡς ἀνθρώπῳ ὡμίλησά σοι .
+Subordinate start ὅτι. Matched verb εἶπας. Sent with subordinate verbs: ἀλλὰ ταῦτά σοι ἐποίησα ὅτι εἶπας .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: καὶ ὑπέδειξά σοι ὅτι πάντα δυνατός εἰμι καὶ ἑκάστῳ φανῆναι καθὼς βούλομαι .
+Subordinate start εἰ. Matched verb δύνανταί. Sent with subordinate verbs: εἰ μὴ μόνον τὸν θάνατον οὐ δύνανταί σοι παρασχεῖν .
+Subordinate start ὧν. Matched verb ὑπέμεινεν. Sent with subordinate verbs: μνήσθητι ὧν ὑπέμεινεν ἡ ψυχή μου πολλῶν θλίψεων ὅτε ἔτυπτον καὶ ἐνέπτυον εἰς τὸ πρόσωπόν μου καὶ ἔλεγον ὅτι ἐν βεελζεβοὺλ ἐκβάλλει τὰ δαιμόνια .
+Subordinate start ὅτε. Matched verb ἔτυπτον. Sent with subordinate verbs: μνήσθητι ὧν ὑπέμεινεν ἡ ψυχή μου πολλῶν θλίψεων ὅτε ἔτυπτον καὶ ἐνέπτυον εἰς τὸ πρόσωπόν μου καὶ ἔλεγον ὅτι ἐν βεελζεβοὺλ ἐκβάλλει τὰ δαιμόνια .
+Subordinate start ὅτι. Matched verb ἐκβάλλει. Sent with subordinate verbs: μνήσθητι ὧν ὑπέμεινεν ἡ ψυχή μου πολλῶν θλίψεων ὅτε ἔτυπτον καὶ ἐνέπτυον εἰς τὸ πρόσωπόν μου καὶ ἔλεγον ὅτι ἐν βεελζεβοὺλ ἐκβάλλει τὰ δαιμόνια .
+Subordinate start ἵνα. Matched verb ὑποδείξω. Sent with subordinate verbs: ἵνα καὶ ὑμῖν τύπον ὑποδείξω .
+Subordinate start ἐὰν. Matched verb παράσχωσίν. Sent with subordinate verbs: ἐὰν παράσχωσίν σοι τὰς ὕβρεις καὶ τὰς βασάνους ταύτας .
+Subordinate start ἃ. Matched verb ἐδιδάχθης. Sent with subordinate verbs: ποῦ εἰσιν τά μεγάλα μυστήρια ἃ ἐδιδάχθης .
+Subordinate start ἃ. Matched verb ἐπιστεύθημεν. Sent with subordinate verbs: ποῦ εἰσιν τὰ θαυμάσια ἃ ἐπιστεύθημεν .
+Subordinate start ὧν. Matched verb διηγήσῃ. Sent with subordinate verbs: ἐξ ὧν ἐὰν διηγήσῃ ὁ οὐρανὸς καὶ ἡ γῆ σείεται .
+Subordinate start ὡς. Matched verb εἰσήγαγόν. Sent with subordinate verbs: εὐθὺς γὰρ ὡς εἰσήγαγόν με ἐν τῇ φυλακῇ καὶ ηὐξάμην πρὸς κύριον καὶ ἐφανέρωσέν μοι ἑαυτὸν καὶ εἶπεν μοι λέγων .
+Subordinate start ὃ. Matched verb μέλλομεν. Sent with subordinate verbs: νῦν οὖν τί ἐστιν ὃ μέλλομεν διαπράξασθαι .
+Subordinate start ἕως. Matched verb ὠργίσθη. Sent with subordinate verbs: ἕως οὗ ὠργίσθη κύριος ἐπί αὐτοὺς καὶ ἐπήγαγεν ἐπί αὐτοὺς τὸν κατακλυσμόν .
+Subordinate start οὗ. Matched verb ὠργίσθη. Sent with subordinate verbs: ἕως οὗ ὠργίσθη κύριος ἐπί αὐτοὺς καὶ ἐπήγαγεν ἐπί αὐτοὺς τὸν κατακλυσμόν .
+Subordinate start ἵνα. Matched verb ἐξαλείψῃ. Sent with subordinate verbs: ἵνα ἐξαλείψῃ πᾶν τὸ ἀνάστημα ὃ ἐποίησεν κύριος ἐπὶ τῆς γῆς .
+Subordinate start ὃ. Matched verb ἐποίησεν. Sent with subordinate verbs: ἵνα ἐξαλείψῃ πᾶν τὸ ἀνάστημα ὃ ἐποίησεν κύριος ἐπὶ τῆς γῆς .
+Subordinate start ἵνα. Matched verb ποιήσῃς. Sent with subordinate verbs: καὶ πάλιν παρεγένου καὶ ἐν τῇ πόλει ταύτῃ ἵνα καὶ τοὺς ἐνταῦθα ποιήσῃς κατεσθίειν ἀνθρώπους .
+Subordinate start ἵνα. Matched verb γένηται. Sent with subordinate verbs: ἵνα γένηται καὶ τούτων τὸ τέλος εἰς κατάραν καὶ ἀπώλειαν .
+Subordinate start ὅτι. Matched verb ἐξαλείψει. Sent with subordinate verbs: νομίζων ἐν σεαυτῷ ὅτι ὁ θεὸς ἐξαλείψει τὸ πλάσμα αὐτοῦ .
+Subordinate start ὅτι. Matched verb εἶπεν. Sent with subordinate verbs: ἢ οὐκ ἤκουσας ὅτι εἶπεν ὁ θεὸς ὅτι οὐ μὴ ἐπάξω ἔτι κατακλυσμὸν ἐπὶ τῆς γῆς .
+Subordinate start ὅτι. Matched verb ἐπάξω. Sent with subordinate verbs: ἢ οὐκ ἤκουσας ὅτι εἶπεν ὁ θεὸς ὅτι οὐ μὴ ἐπάξω ἔτι κατακλυσμὸν ἐπὶ τῆς γῆς .
+Subordinate start εἴ. Matched verb ἐστιν. Sent with subordinate verbs: ἀλλὰ εἴ τί ἐστιν ἑτοιμαζόμενον κολάσεως ἕνεκεν τῆς σῆς τιμωρίας .
+Subordinate start ἕως. Matched verb ἔλθω. Sent with subordinate verbs: καὶ καθίσατε ὑπὸ τὴν συκῆν καὶ ἐσθίετε ἀπὸ τοῦ καρποῦ αὐτῆς ἕως ἂν ἔλθω πρὸς ὑμᾶς .
+Subordinate start ἐὰν. Matched verb βραδύνω. Sent with subordinate verbs: ἐὰν δὲ βραδύνω τοῦ ἐλθεῖν ἐκεῖ .
+Subordinate start ὅσον. Matched verb ἐσθίετε. Sent with subordinate verbs: άλλὰ ὅσον ὑμεῖς ἐσθίετε .
+Subordinate start ὧν. Matched verb ἐνεδείξονται. Sent with subordinate verbs: μὴ ποτε πάλιν θεασάμενοι ἡμᾶς οἱ τῆς πόλεως ταύτης ἄνομοι ἄνδρες κατακλείσουσιν ἡμᾶς καὶ ἐνδείξονται ἡμῖν βασάνους δεινοτέρας καὶ πλείους ὧν ἐνεδείξονται ἡμῖν .
+Subordinate start ὅτι. Matched verb ὑλάξει. Sent with subordinate verbs: ἐπί ἀληθείας γὰρ λέγω ὑμῖν ὅτι πορευομένων ὑμῶν οὐ μὴ ὑλάξει κύων ἐν τῇ γλώττῃ αὐτοῦ ἐπί ὑμᾶς .
+Subordinate start οὓς. Matched verb ἀπέλυσεν. Sent with subordinate verbs: ἦσαν δὲ οἱ πάντες ἄνδρες διακόσιοι ἑβδομήντα καὶ γυναῖκες τεσσαράκοντα ἐννέα οὓς ἀπέλυσεν ἀνδρέας ἐκ τῆς φυλακῆς .
+Subordinate start ἕως. Matched verb ἴδῃ. Sent with subordinate verbs: καὶ θεασάμενος στῦλον χαλκοῦν καὶ ἀνδριάντα ἐπάνω ἑστηκότα καὶ ἐλθὼν ἐκαθέσθη ὀπίσω τοῦ στύλου ἐκείνου ἕως ἂν ἴδῃ τί ἔσται τὸ γενόμενον .
+Subordinate start ἵνα. Matched verb ἐκβάλουσιν. Sent with subordinate verbs: καὶ ἐγένετο ἐν τῷ πορευθῆναι τοὺς δημίους εἰς τὴν φυλακὴν ἵνα ἐκβάλουσιν ἀνθρώπους εἰς βρῶσιν αὐτῶν κατὰ τὴν μακαρίαν συνήθειαν .
+Subordinate start ὅτι. Matched verb ηὗραμεν. Sent with subordinate verbs: καὶ εὐθέως ἐπορεύθησαν καὶ ἀπήγγειλαν τοῖς ἄρχουσιν τῆς πόλεως λέγοντες ὅτι τὸ δεσμωτήριον ηὗραμεν ἠνεῳγμένον .
+Subordinate start ἵνα. Matched verb καταφάγωμεν. Sent with subordinate verbs: ἵνα κἂν αὐτοὺς καταφάγωμεν ἐν τῇ σήμερον ἡμέρᾳ καὶ ἀνέλθωμεν ἐπὶ τὴν αὔριον .
+Subordinate start κἂν. Matched verb καταφάγωμεν. Sent with subordinate verbs: ἵνα κἂν αὐτοὺς καταφάγωμεν ἐν τῇ σήμερον ἡμέρᾳ καὶ ἀνέλθωμεν ἐπὶ τὴν αὔριον .
+Subordinate start ὅπως. Matched verb βάλωσιν. Sent with subordinate verbs: ἐπισυνάξωμεν πάντας τοὺς γηραιοὺς τῆς πόλεως ὅπως βάλωσιν κλήρους εἰς ἑαυτοὺς ἕως ἂν ἔλθωσιν οἱ κλῆροι ἐπὶ ἑπτὰ .
+Subordinate start ἕως. Matched verb ἔλθωσιν. Sent with subordinate verbs: ἐπισυνάξωμεν πάντας τοὺς γηραιοὺς τῆς πόλεως ὅπως βάλωσιν κλήρους εἰς ἑαυτοὺς ἕως ἂν ἔλθωσιν οἱ κλῆροι ἐπὶ ἑπτὰ .
+Subordinate start ἕως. Matched verb ἐκλεξώμεθα. Sent with subordinate verbs: καὶ ἔσονται ἡμῖν εἰς διατροφὰς ἕως ἂν ἐκλεξώμεθα νεανίσκους καὶ ὁρίσωμεν αὐτοὺς ἐν πλοίοις ὡς ναυτικοὺς .
+Subordinate start ἵνα. Matched verb ἔσονται. Sent with subordinate verbs: καὶ ἀπελθόντες εἰς τὰς κύκλῳ χώρας καὶ ἐμβαλλόμενοί τινας ἀγάγωσιν ἐνταῦθα ἵνα ἔσονται ἡμῖν εἰς διατροφάς .
+Subordinate start ἐὰν. Matched verb ἀνενέγκωμεν. Sent with subordinate verbs: οὐ δυνησόμεθα λαβεῖν τὸν υἱόν σου ἐὰν μὴ πρῶτον ἀνενέγκωμεν τοῖς μείζοσιν ἡμῶν .
+Subordinate start ὅτι. Matched verb δώῃ. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ ἄρχοντες εἶπαν τοῖς ὑπηρέταις ὅτι ἐὰν δώῃ ὑμῖν τὸν υἱὸν αὐτοῦ ἀντί αὐτοῦ .
+Subordinate start ἐὰν. Matched verb δώῃ. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ ἄρχοντες εἶπαν τοῖς ὑπηρέταις ὅτι ἐὰν δώῃ ὑμῖν τὸν υἱὸν αὐτοῦ ἀντί αὐτοῦ .
+Subordinate start ἵνα. Matched verb σφάξωσιν. Sent with subordinate verbs: καὶ παρέδωκεν δὲ τὰ παιδία τοῖς ὑπηρέταις ἵνα σφάξωσιν αὐτά .
+Subordinate start ὡς. Matched verb ἤγαγον. Sent with subordinate verbs: καὶ ἐγένετο ὡς ἤγαγον αὐτὰ τοῦ σφάξαι .
+Subordinate start ὅτι. Matched verb ὑπήκουσεν. Sent with subordinate verbs: καὶ ἰδὼν ἀνδρέας τὸ γινόμενον ἐδόξασεν τὸν κύριον ὅτι ὑπήκουσεν αὐτοῦ ἐν παντὶ ἔργῳ .
+Subordinate start ἵνα. Matched verb δυνηθῆτε. Sent with subordinate verbs: ἵνα τοῦ λοιποῦ δυνηθῆτε τὰς τροφὰς ὑμῶν ἐπισυνάξαι .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: οὐχ ὅτι τυφλὸς εἶ .
+Subordinate start ἵνα. Matched verb μάθωσιν. Sent with subordinate verbs: ἵνα μάθωσιν τὴν δύναμιν τοῦ ἐνεργοῦντος αὐτοῖς διαβόλου .
+Subordinate start ὃν. Matched verb ζητεῖτε. Sent with subordinate verbs: ἰδοὺ ἐγὼ εἰμι ἀνδρέας ὃν ζητεῖτε .
+Subordinate start ἃ. Matched verb ἐποίησας. Sent with subordinate verbs: ἃ σὺ ἐποίησας ἡμῖν καὶ ἡμεῖς ποιήσομεν σοί .
+Subordinate start ὅτι. Matched verb ἄρωμεν. Sent with subordinate verbs: καὶ ἔλεγαν πρὸς ἑαυτοὺς ὅτι ἐὰν ἄρωμεν αὐτοῦ τὴν κεφαλήν .
+Subordinate start ἐὰν. Matched verb ἄρωμεν. Sent with subordinate verbs: καὶ ἔλεγαν πρὸς ἑαυτοὺς ὅτι ἐὰν ἄρωμεν αὐτοῦ τὴν κεφαλήν .
+Subordinate start ὅτι. Matched verb κατακαύσωμεν. Sent with subordinate verbs: ἕτεροι πάλιν ἔλεγον ὅτι ἐὰν αὐτὸν κατακαύσωμεν ἐν πυρὶ καὶ δῶμεν αὐτοῦ τὸ σῶμα τοῖς μείζοσιν ἡμῶν εἰς βρῶσιν .
+Subordinate start ἐὰν. Matched verb κατακαύσωμεν. Sent with subordinate verbs: ἕτεροι πάλιν ἔλεγον ὅτι ἐὰν αὐτὸν κατακαύσωμεν ἐν πυρὶ καὶ δῶμεν αὐτοῦ τὸ σῶμα τοῖς μείζοσιν ἡμῶν εἰς βρῶσιν .
+Subordinate start ὅτι. Matched verb ἐνεδείξατο. Sent with subordinate verbs: τότε ἀποκριθεὶς εἷς ἐξ αὐτῶν εἰσελθόντος εἰς αὐτὸν τοῦ διαβόλου καὶ πληρώσαντος αὐτοῦ τὴν καρδίαν ἔλεγεν τοῖς ὄχλοις ὅτι καθὼς ἐνεδείξατο ἡμῖν .
+Subordinate start ἃ. Matched verb ἐποίησαν. Sent with subordinate verbs: ἐλθὲ καὶ θέασαι ἃ ἐποίησαν τῷ δούλῳ σου .
+Subordinate start ἣν. Matched verb ἐνετείλω. Sent with subordinate verbs: ἀλλὰ ὑπομένω διὰ τὴν ἐντολήν σου ἣν ἐνετείλω μοι λέγων .
+Subordinate start ὅσας. Matched verb παρέχουσιν. Sent with subordinate verbs: θέασαι οὖν κύριε ὅσας μοι βασάνους παρέχουσιν .
+Subordinate start ὅτι. Matched verb εἶ. Sent with subordinate verbs: ἐγὼ γὰρ γινώσκω κύριε ὅτι οὐκ εἶ μακρὰν ἀπὸ τῶν σῶν δούλων .
+Subordinate start ἣν. Matched verb ἐνετείλω. Sent with subordinate verbs: άλλὰ οὐδὲ ἐγὼ ἀντιλέγω διὰ τὴν ἐντολήν σου ἣν ἐνετείλω μοι .
+Subordinate start ἣν. Matched verb ἐνετείλω. Sent with subordinate verbs: άλλὰ οὐ μὴ ἐγκαταλείψω τὴν ἐντολήν σου ἣν ἐνετείλω μοι ἕως θανάτου .
+Subordinate start ἵνα. Matched verb λαλῇ. Sent with subordinate verbs: τύπτετε αὐτοῦ τὸ στόμα ἵνα μὴ λαλῇ .
+Subordinate start οὓς. Matched verb ἐξέβαλεν. Sent with subordinate verbs: οὓς ὁ μακάριος ἀνδρέας ἐξέβαλεν ἐκ τῶν περιχώρων .
+Subordinate start ἵνα. Matched verb ἀνενεχθῶσιν. Sent with subordinate verbs: καὶ ἐποίησας τὰ ἱερὰ ἡμῶν οἰκίας ἐρήμους γενέσθαι ἵνα μὴ ἀνενεχθῶσιν θυσίαι ἐν αὐτοῖς .
+Subordinate start ὃν. Matched verb ἀπέκτεινεν. Sent with subordinate verbs: διὰ τοῦτο οὖν καὶ ἡμεῖς ποιοῦμεν τὰ ἀντάξια καὶ ἀποκτενοῦμέν σε ὡς καὶ τὸν διδάσκαλόν σου τὸν λεγόμενον ἰησοῦν ὃν ἀπέκτεινεν ἡρῴδης .
+Subordinate start ἵνα. Matched verb γένωνται. Sent with subordinate verbs: ἵνα λοιπὸν πᾶσαι αἱ χῶραι ἡμῶν γένωνται .
+Subordinate start ἣν. Matched verb ἔδωκεν. Sent with subordinate verbs: ἣν ἔδωκεν αὐτῷ ὁ κύριος .
+Subordinate start ὅτι. Matched verb δυνάμεθα. Sent with subordinate verbs: καὶ ἀποκριθέντες οἱ δαίμονες εἶπον τῷ διαβόλῳ ὅτι ἡμεῖς οὐ δυνάμεθα αὐτὸν ἀποκτεῖναι .
+Subordinate start εἰ. Matched verb εἶ. Sent with subordinate verbs: ἀλλὰ σὺ ἀπελθὼν ἀπόκτεινον αὐτὸν εἰ δυνατὸς εἶ .
+Subordinate start ὅτι. Matched verb ἐνετείλατό. Sent with subordinate verbs: κλαίω ὅτι ἐνετείλατό μοι ὁ κύριός μου λέγων .
+Subordinate start εἴ. Matched verb ἐστίν. Sent with subordinate verbs: εἴ τί ἐστίν σοι δυνατόν .
+Subordinate start ἐὰν. Matched verb ἀποκτείνητέ. Sent with subordinate verbs: ἐὰν ἀποκτείνητέ με ἐνταῦθα .
+Subordinate start ἵνα. Matched verb ἐγκαταλείψω. Sent with subordinate verbs: ἵνα ἐγκαταλείψω τὴν ἐντολὴν τοῦ κυρίου μου .
+Subordinate start ἐὰν. Matched verb ποιήσῃ. Sent with subordinate verbs: ἐὰν γὰρ μοι ὁ κύριος ἐπισκοπὴν ποιήσῃ ἐν τῇ πόλει ταύτῃ .
+Subordinate start ὅσα. Matched verb ἐνεδείξατό. Sent with subordinate verbs: ὁρᾷς ὅσα ὁ ἐχθρὸς ἐνεδείξατό μοι μετὰ τῶν ἑαυτοῦ δαιμόνων .
+Subordinate start ὅτι. Matched verb ἐποίησας. Sent with subordinate verbs: σὺ γὰρ κύριε μνήσθητι ὅτι ἐποίησας τρεῖς ὥρας ἐπὶ τοῦ σταυροῦ καὶ ὠλιγοψύχησας λέγων .
+Subordinate start ἵνα. Matched verb ἐγκατέλειπας. Sent with subordinate verbs: ἵνα τί με ἐγκατέλειπας .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: καὶ μάλιστα γινώσκων κύριε τὴν ἀνθρωπίνην σάρκα ὅτι ἀσθενής ἐστιν .
+Subordinate start ἵνα. Matched verb τύχω. Sent with subordinate verbs: ἵνα λοιπὸν ἀναπαύσεως τύχω .
+Subordinate start οὓς. Matched verb ἐλάλησας. Sent with subordinate verbs: ποῦ εἰσιν οἱ λόγοι σου κύριε οὓς ἐλάλησας πρὸς ἡμᾶς ἐπιστηρίζων ἡμᾶς ὅτε περιεπατήσαμεν μετὰ σοῦ .
+Subordinate start ὅτε. Matched verb περιεπατήσαμεν. Sent with subordinate verbs: ποῦ εἰσιν οἱ λόγοι σου κύριε οὓς ἐλάλησας πρὸς ἡμᾶς ἐπιστηρίζων ἡμᾶς ὅτε περιεπατήσαμεν μετὰ σοῦ .
+Subordinate start ὅτι. Matched verb ἐκολλήθησαν. Sent with subordinate verbs: πρόσσχες οὖν κύριε καὶ θέασαι ὅτι αἱ σάρκες μου καὶ αἱ τρίχες τῆς κεφαλῆς μου ἐκολλήθησαν τῇ γῇ .
+Subordinate start ἵνα. Matched verb ἐπισχυρίσῃς. Sent with subordinate verbs: καὶ οὐκ ἐφανέρωσάς μοι σεαυτὸν κύριέ μου ἵνα ἐπισχυρίσῃς μου τὴν καρδίαν .
+Subordinate start ὅτι. Matched verb ἐγκατέλειπάς. Sent with subordinate verbs: ἔγνων γὰρ κύριε ὅτι οὐκ ἐγκατέλειπάς με .
+Subordinate start ὃν. Matched verb φρίσσει. Sent with subordinate verbs: ὃν φρίσσει ὁ οὐρανὸς καὶ ἡ γῆ .
+Subordinate start ἵνα. Matched verb παιδευθῶσιν. Sent with subordinate verbs: ἵνα παιδευθῶσιν οἱ ἐν τῇ πόλει ταύτῃ .
+Subordinate start ὅτι. Matched verb εἰμὶ. Sent with subordinate verbs: μὴ φοβηθῇς ὦ λίθε καὶ εἴπῃς ὅτι ἐγὼ λίθος εἰμὶ καὶ οὐκ εἰμὶ ἄξιος αἰνέσαι τὸν κύριον .
+Subordinate start ἵνα. Matched verb θελήσῃ. Sent with subordinate verbs: ἵνα ἐὰν τις θελήσῃ ἐκφυγεῖν ἐξ αὐτῆς μὴ δυνηθῇ ἐξελθεῖν τοῦ πυρός .
+Subordinate start ἐὰν. Matched verb θελήσῃ. Sent with subordinate verbs: ἵνα ἐὰν τις θελήσῃ ἐκφυγεῖν ἐξ αὐτῆς μὴ δυνηθῇ ἐξελθεῖν τοῦ πυρός .
+Subordinate start ὃν. Matched verb παρεδώκαμεν. Sent with subordinate verbs: ὃν βασάνοις παρεδώκαμεν .
+Subordinate start ὅτι. Matched verb πιστεύομέν. Sent with subordinate verbs: ἀλλὰ βοήσωμεν ἅπαντες ὅτι πιστεύομέν σοι ὁ θεὸς τοῦ ξένου ἀνθρώπου .
+Subordinate start ὅτι. Matched verb ὑπετάγη. Sent with subordinate verbs: καὶ ἔγνω ὁ ἀνδρέας ὅτι ἡ ψυχὴ αὐτῶν ὑπετάγη πρὸς αὐτόν .
+Subordinate start ὅτι. Matched verb πιστεύσωσιν. Sent with subordinate verbs: λέγω δὲ σοι τῷ στύλῳ λιθίνῳ ὅτι ἐὰν πιστεύσωσιν οἱ τῆς πόλεως ταύτης .
+Subordinate start ἐὰν. Matched verb πιστεύσωσιν. Sent with subordinate verbs: λέγω δὲ σοι τῷ στύλῳ λιθίνῳ ὅτι ἐὰν πιστεύσωσιν οἱ τῆς πόλεως ταύτης .
+Subordinate start ὅτι. Matched verb ἐποίησάς. Sent with subordinate verbs: ὅτι ἐποίησάς μοι τὴν διακονίαν ταύτην .
+Subordinate start ἃ. Matched verb ἐποιήσαμεν. Sent with subordinate verbs: καὶ μὴ ποιήσῃς κατὰ τὴν ἀπιστίαν ἡμῶν καὶ κατά ἃ ἐποιήσαμεν τῷ ἀνδρὶ τούτῳ .
+Subordinate start ἵνα. Matched verb σφάξωσιν. Sent with subordinate verbs: καὶ ἐλθὼν ὁ γέρων ὁ παραδοὺς τὰ παιδία αὐτοῦ ἵνα σφάξωσιν αὐτὰ ἀντί αὐτοῦ .
+Subordinate start ἕως. Matched verb ἐπιστρέψω. Sent with subordinate verbs: καὶ μείνητε ἐν τῷ ᾅδῃ ἕως ἂν ἐπιστρέψω ἄλλο ἅπαξ καὶ ἀνενέγκω ὑμᾶς .
+Subordinate start ἵνα. Matched verb ὑποδείξω. Sent with subordinate verbs: ἵνα ὑποδείξω τούτοις τοῖς δημίοις τὸν τόπον τῆς φονεύσεως αὐτῶν καὶ τὸν τόπον τῆς εἰρήνης .
+Subordinate start ἕως. Matched verb ἦλθεν. Sent with subordinate verbs: ἀκολουθούντων δὲ τῶν ἀνδρῶν τῆς πόλεως ἦν τὸ ὕδωρ διαχωριζόμενον ἐκ τῶν ποδῶν τοῦ μακαρίου ἀνδρέου ἕως ὅτε ἦλθεν εἰς τὸν τόπον τῆς ληνοῦ ἔνθα τοὺς ἀνθρώπους ἐσφαγίαζον .
+Subordinate start ὅτε. Matched verb ἦλθεν. Sent with subordinate verbs: ἀκολουθούντων δὲ τῶν ἀνδρῶν τῆς πόλεως ἦν τὸ ὕδωρ διαχωριζόμενον ἐκ τῶν ποδῶν τοῦ μακαρίου ἀνδρέου ἕως ὅτε ἦλθεν εἰς τὸν τόπον τῆς ληνοῦ ἔνθα τοὺς ἀνθρώπους ἐσφαγίαζον .
+Subordinate start ἃς. Matched verb πεποιήκαμεν. Sent with subordinate verbs: καὶ νῦν ἀποκτείνει ἡμᾶς διὰ τὰς θλίψεις ἃς πεποιήκαμεν αὐτῷ .
+Subordinate start ἵνα. Matched verb πιστεύσητε. Sent with subordinate verbs: άλλὰ ἐπορεύθησαν ἐκεῖνοι ἵνα ὑμεῖς πιστεύσητε εἰς τὸν κύριον ἡμῶν ἰησοῦν χριστόν .
+Subordinate start ἵνα. Matched verb γνῶτε. Sent with subordinate verbs: ἵνα γνῶτε τὰ μυστήρια τοῦ κυρίου ἡμῶν ἰησοῦ χριστοῦ .
+Subordinate start ὅπως. Matched verb κορεσθῶμεν. Sent with subordinate verbs: ὅπως κορεσθῶμεν τῆς σῆς πηγῆς .
+Subordinate start ὅτι. Matched verb ποίησον. Sent with subordinate verbs: καὶ οὐκ ἐσπλαγχνίσθης ἐπὶ τοῖς παιδίοις τοῖς ἀκολουθοῦσιν ὄπισθέν σου καὶ τῶν δεομένων ἀνδρῶν ὅτι ποίησον μετά ἡμῶν ἡμέρας ὀλίγας .
+Subordinate start ἕως. Matched verb ἐπιστηρίξω. Sent with subordinate verbs: ἕως οὗ ἐπιστηρίξω τὰς ψυχὰς αὐτῶν ἐν τῇ πίστει .
+Subordinate start οὗ. Matched verb ἐπιστηρίξω. Sent with subordinate verbs: ἕως οὗ ἐπιστηρίξω τὰς ψυχὰς αὐτῶν ἐν τῇ πίστει .
 ============
 PAndr1
-
+Subordinate start ἃ. Matched verb ἴδομεν. Sent with subordinate verbs: ἃ τοῖς ὀφθαλμοῖς ἡμῶν ἴδομεν πάντες οἱ πρεσβύτεροι καὶ οἱ διάκονοι τῶν ἐκκλησιῶν ἀχαΐας γεγράφαμεν πάσαις ταῖς ἐκκλησίαις ταῖς ἐν τῇ ἀνατολῇ καὶ δύσει καὶ μεσημβρίᾳ καὶ ἄρκτρῳ ἐν ὀνόματι χριστοῦ διακειμέναις .
+Subordinate start ἵνα. Matched verb γνωσθῇ. Sent with subordinate verbs: ἵνα γνωσθῇ ἕν πνεῦμα ἅγιον εἶναι ἐν πατρὶ καὶ υἱῷ .
+Subordinate start ὅσον. Matched verb οἶδεν. Sent with subordinate verbs: καὶ τοσοῦτον εἶναι τὸν μονογενῆ υἱῷ ὅσον ὁ γεννήσας οἶδεν .
+Subordinate start οἷς. Matched verb δυνάμεθα. Sent with subordinate verbs: οὗ τὴν μαρτυρίαν οἱ παρόντες ἴδομεν ἐν οἷς δυνάμεθα ἀφηγούμεθα .
+Subordinate start ᾧ. Matched verb εἶπεν. Sent with subordinate verbs: ᾧ προσδραμὼν ὁ ἅγιος ἀνδρέας εἶπεν .
+Subordinate start ἥνπερ. Matched verb ἐκέλευσαν. Sent with subordinate verbs: σὺ εἶ ἀνδρέας ὁ καταστρέφων τοὺς ναοὺς τῶν θεῶν καὶ ἐκπλανῶν τοὺς ἀνθρώπους πρὸς ἀναιδῆ θρησκείαν ἥνπερ ἀρτίως οἱ ῥωμαίων ἄρχοντες ἐξαλειφθῆναι ἐκέλευσαν .
+Subordinate start ὅτι. Matched verb ἐδίδαξεν. Sent with subordinate verbs: οἱ τῶν ῥωμαίων ἄρχοντες οὔπω ἔγνωσαν τὴν ἀλήθειαν καὶ ὅτι ὑπὲρ σωτηρίας τῶν ἀνθρώπων ἐλθὼν ὁ τοῦ θεοῦ υἱὸς ἐδίδαξεν ταῦτα τὰ εἴδωλα οὐχὶ μόνον θεοὺς μὴ εἶναι .
+Subordinate start οἳ. Matched verb διδάσκουσι. Sent with subordinate verbs: οἳ τοιαῦτα διδάσκουσι τοὺς ἀνθρώπους ὅπως τῷ θεῷ προσκρούσωσιν .
+Subordinate start ὅπως. Matched verb προσκρούσωσιν. Sent with subordinate verbs: οἳ τοιαῦτα διδάσκουσι τοὺς ἀνθρώπους ὅπως τῷ θεῷ προσκρούσωσιν .
+Subordinate start ἵνα. Matched verb ἀποστραφῃ. Sent with subordinate verbs: ἵνα ἐν τῷ προσκροῦσαι αὐτοὺς αὐτῷ ἀποστραφῃ καὶ μὴ εἰσακούσῃ .
+Subordinate start ἕως. Matched verb ἐξέλθωσιν. Sent with subordinate verbs: καὶ ἀποστραφέντος αὐτοῦ καὶ μὴ εἰσακούοντες κατασχεθῶσιν ὑπὸ τοῦ διαβόλου αἰχμάλωτοι καὶ ἐπὶ τοσοῦτον αὐτοῖς ἐμπαίξῃ ἕως οὗ ἐκ τοῦ σώματος ἐξέλθωσιν κατακεκριμένοι καὶ γυμνοί .
+Subordinate start οὗ. Matched verb ἐξέλθωσιν. Sent with subordinate verbs: καὶ ἀποστραφέντος αὐτοῦ καὶ μὴ εἰσακούοντες κατασχεθῶσιν ὑπὸ τοῦ διαβόλου αἰχμάλωτοι καὶ ἐπὶ τοσοῦτον αὐτοῖς ἐμπαίξῃ ἕως οὗ ἐκ τοῦ σώματος ἐξέλθωσιν κατακεκριμένοι καὶ γυμνοί .
+Subordinate start εἰ. Matched verb ἤθελες. Sent with subordinate verbs: ὢ εἰ ἤθελες εἰδέναι τὸ μυστήριον τοῦ σταυροῦ ἐπιθυμητῇ ἀγάπῃ ὁ κτιστὴς τοῦ γένους τῶν ἀνθρώπων ὑπὲρ συστάσεως ἡμετέρας τοῦτον τὸν σταυρὸν οὐχὶ ἄκων άλλὰ ἑκὼν ἐδέξατο .
+Subordinate start ὅτι. Matched verb ἤμην. Sent with subordinate verbs: διὰ τοῦτο ἐγὼ λέγω αὐτὸν προθέσει ὅτι ἐν τῷ ἅμα μετ’ αὐτοῦ ἤμην .
+Subordinate start ὅτι. Matched verb ἐγείρομαι. Sent with subordinate verbs: καὶ μέλλων προδίδοσθαι ὑπὸ τοῦ ἰδίου μαθητοῦ προεῖπεν ἡμῖν πρὸ τοῦ παραδοθῆναι καὶ σταυρωθῆναι ὑπὲρ τῆς σωτηρίας τῶν ἀνθρώπων ὅτι μετὰ τρεῖς ἡμέρας ἐγείρομαι .
+Subordinate start ὅτι. Matched verb ἀνεδέξατο. Sent with subordinate verbs: καὶ πῶς τελείως ἡμᾶς ἐστήριξεν ὅτι ἑκὼν τὸ πάθος ἀνεδέξατο .
+Subordinate start ὅσῳ. Matched verb ἐδείπνει. Sent with subordinate verbs: τέλος ἐν ὅσῳ ἐδείπνει μετά ἡμῶν λέγει ὅτι εἷς ἐξ ὑμῶν παραδώσει με .
+Subordinate start ὅτι. Matched verb παραδώσει. Sent with subordinate verbs: τέλος ἐν ὅσῳ ἐδείπνει μετά ἡμῶν λέγει ὅτι εἷς ἐξ ὑμῶν παραδώσει με .
+Subordinate start ὅτι. Matched verb βάψω. Sent with subordinate verbs: καὶ εἴρηκεν ὅτι μετά οὗ ἐγὼ βάψω ἐν τῷ τρυβλίῳ τὴν χεῖρα μου .
+Subordinate start οὗ. Matched verb βάψω. Sent with subordinate verbs: καὶ εἴρηκεν ὅτι μετά οὗ ἐγὼ βάψω ἐν τῷ τρυβλίῳ τὴν χεῖρα μου .
+Subordinate start ὃ. Matched verb προεῖπον. Sent with subordinate verbs: τοῦτο ἐστιν ὃ προεῖπον .
+Subordinate start ὃ. Matched verb θελήσῃς. Sent with subordinate verbs: ὃ ἐὰν θελήσῃς ἀκοῦσαι λέξω .
+Subordinate start ἐὰν. Matched verb ἀκούσῃς. Sent with subordinate verbs: ἐὰν νουνεχῶς ἀκούσῃς .
+Subordinate start ἐὰν. Matched verb ἀκούσῃς. Sent with subordinate verbs: σὺ δὲ ἐὰν μὴ συγκεραστικῶς μου ἀκούσῃς .
+Subordinate start εἰ. Matched verb ἐδειλίων. Sent with subordinate verbs: ἐγὼ εἰ τὸν σταυρὸν ἐδειλίων .
+Subordinate start ὅπως. Matched verb καταλάβῃς. Sent with subordinate verbs: καὶ διὰ τοῦτο ἀκουστόν σοι ποιήσασθαι θέλω τὸ τοῦ σταυροῦ μυστήριον ὅπως διορθωσάμενός σε καὶ πιστεύσας πρὸς οἰκοδομὴν τῆς σῆς ψυχῆς οἵῳ δὴ ποτε τρόπῳ καταλάβῃς .
+Subordinate start οἵῳ. Matched verb καταλάβῃς. Sent with subordinate verbs: καὶ διὰ τοῦτο ἀκουστόν σοι ποιήσασθαι θέλω τὸ τοῦ σταυροῦ μυστήριον ὅπως διορθωσάμενός σε καὶ πιστεύσας πρὸς οἰκοδομὴν τῆς σῆς ψυχῆς οἵῳ δὴ ποτε τρόπῳ καταλάβῃς .
+Subordinate start ὃ. Matched verb φαίνεται. Sent with subordinate verbs: τοῦτο οἰκοδομεῖται ὃ φαίνεται ἀπολελωκός .
+Subordinate start ἵνα. Matched verb πειρασθῶ. Sent with subordinate verbs: μὴ γὰρ ἡ ψυχή μου ἀπώλετο ἵνα πρὸς οἰκοδομὴν αὐτοῦ ἐλθεῖν πειρασθῶ διὰ πίστεως ἧς λέγεις .
+Subordinate start ἧς. Matched verb λέγεις. Sent with subordinate verbs: μὴ γὰρ ἡ ψυχή μου ἀπώλετο ἵνα πρὸς οἰκοδομὴν αὐτοῦ ἐλθεῖν πειρασθῶ διὰ πίστεως ἧς λέγεις .
+Subordinate start ὃ. Matched verb ἐπεθύμουν. Sent with subordinate verbs: ὁ ἅγιος ἀνδρέας ἀπεκρίθη τοῦτο ἐστιν ὃ εἰρηκέναι σε ἐπεθύμουν ἵνα ἐν τῷ ἀπολελωκυίας τὰς πασῶν ἀνθρώπων ψυχὰς διδάξω .
+Subordinate start ἵνα. Matched verb διδάξω. Sent with subordinate verbs: ὁ ἅγιος ἀνδρέας ἀπεκρίθη τοῦτο ἐστιν ὃ εἰρηκέναι σε ἐπεθύμουν ἵνα ἐν τῷ ἀπολελωκυίας τὰς πασῶν ἀνθρώπων ψυχὰς διδάξω .
+Subordinate start ἵνα. Matched verb ἐκβληθῇ. Sent with subordinate verbs: καὶ ἀναγκαῖον ἦν τὸ γένος τῶν ἀνθρώπων ἵνα διὰ τοῦ ξύλου τοῦ πάθους ὁ εἰσελθὼν θάνατος ἐκβληθῇ .
+Subordinate start ὅτι. Matched verb ἐγεγόνει. Sent with subordinate verbs: καὶ ὅτι ἐξ ἀμώμου γῆς ἐγεγόνει ὁ πρῶτος ἄνθρωπος ὁ διὰ ξύλου παρακοῆς τῷ κόσμῳ θάνατον εἰσενέγκας .
+Subordinate start ἣν. Matched verb ἀπώλεσαν. Sent with subordinate verbs: ἣν ἀπώλεσαν διὰ τοῦ ἀδὰμ οἱ ἄνθρωποι .
+Subordinate start εἰ. Matched verb συνθῇς. Sent with subordinate verbs: ἐμοὶ δὲ εἰ μὴ τοῦτο συνθῇς ὅπως θυσίαν τοῖς παντοκράτορσι θεοῖς προσενέγκῃς .
+Subordinate start ὅπως. Matched verb προσενέγκῃς. Sent with subordinate verbs: ἐμοὶ δὲ εἰ μὴ τοῦτο συνθῇς ὅπως θυσίαν τοῖς παντοκράτορσι θεοῖς προσενέγκῃς .
+Subordinate start ᾧ. Matched verb ἐπαινεῖς. Sent with subordinate verbs: ἐν αὐτῷ τῷ σταυρῷ ᾧ ἐπαινεῖς ῥαβδισθέντα σε προσηλώσω .
+Subordinate start ὃς. Matched verb ἐστιν. Sent with subordinate verbs: ὃς εἷς ἐστιν ἀληθινός .
+Subordinate start οὗ. Matched verb διαμένει. Sent with subordinate verbs: οὗ τὰς σάρκας μετὰ τὸν πάντα τὸν πιστῶν λαὸν φαγεῖν καὶ τὸ αἷμα αὐτοῦ πιεῖν ὁ τυθεὶς ἀμνὸς ἀκέραιος διαμένει καὶ ζῶν .
+Subordinate start εἰ. Matched verb θέλεις. Sent with subordinate verbs: εἰ θέλεις εἰδέναι πῶς δύναται τοῦτο γενέσθαι .
+Subordinate start ἵνα. Matched verb δυνηθῇς. Sent with subordinate verbs: ἵνα δυνηθῇς διδαχθῆναι ὃ ζητεῖς .
+Subordinate start ὃ. Matched verb ζητεῖς. Sent with subordinate verbs: ἵνα δυνηθῇς διδαχθῆναι ὃ ζητεῖς .
+Subordinate start ἐὰν. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἐὰν πιστεύσῃς τὸν χριστὸν υἱὸν τοῦ θεοῦ τὸν σταυρωθέντα ὑπὸ τῶν ἰουδαίων ἀληθῆ θεὸν εἶναι .
+Subordinate start οἵῳ. Matched verb ζῇ. Sent with subordinate verbs: ἐφαπλώσω σοι οἵῳ πρόπῳ ζῇ ὁ ἀμνὸς ὁ μετὰ τὸ τυθῆναι καὶ βρωθῆναι ἀκέραιος καὶ ἄμωμος ἐν τῇ αὐτοῦ βασιλείᾳ διαμένων .
+Subordinate start ἐὰν. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἐὰν πιστεύσῃς ἐξ ὅλης καρδίας σου .
+Subordinate start εἰ. Matched verb πιστεύσεις. Sent with subordinate verbs: εἰ δὲ μὴ πιστεύσεις .
+Subordinate start ᾗ. Matched verb ἦλθεν. Sent with subordinate verbs: ἐν ᾗ κατακλείστου αὐτοῦ ὄντος ἦλθεν πρὸς αὐτὸν τὸ πλῆθος πάσης τῆς χώρας .
+Subordinate start οὓς. Matched verb παρῄνεσεν. Sent with subordinate verbs: οὓς ὁ ἅγιος ἀνδρέας τούτοις τοῖς λόγοις παρῄνεσεν λέγων .
+Subordinate start εἰ. Matched verb ἐκφοβεῖ. Sent with subordinate verbs: εἰ γὰρ φόβος ἐκφοβεῖ .
+Subordinate start ἐὰν. Matched verb εἰσιν. Sent with subordinate verbs: καὶ ἐὰν εἰσιν πόνοι ἐπτοημένοι .
+Subordinate start ἵνα. Matched verb φθάσητε. Sent with subordinate verbs: γίνεσθε οὖν μᾶλλον ἕτοιμοι πρὸς τοῦτο ἵνα διὰ τῶν προσκαίρων θλίψεων εἰς τὴν αἰωνίαν χαρὰν φθάσητε .
+Subordinate start ἐὰν. Matched verb καταλίπῃς. Sent with subordinate verbs: χάριτας ἔχειν σὺν σοὶ δυνήσομαι ἐὰν τῷ χριστῷ πιστεύων καταλίπῃς τὸ σέβας τῶν εἰδώλων .
+Subordinate start ἣν. Matched verb ἐξεζήτησα. Sent with subordinate verbs: ὁ γὰρ χριστός με ἀπέσταλκεν εἰς ταύτην τὴν χώραν εἰς ἣν οὐ μικρὸν λαὸν ἐξεζήτησα τῷ κυρίῳ .
+Subordinate start ἵνα. Matched verb καταλείψωσιν. Sent with subordinate verbs: ἵνα οὗτοι οἱ ὑπὸ σοῦ πλανηθέντες λαοὶ καταλείψωσιν τὴν ματαιότητα τῆς σῆς διδασκαλίας καὶ αὐτοὶ τοῖς θεοῖς θύσωσιν εὐαρέστους θυσίας .
+Subordinate start ᾗ. Matched verb εἰσὶ. Sent with subordinate verbs: οὐδεμία γὰρ ἐγκατελείφθη ἐν τῇ ἀχαΐᾳ πόλις ἐν ᾗ οὐκ ἀπευκταῖα καὶ κατεστραμμένα εἰσὶ τὰ τῶν θεῶν ἱερά .
+Subordinate start ᾧ. Matched verb ἐκλείψει. Sent with subordinate verbs: καὶ τέλος πάντων ἐν τῷ σταυρῷ ᾧ ἐπαίνεσας κρεμάμενος ἐκλείψει .
+Subordinate start ἐπειδὴ. Matched verb ἐπιμένεις. Sent with subordinate verbs: άλλὰ ἐπειδὴ ἐν τῇ ἀκαθαρσίᾳ σου ἐπιμένεις καὶ νομίζεις με τὰς ἀπειλάς σου πτοεῖσθαι .
+Subordinate start ὃ. Matched verb δοκεῖ. Sent with subordinate verbs: ὃ δοκεῖ σοι πρὸς τιμωρίαν τελείως μερίμνησον .
+Subordinate start ὅσον. Matched verb διαμείνω. Sent with subordinate verbs: τοσοῦτον γὰρ τῷ ἐμῷ βασιλεῖ γενήσομαι εὐπρόσδεκτος ὅσον ὑπὲρ τοῦ ὀνόματος αὐτοῦ διαμείνω ἐν βασάνοις ὁμολογητής .
+Subordinate start ὃν. Matched verb εἶπεν. Sent with subordinate verbs: πρὸς ὃν αἰγέας εἶπεν .
+Subordinate start ὃ. Matched verb ποιήσῃς. Sent with subordinate verbs: ὃ ἐὰν μὴ ποιήσῃς .
+Subordinate start ἐὰν. Matched verb πιστεύσῃς. Sent with subordinate verbs: ἐὰν μετὰ τὸ δοκιμάσαι σε τὴν ἐμὴν ὑπομονὴν καὶ οὕτως πιστεύσῃς τῷ χριστῷ .
+Subordinate start ἵνα. Matched verb δεθῇ. Sent with subordinate verbs: οὕτως δηλώσας τοῖς κεντιοναρίοις ἵνα δεθῇ τὰς χεῖρας καὶ τοὺς πόδας ὡς εἰς τριπάσσαλον τανυθῇ .
+Subordinate start ἵνα. Matched verb ἐπενεχθῇ. Sent with subordinate verbs: δίκαιος ἄνθρωπος καὶ φίλος θεοῦ τί ἐποίησεν ἵνα ἐπενεχθῇ ἐν τῷ σταυρῷ .
+Subordinate start ἵνα. Matched verb ἐμποδίσωσιν. Sent with subordinate verbs: ὁ δὲ ἅγιος ἀνδρέας παρεκάλει τὸν λαὸν ἵνα μὴ ἐμποδίσωσιν τὴν πάθησιν αὐτοῦ .
+Subordinate start ὡς. Matched verb ἦλθεν. Sent with subordinate verbs: ὡς δὲ ἦλθεν εἰς τὸν τόπον ὅπου ὁ σταυρὸς ἦν ἕτοιμος .
+Subordinate start ὅσας. Matched verb ἔχεις. Sent with subordinate verbs: ἐγνώσθης παρὰ τῶν πιστῶν ὅσας ἔχεις ἐν σοὶ χάριτας .
+Subordinate start ὅπως. Matched verb δέξῃ. Sent with subordinate verbs: ὅπως καὶ σὺ ἀγαλιώμενος δέξῃ ἐμὲ τὸν μαθητὴν τοῦ ἐν σοὶ κρεμασθέντος .
+Subordinate start ἵνα. Matched verb ἀπολάβῃ. Sent with subordinate verbs: λάβε με ἐκ τῶν ἀνθρώπων καὶ ἀπόδος με τῷ διδασκάλῳ μου ἵνα διὰ σοῦ ἀπολάβῃ ὁ διὰ σοῦ με λυτρωσάμενος .
+Subordinate start οἷς. Matched verb ἦν. Sent with subordinate verbs: ἐν οἷς ἦν καὶ ὁ ἀδελφὸς αἰγέα τοὔ νομα στρατοκλῆς .
+Subordinate start εἰ. Matched verb θέλεις. Sent with subordinate verbs: εἰ θέλεις πιστεῦσαι τῷ χριστῷ .
+Subordinate start εἰ. Matched verb ἦλθες. Sent with subordinate verbs: εἰ δὲ ἐπὶ τούτῳ μόνῳ ἦλθες τοῦ λῦσαί με .
+Subordinate start ὅτι. Matched verb ἡτοίμασταί. Sent with subordinate verbs: άλλὰ ἐκ τῶν σῶν ταλαιπωριῶν πεπόνημαι ὅτι ἡτοίμασταί σοι ἡ αἰώνιος ἀπώλεια .
+Subordinate start ὅσῳ. Matched verb δύνῃ. Sent with subordinate verbs: δράμε οὖν ὑπὲρ σεαυτοῦ ταλαίπωρε ἐν ὅσῳ δύνῃ .
+Subordinate start ὅτε. Matched verb δυνήσῃ. Sent with subordinate verbs: τότε ἄρξῃ θελῆσαι ὅτε οὐ δυνήσῃ .
+Subordinate start ὡς. Matched verb ἐπέμενεν. Sent with subordinate verbs: ὡς ἐπέμενεν ἡ ἔλλαμψις ἐκείνη ἐπὶ ἡμιωρίου διαστήματος .
 ============
 AndrMattBon1115
-Sent with subordinate verbs: ὑμεῖς δὲ ἐὰν πορνεύσητε .
+Subordinate start ἃς. Matched verb ἐποίησεν. Sent with subordinate verbs: ποῖαί εἰσιν αἱ δυνάμεις ἃς ἐποίησεν ἐν τῷ κρυπτῷ .
+Subordinate start ἃ. Matched verb ἐποίησεν. Sent with subordinate verbs: καθὼς ᾔτησάς μοι νῦν ἀπαγγ σοι τὰ σημεῖα ἃ ἐποίησεν ὁ κύριος ἡμῶν ἐν τῷ κρυπτῷ .
+Subordinate start ἵνα. Matched verb γνωρίσῃ. Sent with subordinate verbs: ἵνα γνωρίσῃ ἡμῖν τὴν ἄγνοιαν τοῦ διαβόλου .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: πῶς περιπατεῖτε μετὰ τοῦ λέγοντος ὅτι υἱός εἰμι τοῦ θεοῦ .
+Subordinate start ὅτι. Matched verb ἐξέκλιναν. Sent with subordinate verbs: γνοὺς δὲ ὁ ἰησοῦς ὅτι ἐξέκλιναν αἱ καρδίαι ἡμῶν .
+Subordinate start ὅτι. Matched verb ἔλθατε. Sent with subordinate verbs: ἡμεῖς δὲ εἴπαμεν τοῖς ἀρχιερεῦσιν λέγοντες ὅτι ἔλθατε καὶ ὑμεῖς καὶ θεάσασθε .
+Subordinate start ἵνα. Matched verb γνῶμεν. Sent with subordinate verbs: ἵνα γνῶμεν ὅτι ἀληθῆ ἐστιν ἢ οὔ .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: ἵνα γνῶμεν ὅτι ἀληθῆ ἐστιν ἢ οὔ .
+Subordinate start ὃ. Matched verb ἔγλυψαν. Sent with subordinate verbs: ὃ ἔγλυψαν τεχνιτῶν χεῖρες .
+Subordinate start εἰ. Matched verb εἰμι. Sent with subordinate verbs: καὶ ἀποκρίθητι καὶ ἔλεγξον τοὺς ἀρχιερεῖς καὶ ὑπόδειξον αὐτοῖς εἰ ἐγὼ θεός εἰμι ἢ ἄνθρωπος .
+Subordinate start οἷς. Matched verb ἠρκέσθη. Sent with subordinate verbs: οἷς οὐκ ἠρκέσθη μόνον ἡ τύφλωσις τῆς καρδίας αὐτῶν .
+Subordinate start ὅτι. Matched verb εἰμι. Sent with subordinate verbs: μὴ πρόσσχητέ μοι ὅτι ἐγώ εἰμι ψήφινον εἴδωλον .
+Subordinate start ὅτι. Matched verb εἰσιν. Sent with subordinate verbs: λέγω γὰρ ὑμῖν ὅτι καλλίονά εἰσιν τὰ ἱερὰ τῆς συναγωγῆς ὑμῶν .
+Subordinate start ἐὰν. Matched verb συνέλθωσιν. Sent with subordinate verbs: ἐὰν γὰρ συνέλθωσιν γυναιξίν .
+Subordinate start ὃ. Matched verb ἔδωκαν. Sent with subordinate verbs: διὰ τὸ ὄνομα ὃ ἔδωκαν ἡμῖν ὅτι θεός .
+Subordinate start ἐὰν. Matched verb πορνεύσητε. Sent with subordinate verbs: ὑμεῖς δὲ ἐὰν πορνεύσητε .
+Subordinate start ὅτι. Matched verb καταργήσουσιν. Sent with subordinate verbs: διὰ τοῦτο λέγω ὑμῖν ὅτι τὰ ἱερὰ καταργήσουσιν τὰς συναγωγὰς ὑμῶν .
+Subordinate start ὅτι. Matched verb εἰσιν. Sent with subordinate verbs: καὶ ἡμεῖς εἴπαμεν τοῖς ἀρχιερεῦσιν ὅτι ἄξιοί εἰσιν πιστευθῆναι .
+Subordinate start ὅτι. Matched verb λαλεῖ. Sent with subordinate verbs: θεωρήσατε καὶ μάθετε ὅτι ὁ λίθος οὗτος ἐν μαγείᾳ λαλεῖ .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: μὴ νομίσητε ὅτι θεός ἐστιν .
+Subordinate start εἰ. Matched verb ἐδοκιμάσατε. Sent with subordinate verbs: εἰ γὰρ ἐδοκιμάσατε ὅ τι ἐλάλησεν ὑμῖν .
+Subordinate start ὅ. Matched verb ἐλάλησεν. Sent with subordinate verbs: εἰ γὰρ ἐδοκιμάσατε ὅ τι ἐλάλησεν ὑμῖν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: ἠκούσατε γὰρ τοῦ λίθου λέγοντος ὅτι οὗτός ἐστιν ὁ λαλήσας μετὰ τοῦ ἀβραάμ .
+Subordinate start ὅτι. Matched verb ἐλάλησα. Sent with subordinate verbs: διὰ τί οὗτοι ἀπιστοῦσιν ὅτι ἐλάλησα μετὰ τοῦ ἀβραάμ .
+Subordinate start ἵνα. Matched verb ἐλέγξωμεν. Sent with subordinate verbs: ἵνα ἐλέγξωμεν τοὺς ἀρχιερεῖς .
+Subordinate start ὅτι. Matched verb ἐπίσταμαι. Sent with subordinate verbs: ὅπως γνῶσιν ὅτι ἐπίσταμαι σὲ καὶ σὺ ἐμέ .
+Subordinate start ἅπερ. Matched verb διηγήσωμαί. Sent with subordinate verbs: ἅπερ ἐὰν διηγήσωμαί σοι ἀδελφέ .
 ============
 ActAndrPrieur
-Sent with subordinate verbs: τὰ δὲ ὅλα ὅπως εἰδείης .
-Sent with subordinate verbs: καὶ εἰποῦσα ταῦτα προσεδόκα λοιπὸν λύχνους ἁφθήσεσθαι ὅπως ἐξέλθοι .
-Sent with subordinate verbs: ’ καὶ ἑτέροις δὲ ἐκέλευσε τέσσαρσι περὶ τὸν κοιτῶνα αὐτῆς γενέσθαι καὶ ἐπιτηρεῖν εἰ ἐξέρχοιτο .
-Sent with subordinate verbs: ἐγὼ μὲν οὖν ταῦτα εἰπὼν ὡς εἶπον .
-Sent with subordinate verbs: ὅπως διατεθῇς .
+Subordinate start ὃν. Matched verb ἔστεργε. Sent with subordinate verbs: ὃν ἔστεργε πάνυ .
+Subordinate start ὃν. Matched verb εἶπεν. Sent with subordinate verbs: ὃν θεασάμενος εἶπεν .
+Subordinate start ὅπως. Matched verb συμβεβήκῃ. Sent with subordinate verbs: άλλὰ ἐν θαλάσσῃ ἂν ἀπωλόμην ὅπως μοι τοῦτο μὴ συμβεβήκῃ .
+Subordinate start ὃς. Matched verb δύναται. Sent with subordinate verbs: ὃς δύναται οὐ μόνον δαίμονας φυγαδεῦσαι .
+Subordinate start εἰ. Matched verb καταλάβοι. Sent with subordinate verbs: άλλὰ εἰ καί τι τῶν ἀποτροπαίων καὶ δεινῶν καταλάβοι πάθος .
+Subordinate start ὡς. Matched verb λέγομεν. Sent with subordinate verbs: άλλὰ ὡς καὶ πεῖραν αὐτοῦ ἔχοντες λέγομεν ταῦτα .
+Subordinate start ὡς. Matched verb παραμυθοῦνται. Sent with subordinate verbs: καὶ ὡς παραμυθοῦνται αὐτὸν αἱ ἀμφότεραι .
+Subordinate start ὃν. Matched verb ἔλθῃ. Sent with subordinate verbs: ὃν ἰδόντες πάντες ἄφνω οἱ διὰ τὰς βοὰς τοῦ στρατοκλέους συνδραμόντες μειδιῶντα καὶ διιστῶντα τοὺς παρόντας καὶ αὐτῷ τόπον ποιοῦντα μέχρις ἂν ἔλθῃ πρὸς τὸν κείμενον ἐπὶ γῆς παῖδα .
+Subordinate start μέχρις. Matched verb ἔλθῃ. Sent with subordinate verbs: ὃν ἰδόντες πάντες ἄφνω οἱ διὰ τὰς βοὰς τοῦ στρατοκλέους συνδραμόντες μειδιῶντα καὶ διιστῶντα τοὺς παρόντας καὶ αὐτῷ τόπον ποιοῦντα μέχρις ἂν ἔλθῃ πρὸς τὸν κείμενον ἐπὶ γῆς παῖδα .
+Subordinate start ὅστις. Matched verb εἴη. Sent with subordinate verbs: διηπόρουν ὅστις εἴη .
+Subordinate start ὥς. Matched verb ἐδίδουν. Sent with subordinate verbs: ὥς τινι θεῷ φοβούμενοι τόπον ἐδίδουν .
+Subordinate start οὓς. Matched verb ἐπετίμησαν. Sent with subordinate verbs: οὓς οἱ λοιποὶ θεασάμενοι ἐνυβρίζοντας αὐτῷ ἐπετίμησαν αὐτοῖς ἀγνοοῦσιν ὃ ἐτόλμων .
+Subordinate start ὃ. Matched verb ἐτόλμων. Sent with subordinate verbs: οὓς οἱ λοιποὶ θεασάμενοι ἐνυβρίζοντας αὐτῷ ἐπετίμησαν αὐτοῖς ἀγνοοῦσιν ὃ ἐτόλμων .
+Subordinate start ὃ. Matched verb λέγω. Sent with subordinate verbs: ἰδοὺ γὰρ ὃ λέγω καὶ νῦν ὁρῶ ἐνταῦθα γινόμενον .
+Subordinate start οὓς. Matched verb ὁρῶμεν. Sent with subordinate verbs: καὶ ἄλλοι οὓς κοινῇ πάντες ὁρῶμεν περιέργους .
+Subordinate start ἐπειδὴ. Matched verb ὑπάρχουσιν. Sent with subordinate verbs: ἐπειδὴ συγγενεῖς αὐτοῦ ὑπάρχουσιν .
+Subordinate start ὃν. Matched verb δεδύνηνται. Sent with subordinate verbs: φυγαδεύων τὸν δαίμονα ὃν οἱ συγγενεῖς αὐτοῦ μὴ δεδύνηνται φυγαδεῦσαι .
+Subordinate start εἰ. Matched verb ὑπάρχει. Sent with subordinate verbs: άλλὰ εἰ καί που ἴχνος ἀδελφικόν μου ὑπάρχει .
+Subordinate start ὃ. Matched verb εἴδομεν. Sent with subordinate verbs: ἀρκεῖ ἡμῖν ἰδοῦσιν ἐν σοὶ ὃ εἴδομεν .
+Subordinate start ὅπως. Matched verb φθέγξηται. Sent with subordinate verbs: καὶ καθεσθέντες ἀφεώρων εἰς τὸν μακάριον ἀνδρέαν ὅπως τι φθέγξηται .
+Subordinate start ὅπως. Matched verb πιστεύσῃ. Sent with subordinate verbs: καὶ ἡ μαξιμίλλα ἐσπουδάκει τοῦ στρατοκλέους ἕνεκεν τὸν ἀπόστολον ὁμιλῆσαι ὅπως πιστεύσῃ εἰς τὸν κύριον .
+Subordinate start ὅτι. Matched verb ἐχρῆν. Sent with subordinate verbs: ὅτι δὲ καὶ τὸν ἐν σοὶ νῦν ἡσυχάζοντα ἐχρῆν ἄνθρωπόν με εὐθῦναι εἰς τοὐμφανὲς καὶ τοῦτο ἐπίσταμαι .
+Subordinate start ὃ. Matched verb ἔχεις. Sent with subordinate verbs: ἀποκύησον δὲ τέκνον ὃ ἔχεις .
+Subordinate start ὃ. Matched verb ἀποτίκτεις. Sent with subordinate verbs: ἔστι τι ὃ ἀποτίκτεις .
+Subordinate start ὃ. Matched verb φιλῶ. Sent with subordinate verbs: ὃ ἐγὼ φιλῶ .
+Subordinate start ὃ. Matched verb σιγᾷς. Sent with subordinate verbs: ἔστι τι ὃ σιγᾷς .
+Subordinate start ὃ. Matched verb ἐρῶ. Sent with subordinate verbs: ὃ ἐγὼ ἐρῶ .
+Subordinate start ὃ. Matched verb ἀναθρέψω. Sent with subordinate verbs: ὃ καὶ εἰς ἔνδον ἐγὼ ἀναθρέψω .
+Subordinate start ἃ. Matched verb πέπονθε. Sent with subordinate verbs: ἤδη μοι ἐντυγχάνει ἃ πέπονθε πολλοῖς χρόνοις ἀεί .
+Subordinate start ὅτι. Matched verb ὑπισχνεῖται. Sent with subordinate verbs: νῦν μανθάνει ὅτι οὐδὲν τῶν δεόντων ὑπισχνεῖται .
+Subordinate start ὅτι. Matched verb ἐπαγγέλλεται. Sent with subordinate verbs: νῦν ὁμολογεῖ ὅτι οὐδὲν τῶν χρησίμων ἐπαγγέλλεται .
+Subordinate start μέχρις. Matched verb γνωρίζω. Sent with subordinate verbs: καὶ οὐκ ἀποστήσομαί σου μέχρις ἐμαυτὸν γνωρίζω κατεγνωκὼς ἐκείνων ἁπάντων καὶ ὧν με σὺ ἤλεγξας ματαίοις ἐν αὐτοῖς κατατριβέντα .
+Subordinate start ὧν. Matched verb ἤλεγξας. Sent with subordinate verbs: καὶ οὐκ ἀποστήσομαί σου μέχρις ἐμαυτὸν γνωρίζω κατεγνωκὼς ἐκείνων ἁπάντων καὶ ὧν με σὺ ἤλεγξας ματαίοις ἐν αὐτοῖς κατατριβέντα .
+Subordinate start ὅστις. Matched verb ἐβούλετο. Sent with subordinate verbs: ὅστις τοῖς ἑαυτοῦ πᾶσιν χαίρειν φράσας μόνος μετὰ μόνου τοῦ ἀποστόλου διάγειν ἐβούλετο .
+Subordinate start ἃ. Matched verb ζητεῖς. Sent with subordinate verbs: οὕτως γάρ σοι μᾶλλον ἐγκατατεθήσεται ἃ ποθεῖς καὶ ζητεῖς .
+Subordinate start ἣν. Matched verb ἴσασιν. Sent with subordinate verbs: εἶτα τῷ βρέφει μετὰ τὸ τεχθῆναι λοιπὸν θεραπείαν προσάγουσίν τινα ἣν αὐταὶ ἴσασιν αἱ μεμυημέναι ὅπως τῶν ζωογονουμένων τι εἴη τὸ ὅσον ἐπί αὐταῖς .
+Subordinate start ὅπως. Matched verb εἴη. Sent with subordinate verbs: εἶτα τῷ βρέφει μετὰ τὸ τεχθῆναι λοιπὸν θεραπείαν προσάγουσίν τινα ἣν αὐταὶ ἴσασιν αἱ μεμυημέναι ὅπως τῶν ζωογονουμένων τι εἴη τὸ ὅσον ἐπί αὐταῖς .
+Subordinate start ἵνα. Matched verb ἀναγράφηται. Sent with subordinate verbs: ἵνα ὑπὸ πλειόνων τῶν συγγενῶν ἀναγράφηται καὶ προαγάγηται εἰς ἐπίδοσιν τῶν σωτηρίων λόγων ὧν κοινωνόν σε εὗρον .
+Subordinate start ὧν. Matched verb εὗρον. Sent with subordinate verbs: ἵνα ὑπὸ πλειόνων τῶν συγγενῶν ἀναγράφηται καὶ προαγάγηται εἰς ἐπίδοσιν τῶν σωτηρίων λόγων ὧν κοινωνόν σε εὗρον .
+Subordinate start οἷς. Matched verb εἶπεν. Sent with subordinate verbs: οἷς εἶπεν ὁ ἀνδρέας .
+Subordinate start ἐὰν. Matched verb φυλάξητε. Sent with subordinate verbs: ἐὰν τοῦτον τὸν τύπον φυλάξητε .
+Subordinate start ἐπειδὴ. Matched verb εἰσι. Sent with subordinate verbs: ἐπειδὴ οὔκ εἰσι τοῦ συμβούλου τῆς σφραγῖδος φωτὸς ὄντος συγγενοῦς .
+Subordinate start εἴ. Matched verb ἐστιν. Sent with subordinate verbs: κατατρέχουσι καὶ καταδύουσι φεύγουσαι εἰς τὸ συγγενὲς αὐτῶν σκότος καὶ πῦρ καὶ ὁμίχλας καὶ εἴ τί ἐστιν ἐπινοούμενον κολαστήριον ἐπάγγελμα .
+Subordinate start εἰ. Matched verb ῥυπώσητε. Sent with subordinate verbs: εἰ δὲ ῥυπώσητε τὸ λαμπρὸν τῆς δεδομένης ὑμῖν χάριτος .
+Subordinate start ἣν. Matched verb ἐμιάνατε. Sent with subordinate verbs: ἣν ὑμεῖς ἀποστάντες αὐτοῦ ἐμιάνατε .
+Subordinate start εἰ. Matched verb θέλετε. Sent with subordinate verbs: εἰ γὰρ φῶς θέλετε ἀκάμμυτον .
+Subordinate start εἴ. Matched verb ποθεῖτε. Sent with subordinate verbs: καὶ εἴ τι ὑμῖν φιλικώτερον ὃ ποθεῖτε καὶ ζητεῖτε .
+Subordinate start ὃ. Matched verb ποθεῖτε. Sent with subordinate verbs: καὶ εἴ τι ὑμῖν φιλικώτερον ὃ ποθεῖτε καὶ ζητεῖτε .
+Subordinate start ὡς. Matched verb ἠγγέλη. Sent with subordinate verbs: ὡς δὲ ἠγγέλη τῇ μαξιμίλλῃ ὁ ἀνὴρ ἀφιγμένος .
+Subordinate start μέχρις. Matched verb ἐξέλθωσιν. Sent with subordinate verbs: μὴ εἰσερχέσθω εἰς τοῦτον τὸν κοιτῶνα ὁ αἰγεάτης μέχρις οἱ σοὶ δοῦλοι ἀδεῶς ἐξέλθωσιν ἐντεῦθεν .
+Subordinate start ἵνα. Matched verb συνερχώμεθα. Sent with subordinate verbs: καὶ τῆς μαξιμίλλης ἀεὶ ἡμᾶς λιπαρούσης ἵνα ἐνταῦθα συνερχώμεθα καὶ ἀναπαυώμεθα .
+Subordinate start ὡς. Matched verb ἔκρινας. Sent with subordinate verbs: άλλὰ ὡς ἀξίαν αὐτὴν ἔκρινας καταξιῶσαι τῆς σῆς βασιλείας .
+Subordinate start ἵνα. Matched verb στηριχθείη. Sent with subordinate verbs: ἵνα τὸ μὴ ὁρώμενον ὑμῶν στηριχθείη ἐπί αὐτόν .
+Subordinate start ὡς. Matched verb ἐτελέσθη. Sent with subordinate verbs: ὡς δὲ καὶ ἡ τοιαύτη χάρις τοῦ κυρίου ἐτελέσθη .
+Subordinate start ὡς. Matched verb εἶδεν. Sent with subordinate verbs: ὡς δὲ εἶδεν αὐτὸν ἐπιστραφεῖσα εἰς γῆν ἀπεῖδεν .
+Subordinate start ἣν. Matched verb προσαγορεύσω. Sent with subordinate verbs: φιλήσω ἣν λοιπὸν οὐκ ἂν γυναῖκα προσαγορεύσω .
+Subordinate start ὅτι. Matched verb ηὔχετο. Sent with subordinate verbs: ᾤετο γὰρ ὁ τάλας κατειληφὼς αὐτὴν εὐχομένην ὅτι περὶ αὐτοῦ ηὔχετο .
+Subordinate start ὡς. Matched verb ἤγγιζε. Sent with subordinate verbs: ὡς δὲ καὶ τῷ στόματι ἤγγιζε φιλῆσαι τοῦτο θέλων .
+Subordinate start ὅπως. Matched verb εὔξηται. Sent with subordinate verbs: ὅπως ἐλθὼν ἐνθάδε τούτου κοιμωμένου ἐπιθείς μοι τὴν χεῖρα εὔξηται .
+Subordinate start ὅτε. Matched verb ἀπησπάσατο. Sent with subordinate verbs: ὅτε γὰρ τὸν ἀδελφὸν ἀπησπάσατο ἐπύθετο τὴν ξενίαν ἔνθα ὁ τοῦ κυρίου ἀπόστολος ᾤκει .
+Subordinate start ὃν. Matched verb γνωρίζεις. Sent with subordinate verbs: ὃν μάλιστα σὺ γνωρίζεις .
+Subordinate start οὗ. Matched verb τετέλεσται. Sent with subordinate verbs: οὗ ἕνεκεν τὸ πᾶν σου μυστήριον τῆς οἰκονομίας τετέλεσται .
+Subordinate start ὃ. Matched verb ἥδετο. Sent with subordinate verbs: προσεκαλέσατο καί φησιν αὐτῇ ὃ καὶ αὐτὴ ἥδετο καὶ ἐπεθύμει .
+Subordinate start ὧν. Matched verb δέῃ. Sent with subordinate verbs: εὐεργέτιν με ἕξεις ὧν δέῃ πάντων .
+Subordinate start εἴ. Matched verb συνθοῖο. Sent with subordinate verbs: εἴ μοι συνθοῖο καὶ φυλάξειας ἅ σοι προσανατίθεμαι .
+Subordinate start ἅ. Matched verb προσανατίθεμαι. Sent with subordinate verbs: εἴ μοι συνθοῖο καὶ φυλάξειας ἅ σοι προσανατίθεμαι .
+Subordinate start ἃ. Matched verb ἐβούλετο. Sent with subordinate verbs: καὶ εἰποῦσα πρὸς τὴν εὐκλίαν ἃ ἐβούλετο .
+Subordinate start ὡς. Matched verb ἐστὶ. Sent with subordinate verbs: ὡς γὰρ ἔθος ἐστὶ γυναικὶ εὐτρεπίζεσθαι τὰ τοῦ ἐναντίου εὐτρεπίσματα .
+Subordinate start ᾗ. Matched verb ἀφίει. Sent with subordinate verbs: ᾗ καὶ χρώμενος ὡς τῇ ἑαυτοῦ συμβίῳ ἀφίει ἀνισταμένην αὐτὴν ἀπιέναι εἰς τὸν ἴδιον κοιτῶνα ἑαυτῆς .
+Subordinate start ὃ. Matched verb ᾐτήσατο. Sent with subordinate verbs: κἀκείνη αὐτῆς ἡμέρας παρέσχεν αὐτῇ ὃ ᾐτήσατο .
+Subordinate start ἃ. Matched verb ἠπόρουν. Sent with subordinate verbs: ἃ γνωρίσαντες οἱ τῆς εὐκλίας σύνδουλοι ἠπόρουν ὃ πράξωσιν .
+Subordinate start ὃ. Matched verb πράξωσιν. Sent with subordinate verbs: ἃ γνωρίσαντες οἱ τῆς εὐκλίας σύνδουλοι ἠπόρουν ὃ πράξωσιν .
+Subordinate start ὧν. Matched verb ἔλεγεν. Sent with subordinate verbs: ἡ δὲ εὐκλία αὐτοῖς πίστιν ὧν ἔλεγεν ἔτι μᾶλλον παρέχεσθαι βουληθεῖσα ἐπέστησεν οἰνωμένου τοῦ ἑαυτῆς δεσπότου πρὸς τῇ κεφαλῇ αὐτοῦ δύο τινάς .
+Subordinate start ὅτι. Matched verb παρακατακλίνεται. Sent with subordinate verbs: ὅπως πεισθεῖεν ὅτι ὄντως αὐτῷ παρακατακλίνεται ὡς αὐτὴ οὖσα ἡ μαξιμίλλα .
+Subordinate start ὅ. Matched verb εἴη. Sent with subordinate verbs: ἡ δὲ μαξιμίλλα ἐδέετο αὐτοῦ μαθεῖν ὅ τι εἴη τοῦτο .
+Subordinate start ὃ. Matched verb γνωρίζεις. Sent with subordinate verbs: ὃ μετ’ ὀλίγον γνωρίζεις μὴ σπεῦδε παρά ἐμοῦ μαθεῖν .
+Subordinate start ἵνα. Matched verb ὀφθῇ. Sent with subordinate verbs: κἀκείνης τῆς ὥρας εἰς τὸ πραιτώριον τοῦ ἀνθυπάτου εἰσερχομένης καὶ ἀντιτεινούσης ἵνα μὴ ὀφθῇ .
+Subordinate start οὓς. Matched verb ἀπηξίωσεν. Sent with subordinate verbs: οὓς οὐκ ἀπηξίωσεν ἡ μακαρῖτις ὧν ἠξίουν .
+Subordinate start ὧν. Matched verb ἠξίουν. Sent with subordinate verbs: οὓς οὐκ ἀπηξίωσεν ἡ μακαρῖτις ὧν ἠξίουν .
+Subordinate start ὧν. Matched verb εἰσιν. Sent with subordinate verbs: δῶμεν τούτοις ὧν εἰσιν ἄξιοι .
+Subordinate start ὅπως. Matched verb ὑπέβαλε. Sent with subordinate verbs: καὶ τὸ ὅλον διήγημα ἤγγελλον αὐτῷ καὶ ὅπως αὐτοῖς ἡ ἰδία συνδούλη ὑπέβαλε τὸ τῆς μαξιμίλλης τεχνασθὲν πρᾶγμα .
+Subordinate start ὅπως. Matched verb παρεκατεκλίνετο. Sent with subordinate verbs: καὶ ὁ ἀνθύπατος πάντα ἀκριβευσάμενος καὶ ὅπως ἡ εὐκλία παρεκατεκλίνετο αὐτῷ ὡς αὐτὴ οὖσα ἡ σύμβιος .
+Subordinate start ἣν. Matched verb ἔμαθεν. Sent with subordinate verbs: ἣν καὶ αὐτὴν ἀνακρίνας ἔμαθεν τὴν ὅλην αἰτίαν .
+Subordinate start ἥτις. Matched verb ὡμολόγησεν. Sent with subordinate verbs: ἥτις βασανιζομένη πάντα ὡμολόγησεν ἃ παρὰ τῆς δεσποίνης ἔλαβεν τοῦ σιγῆσαι ἕνεκεν .
+Subordinate start ἃ. Matched verb ἔλαβεν. Sent with subordinate verbs: ἥτις βασανιζομένη πάντα ὡμολόγησεν ἃ παρὰ τῆς δεσποίνης ἔλαβεν τοῦ σιγῆσαι ἕνεκεν .
+Subordinate start ᾗ. Matched verb ἐκαυχήσατο. Sent with subordinate verbs: ἐπί ᾗ πάνυ ἀγανακτήσας διότι ἐκαυχήσατο πρὸς τοὺς συνδούλους ἐκεῖνά τε εἶπεν ὑποδιαβάλλουσα τὴν δέσποιναν —
+Subordinate start διότι. Matched verb ἐκαυχήσατο. Sent with subordinate verbs: ἐπί ᾗ πάνυ ἀγανακτήσας διότι ἐκαυχήσατο πρὸς τοὺς συνδούλους ἐκεῖνά τε εἶπεν ὑποδιαβάλλουσα τὴν δέσποιναν —
+Subordinate start ἃ. Matched verb εἶπον. Sent with subordinate verbs: τοὺς δὲ λοιποὺς αὐτοῦ δούλους τοὺς εἰρηκότας πρὸς αὐτὸν ἃ δὴ εἶπον .
+Subordinate start ἣν. Matched verb ἐτιθέμην. Sent with subordinate verbs: ἣν ἀεὶ ὥσπερ τινὰ θεὰν ἐτιθέμην .
+Subordinate start ὅπερ. Matched verb ἐνδέχεται. Sent with subordinate verbs: ὅπερ ἐνδέχεται .
+Subordinate start εἰ. Matched verb ἔστι. Sent with subordinate verbs: εἰ μὲν οὖν ἔστι τι τοιοῦτον ὅπερ οὐκ ἂν προσδοκήσαιμι τὸ ὑπεισιόν μοι περί τινος ἑτέρου ἀνδρός .
+Subordinate start ὅπερ. Matched verb προσδοκήσαιμι. Sent with subordinate verbs: εἰ μὲν οὖν ἔστι τι τοιοῦτον ὅπερ οὐκ ἂν προσδοκήσαιμι τὸ ὑπεισιόν μοι περί τινος ἑτέρου ἀνδρός .
+Subordinate start εἰ. Matched verb εἴη. Sent with subordinate verbs: εἰ δὲ καὶ ἕτερόν τι χαλεπώτερον τούτου εἴη διαζευγνῦόν σε ἐμοῦ .
+Subordinate start ὃ. Matched verb φιλῶ. Sent with subordinate verbs: καὶ ὃ φιλῶ οὐδὲν τῶν ἐν τῷ κόσμῳ ἐστὶν τούτῳ ὥστε γενέσθαι σοι κατάδηλον .
+Subordinate start ὃ. Matched verb ἴδοις. Sent with subordinate verbs: ὃ οὐκ ἂν αὐτὸς ἴδοις δύσκολον ὄν .
+Subordinate start ὃ. Matched verb πράξει. Sent with subordinate verbs: ὁ δὲ ἀνθύπατος ἐξελθὼν ἀπ ’ αὐτῆς καί τις ὥσπερ ἐμμανὴς ἠπόρει ὃ πράξει .
+Subordinate start ὡς. Matched verb ἤρξατό. Sent with subordinate verbs: καὶ ὡς ἤρξατό τι ἕτερον λέγειν πρὸς τὸν ἀδελφὸν ἀθυμῶν .
+Subordinate start εἰ. Matched verb βούλῃ. Sent with subordinate verbs: εἰ ἄρα βούλῃ τὸ πρᾶγμα ἐκμαθεῖν .
+Subordinate start εἰ. Matched verb βούλῃ. Sent with subordinate verbs: εἰ δὲ ἤδη τὸ πᾶν πρᾶγμα γνῶναι βούλῃ .
+Subordinate start ὅπως. Matched verb εἰδείης. Sent with subordinate verbs: τὰ δὲ ὅλα ὅπως εἰδείης .
+Subordinate start ἵνα. Matched verb εἴπω. Sent with subordinate verbs: ἵνα μὴ καὶ σοῦ εἴπω .
+Subordinate start ᾧπερ. Matched verb δέδεται. Sent with subordinate verbs: ἀλλὰ καὶ τὸν ἀδελφόν σου στρατοκλέα τῷ αὐτῷ πόθῳ περιέδησεν ᾧπερ καὶ αὐτὴ δέδεται .
+Subordinate start ὡς. Matched verb ὡμίλει. Sent with subordinate verbs: καὶ ὡς ὡμίλει ταῦτα ὁ νέος τῷ ἰδίῳ δεσπότῃ βαδίζοντι διὰ τὸ πολλὴν αὐτὸν ὥραν εἰς γῆν ὁρᾶν .
+Subordinate start ὃν. Matched verb ἀκαταστατεῖ. Sent with subordinate verbs: ἰδοὺ ὁ ἄνθρωπος διὰ ὃν ἡ οἰκία σου ἀκαταστατεῖ νῦν .
+Subordinate start ᾧ. Matched verb ἐχρῆτο. Sent with subordinate verbs: περιβαλὼν αὐτοῦ τῷ αὐχένι ᾧ ἐχρῆτο ἐπὶ τοῦ ὤμου ὁ μακάριος σαβάνιον .
+Subordinate start ὃν. Matched verb ἐγνώρισε. Sent with subordinate verbs: ὃν ἰδὼν ὁ ἀνθύπατος ἐγνώρισε καὶ εἶπεν .
+Subordinate start ᾧ. Matched verb ἠβουλήθην. Sent with subordinate verbs: ᾧ ἠβουλήθην χρῆμα ἱκανὸν χαρίσασθαι καὶ οὐκ ἠβουλήθης .
+Subordinate start ἵνα. Matched verb ἔχῃς. Sent with subordinate verbs: ἵνα πένης οὕτως καὶ λιτὸς ὁρώμενος καὶ ἤδη πρεσβύτης πλουσίους ἔχῃς ἐραστὰς καὶ πένητας καὶ μέχρι καὶ βρεφῶν ὡς πυνθάνομαι .
+Subordinate start ὅτι. Matched verb ἐκφεύξεται. Sent with subordinate verbs: ὅτι με οὐκ ἐκφεύξεται .
+Subordinate start ὅτι. Matched verb δυνησόμεθα. Sent with subordinate verbs: πιστεύω δὲ ὅτι ἑσπέρας γενομένης δυνησόμεθα ἰδεῖν τὸν ἀπόστολον τοῦ κυρίου καὶ ὅτι οὐθείς με ὄψεται ἀπιοῦσαν .
+Subordinate start ὅτι. Matched verb ὄψεται. Sent with subordinate verbs: πιστεύω δὲ ὅτι ἑσπέρας γενομένης δυνησόμεθα ἰδεῖν τὸν ἀπόστολον τοῦ κυρίου καὶ ὅτι οὐθείς με ὄψεται ἀπιοῦσαν .
+Subordinate start ὡς. Matched verb προσέστη. Sent with subordinate verbs: καὶ ὡς προσέστη ὥραν μίαν ἡ πιστοτάτη ἰφιδάμα .
+Subordinate start οὓς. Matched verb ἐστήριζεν. Sent with subordinate verbs: οὓς ἤδη εἰς τὴν πίστιν τοῦ κυρίου παρακαλῶν ἐστήριζεν .
+Subordinate start ὃς. Matched verb δίδως. Sent with subordinate verbs: ὃς εὐθαρσίαν τοῖς συνδούλοις δίδως .
+Subordinate start ᾧ. Matched verb καταγωνίζονται. Sent with subordinate verbs: ᾧ κεχρημένοι πάντες καταγωνίζονται τοὺς ἐναντίους .
+Subordinate start ἣν. Matched verb ἐπίσταμαι. Sent with subordinate verbs: ἣν ἐπίσταμαι φρουρουμένην ἅμα τῇ δεσποίνῃ .
+Subordinate start ἣν. Matched verb περισκέπασον. Sent with subordinate verbs: ἣν περισκέπασον αὐτὸς καὶ νῦν ἀπιοῦσαν τῇ σῇ περιβολῇ καὶ ἑσπέρας παραγινομένην ἅμα τῇ δεσποίνῃ .
+Subordinate start ὅπως. Matched verb γένωνται. Sent with subordinate verbs: ὅπως μή τινι τῶν ἐχθρῶν κατάδηλοι γένωνται .
+Subordinate start ἃς. Matched verb φύλαξον. Sent with subordinate verbs: ἃς φύλαξον αὐτὸς καὶ φιλοστόργους οὔσας .
+Subordinate start ὅπως. Matched verb εἴητε. Sent with subordinate verbs: ὅπως καὶ διὰ τούτων εἴητε στηριζόμεναι ἐπὶ τὸν κύριον ἡμῶν .
+Subordinate start ὅτι. Matched verb ἐμεγαλύνετο. Sent with subordinate verbs: καὶ ὅτι ἐμεγαλύνετο τῇ δυνάμει τοῦ κυρίου .
+Subordinate start ὁπόσα. Matched verb ὡμίλησεν. Sent with subordinate verbs: καὶ ὁπόσα αὐτῇ ἄλλα ὡμίλησεν ἔνδον διηγεῖτο αὐτῇ ἀμφοτέρων ἕνεκεν .
+Subordinate start ἅπερ. Matched verb διηγεῖτο. Sent with subordinate verbs: καὶ ἡ μαξιμίλλα ἀκούσασα πάντα ἅπερ αὐτῇ ἡ ἰφιδάμα διηγεῖτο ὡς παρὰ τοῦ ἀποστόλου ἠγαλλία τῷ πνεύματι εἰρηκυῖα .
+Subordinate start εἰ. Matched verb φυλάττοι. Sent with subordinate verbs: οὐδὲ γὰρ εἰ λεγεὼν ὅλη φυλάττοι με κατακλείσασα ὡς μὴ ἰδεῖν τὸν ἀπόστολόν σου ἰσχύσειεν ἄν .
+Subordinate start ὅπως. Matched verb ἐξέλθοι. Sent with subordinate verbs: καὶ εἰποῦσα ταῦτα προσεδόκα λοιπὸν λύχνους ἁφθήσεσθαι ὅπως ἐξέλθοι .
+Subordinate start ἣν. Matched verb ἠσφαλίσθω. Sent with subordinate verbs: ‘ ἤδη ἡ θύρα ἣν πεπίστευσαι ἠσφαλίσθω .
+Subordinate start μή. Matched verb ἀνεῴξῃς. Sent with subordinate verbs: καὶ ὅρα μή τινι τῶν πολὺ δυναμένων ὑπὸ δυσωπίας ἢ θεραπείας πεισθεὶς ἀνεῴξῃς .
+Subordinate start εἰ. Matched verb ἔλθοιμι. Sent with subordinate verbs: μηδὲ εἰ καὶ αὐτὸς ἔλθοιμι .
+Subordinate start ἐπεὶ. Matched verb ἕξεις. Sent with subordinate verbs: ἐπεὶ κεφαλὴν οὐχ ἕξεις .
+Subordinate start εἰ. Matched verb ἐξέρχοιτο. Sent with subordinate verbs: ’ καὶ ἑτέροις δὲ ἐκέλευσε τέσσαρσι περὶ τὸν κοιτῶνα αὐτῆς γενέσθαι καὶ ἐπιτηρεῖν εἰ ἐξέρχοιτο .
+Subordinate start οὗ. Matched verb ἀπωθούμεθα. Sent with subordinate verbs: διὰ οὗ τὸ αἰσχρὸν ἀπωθούμεθα .
+Subordinate start οὗ. Matched verb ῥίπτομεν. Sent with subordinate verbs: διὰ οὗ τὸ ἄδικον ῥίπτομεν .
+Subordinate start οὗ. Matched verb ἀφίεμεν. Sent with subordinate verbs: διὰ οὗ τὸν ἀνελεήμονα ἀφίεμεν .
+Subordinate start οὗ. Matched verb ἐγνωρίσαμεν. Sent with subordinate verbs: διὰ οὗ τὸν ἀπολλύντα ἐγνωρίσαμεν .
+Subordinate start οὗ. Matched verb ἐρρίψαμεν. Sent with subordinate verbs: διὰ οὗ τὸ σκότος ἐρρίψαμεν .
+Subordinate start οὗ. Matched verb ἀπεστράμμεθα. Sent with subordinate verbs: διὰ οὗ τὰ πολλὰ ἀπεστράμμεθα .
+Subordinate start οὗ. Matched verb ἐμάθομεν. Sent with subordinate verbs: διὰ οὗ τὰ ἐπίγεια ἐμάθομεν .
+Subordinate start οὗ. Matched verb εἴδομεν. Sent with subordinate verbs: διὰ οὗ τὰ μὴ μένοντα εἴδομεν ἄξιον εὐχαριστίαν ἢ παρρησίαν ἢ ὕμνον ἢ καύχημα προελόμενοι εἰπεῖν εἰς τὸνἐλεήσαντα ἡμᾶς θεὸν άλλὰ ἢ γνωρισθῆναι ὑπό αὐτοῦ .
+Subordinate start αἷς. Matched verb ἔσχεν. Sent with subordinate verbs: ἐν αἷς οὐκ ἔσχεν ὁ αἰγεάτης ἔννοιαν ἐπεξελθεῖν τὴν κατὰ τὸν ἀπόστολον αἰτίαν .
+Subordinate start ἣν. Matched verb ἔσχεν. Sent with subordinate verbs: καὶ ὥσπερ τις ἐμμανὴς γεγονὼς ἀφίησιν ἣν ἐν χερσὶν δίκην ἔσχεν .
+Subordinate start ἵνα. Matched verb εἴπω. Sent with subordinate verbs: καὶ ἵνα μὴ εἴπω πολλὰ ὧν ἐβουλόμην εἰς ὄνειδός σου ἐκφέρειν .
+Subordinate start ὧν. Matched verb ἐβουλόμην. Sent with subordinate verbs: καὶ ἵνα μὴ εἴπω πολλὰ ὧν ἐβουλόμην εἰς ὄνειδός σου ἐκφέρειν .
+Subordinate start ὧν. Matched verb ἔπαθον. Sent with subordinate verbs: ὧν τε ἐγὼ ὑπὸ τῶν γονέων σου ἔπαθον εὐεργεσιῶν .
+Subordinate start ὧν. Matched verb ἔτυχες. Sent with subordinate verbs: ὧν τε αὐτὴ ὑπό ἐμοῦ τιμῶν καὶ θεραπειῶν ἔτυχες .
+Subordinate start εἰ. Matched verb εἴης. Sent with subordinate verbs: εἰ μὲν εἴης ἐκείνη ὁποία ἦσθα πάλαι .
+Subordinate start ὃν. Matched verb ἠπιστάμεθα. Sent with subordinate verbs: συμβιοῦσά μοι ὃν ἠπιστάμεθα τρόπον .
+Subordinate start ὃν. Matched verb ἔχω. Sent with subordinate verbs: ἔτι μᾶλλον καὶ ὃν ἔχω ἐν τῷ δεσμωτηρίῳ ξένον ἀπολύσω .
+Subordinate start εἰ. Matched verb βούλῃ. Sent with subordinate verbs: εἰ δὲ μὴ βούλῃ .
+Subordinate start ὃν. Matched verb στέργεις. Sent with subordinate verbs: διὰ ἐκείνου δὲ ὃν μάλιστα ἐμοῦ στέργεις πλέον ἀνιάσω σε .
+Subordinate start ὃ. Matched verb βούλῃ. Sent with subordinate verbs: πρὸς ὁπότερον τοιγαροῦν ὃ βούλῃ .
+Subordinate start ἐπεὶ. Matched verb βούλῃ. Sent with subordinate verbs: ἐπεὶ δὲ καὶ τὴν ἐμὴν γνώμην ἐπιμαρτυρῆσαι βούλῃ .
+Subordinate start ὃ. Matched verb ἐχρῆν. Sent with subordinate verbs: ὃ γὰρ μάλιστα ἐχρῆν με εἰπεῖν πρὸς σέ οὐ γὰρ ἡσυχάζω καὶ διὰ σοῦ ὁρώμενον καὶ γινόμενον πρᾶγμα ποιήσας ὑπέδραμέν με .
+Subordinate start ὃ. Matched verb ἔπαθεν. Sent with subordinate verbs: ὃ γὰρ ἐκείνη ἔπαθεν ἀγνοοῦσα .
+Subordinate start ἧς. Matched verb ἀποτείνομαι. Sent with subordinate verbs: πρὸς ἧς ἀποτείνομαι ψυχήν .
+Subordinate start ὅπερ. Matched verb ἔπαθεν. Sent with subordinate verbs: καὶ ὅπερ ὁ σὺν ἐκείνῃ καταχθεὶς καὶ ἀπολισθήσας ἑαυτοῦ νοῦς ἔπαθεν .
+Subordinate start ὃ. Matched verb παρήκουσεν. Sent with subordinate verbs: καὶ ὃ ἐκείνη παρήκουσεν .
+Subordinate start ὃ. Matched verb συνέθετο. Sent with subordinate verbs: καὶ ὃ ἐκεῖνος συνέθετο .
+Subordinate start ἃ. Matched verb ἐσφάλησαν. Sent with subordinate verbs: καὶ ἃ ἐκεῖνοι ἐσφάλησαν .
+Subordinate start ὡς. Matched verb εἶπον. Sent with subordinate verbs: ἐγὼ μὲν οὖν ταῦτα εἰπὼν ὡς εἶπον .
+Subordinate start ἃ. Matched verb ἔπαθες. Sent with subordinate verbs: εὖγε ψυχὴ βοῶσα ἃ ἔπαθες καὶ ἐπανιοῦσα ἐπί ἑαυτήν .
+Subordinate start ὡς. Matched verb καταμανθάνω. Sent with subordinate verbs: ὡς μείζονά σε καταμανθάνω νοουμένων ἢ λεγομένων .
+Subordinate start ὧν. Matched verb εἶ. Sent with subordinate verbs: ἐπί ὧν ὄντως εἶ .
+Subordinate start ᾧ. Matched verb ὑπερέχεις. Sent with subordinate verbs: συλλαβὼν ἑαυτὸν ἐν καταστάσει σου καὶ ἀπολαβὼν νόει ἐν ᾧ ὑπερέχεις .
+Subordinate start ὧν. Matched verb ἐθέμεθα. Sent with subordinate verbs: ὧν σοι προσηγορίας ἐθέμεθα ὑπερμεγέθεις οὔσας .
+Subordinate start ὃν. Matched verb γνωρίσῃ. Sent with subordinate verbs: ὃν τάχα εἷς μόνος γνωρίσῃ θαρρῶν .
+Subordinate start ὅτι. Matched verb ἔχομεν. Sent with subordinate verbs: εἰδυῖα ὅτι θεὸν ἔχομεν τὸν ἐλεοῦντα ἡμᾶς .
+Subordinate start μή. Matched verb κινείτωσαν. Sent with subordinate verbs: καὶ μή σε οἱ ἐκείνου ψόφοι κινείτωσαν .
+Subordinate start ἐὰν. Matched verb ἐκδῷς. Sent with subordinate verbs: ἐὰν γὰρ μὴ ἐκδῷς ἑαυτήν .
+Subordinate start εἰ. Matched verb ἀπελαθείην. Sent with subordinate verbs: εἰ δὲ ἐγὼ ἀπελαθείην ἐντεῦθεν .
+Subordinate start μέχρις. Matched verb γνῷς. Sent with subordinate verbs: ἴσθι με ἕνεκέν σου κολασθησόμενον μέχρις ἂν αὐτὴ γνῷς ὅτι μὴ ὑπὲρ ἀξίας ψυχῆς τὸ τοῦ βίου ζῆν ἀπέπτυσα .
+Subordinate start ὅτι. Matched verb ἀπέπτυσα. Sent with subordinate verbs: ἴσθι με ἕνεκέν σου κολασθησόμενον μέχρις ἂν αὐτὴ γνῷς ὅτι μὴ ὑπὲρ ἀξίας ψυχῆς τὸ τοῦ βίου ζῆν ἀπέπτυσα .
+Subordinate start ὅπως. Matched verb διαμείνῃ. Sent with subordinate verbs: δέομαί σου οὖν τοῦ φρονίμου ἀνδρὸς ὅπως διαμείνῃ εὔοψις νοῦς .
+Subordinate start ὅπως. Matched verb διαφυλαχθῇ. Sent with subordinate verbs: δέομαί σου τοῦ μὴ φαινομένου νοῦ ὅπως αὐτὸς διαφυλαχθῇ .
+Subordinate start ὃν. Matched verb παρακαλῶ. Sent with subordinate verbs: ὃν παρακαλῶ ἄνθρωπον .
+Subordinate start ἵνα. Matched verb γένωμαι. Sent with subordinate verbs: ἵνα τέλειος γένωμαι .
+Subordinate start ἵνα. Matched verb γνωρίσῃς. Sent with subordinate verbs: ἵνα γνωρίσῃς τὴν ἀληθῆ σου φύσιν .
+Subordinate start ἵνα. Matched verb γνωρίσῃς. Sent with subordinate verbs: ἵνα γνωρίσῃς ὃ πάσχω καὶ τοῦ παθεῖν φεύξῃ .
+Subordinate start ὃ. Matched verb πάσχω. Sent with subordinate verbs: ἵνα γνωρίσῃς ὃ πάσχω καὶ τοῦ παθεῖν φεύξῃ .
+Subordinate start ἃ. Matched verb ὁρῶ. Sent with subordinate verbs: ἴδε ἃ αὐτὸς ὁρῶ .
+Subordinate start ἃ. Matched verb ὁρᾷς. Sent with subordinate verbs: καὶ ἃ ὁρᾷς πηρώσει σε .
+Subordinate start ἃ. Matched verb δεῖ. Sent with subordinate verbs: ἴδε ἃ δεῖ .
+Subordinate start ἃ. Matched verb δεῖ. Sent with subordinate verbs: καὶ ἃ μὴ δεῖ οὐκ ὄψῃ .
+Subordinate start ὧν. Matched verb λέγω. Sent with subordinate verbs: ἄκουσον ὧν λέγω .
+Subordinate start ἅπερ. Matched verb ἤκουσας. Sent with subordinate verbs: καὶ ἅπερ ἤκουσας ῥῖψον .
+Subordinate start εἰ. Matched verb ἀκούσῃ. Sent with subordinate verbs: εἰ ἄρα ἀκούσῃ .
+Subordinate start ὅπως. Matched verb διατεθῇς. Sent with subordinate verbs: ὅπως διατεθῇς .
+Subordinate start ὃν. Matched verb ὁρῶ. Sent with subordinate verbs: ἔστιν τις ἐν σοὶ ὁμιλήσας ὃν ἐγὼ ὁρῶ ἴδιόν μου .
+Subordinate start ὃς. Matched verb ἀνέξεταί. Sent with subordinate verbs: μή τις ἐν σοὶ ὃς οὐκ ἀνέξεταί μου .
+Subordinate start ὃν. Matched verb ἐζήτουν. Sent with subordinate verbs: ἔχω ὃν ἐζήτουν .
+Subordinate start ὃν. Matched verb ἐπόθουν. Sent with subordinate verbs: εὗρον ὃν ἐπόθουν .
+Subordinate start ὃν. Matched verb ἠγάπων. Sent with subordinate verbs: κρατῶ ὃν ἠγάπων .
+Subordinate start ὃν. Matched verb προσεδόκουν. Sent with subordinate verbs: ἀναπαύομαι ἐπί ὃν προσεδόκουν .
+Subordinate start ὅτι. Matched verb πεποίημαι. Sent with subordinate verbs: ὅτι οὐ μάτην πεποίημαι πρὸς σὲ τοὺς συγγενεῖς μου λόγους .
+Subordinate start ὅτι. Matched verb ἐστι. Sent with subordinate verbs: ὅτι ἕτερόν τί ἐστι τὸ ἀνιῶν με άλλὰ ἢ σύ .
+Subordinate start ὧν. Matched verb ἔχω. Sent with subordinate verbs: ὅπως δυναίμην ἄξιος γενέσθαι ὧν ἔχω σου σπερμάτων .
+Subordinate start ἃ. Matched verb ἐπιδώσει. Sent with subordinate verbs: ἃ οὐκ ἄλλως ἐπιδώσει ἄπληκτα καὶ εἰς τὸ φανερὸν ἀνίσχοντα .
+Subordinate start ἃ. Matched verb ἑώρων. Sent with subordinate verbs: ἃ καὶ αὐτὸς ἑώρων ἐν σοί .
+Subordinate start ὅτι. Matched verb ἑώρων. Sent with subordinate verbs: καί μου τὸν κύριον δοξάζω ὅτι μου ἡ ἃ καὶ αὐτὸς ἑώρων ἐν σοί .
+Subordinate start ἃ. Matched verb ἑώρων. Sent with subordinate verbs: καί μου τὸν κύριον δοξάζω ὅτι μου ἡ ἃ καὶ αὐτὸς ἑώρων ἐν σοί .
+Subordinate start ὅτι. Matched verb ἐκενεμβάτησεν. Sent with subordinate verbs: καί μου τὸν κύριον δοξάζω ὅτι μου ἡ περὶ σὲ ἔννοια οὐκ ἐκενεμβάτησεν .
+Subordinate start ὃ. Matched verb εἶπεν. Sent with subordinate verbs: άλλὰ οἶδεν ὃ εἶπεν .
+Subordinate start ὅπως. Matched verb εἰδῆτε. Sent with subordinate verbs: ὅπως δὲ εἰδῆτε .
+Subordinate start οὓς. Matched verb ἀπετείνατο. Sent with subordinate verbs: ἐκείνη γὰρ τοὺς λόγους κατακούσασα οὓς πρὸς αὐτὴν ἀπετείνατο καὶ τρόπον τινὰ διατεθεῖσα ἀπ ’ αὐτῶν καὶ γενομένη τοῦτο ὅπερ οἱ λόγοι ἐδείκνυον .
+Subordinate start ὅπερ. Matched verb ἐδείκνυον. Sent with subordinate verbs: ἐκείνη γὰρ τοὺς λόγους κατακούσασα οὓς πρὸς αὐτὴν ἀπετείνατο καὶ τρόπον τινὰ διατεθεῖσα ἀπ ’ αὐτῶν καὶ γενομένη τοῦτο ὅπερ οἱ λόγοι ἐδείκνυον .
+Subordinate start ἧς. Matched verb ἔφησεν. Sent with subordinate verbs: περὶ ἧς ἔφησεν αὐτῇ διασκέψασθαι .
+Subordinate start εἰ. Matched verb βούλοιτο. Sent with subordinate verbs: εἰ ἄρα βούλοιτο αὐτῷ συγκαθεύδειν .
+Subordinate start ὡς. Matched verb ἐπεκράτησεν. Sent with subordinate verbs: καὶ ὡς ἐπεκράτησεν αὐτῷ τὸ πάντων μᾶλλον τὸ ἀνασκολοπισθῆναι .
+Subordinate start ὧν. Matched verb κατηξίωσεν. Sent with subordinate verbs: ἐξεπέμφθην ὑπὸ τοῦ κυρίου ἀπόστολος εἰς τὰ κλίματα ταῦτα ὧν με κατηξίωσεν ὁ κύριός μου .
+Subordinate start ὅτι. Matched verb διάγουσιν. Sent with subordinate verbs: ὑπομνῆσαι δὲ πάντα τὸν συγγενῆ τῶν λόγων ἄνθρωπον ὅτι ἐν κακοῖς τοῖς προσκαίροις διάγουσιν τερπόμενοι ταῖς ἐπιβλαβέσιν αὐτῶν φαντασίαις .
+Subordinate start ὧν. Matched verb παρεκάλεσα. Sent with subordinate verbs: ὧν ἀεὶ καὶ ὑμᾶς παρεκάλεσα ἐκστῆναι .
+Subordinate start ἧς. Matched verb ᾠκοδόμηται. Sent with subordinate verbs: ἧς ἕνεκεν τὰ πάντα ᾠκοδόμηται .
+Subordinate start ὧν. Matched verb γεγόνασιν. Sent with subordinate verbs: στηρίχθητε μνημονεύοντες ὧν ὅσα τε γεγόνασιν συναναστρέφοντός μου πᾶσιν ὑμῖν .
+Subordinate start ὅσα. Matched verb γεγόνασιν. Sent with subordinate verbs: στηρίχθητε μνημονεύοντες ὧν ὅσα τε γεγόνασιν συναναστρέφοντός μου πᾶσιν ὑμῖν .
+Subordinate start οἷς. Matched verb ἔχετε. Sent with subordinate verbs: εἴδετε διὰ ἐμοῦ ἔργα γεγονότα οἷς οὐκ ἔχετε ἀπιστῆσαι αὐτοί .
+Subordinate start οἷς. Matched verb ἔχετε. Sent with subordinate verbs: γεγονότα σημεῖα τοιαῦτα γεγονότα οἷς οὐκ ἔχετε ἀπιστῆσαι αὐτοί .
+Subordinate start ἃ. Matched verb κεκράξεται. Sent with subordinate verbs: γεγονότα σημεῖα τοιαῦτα ἃ καὶ τάχα ἡ ἄλαλος φύσις κεκράξεται .
+Subordinate start οὓς. Matched verb εὔχομαι. Sent with subordinate verbs: λόγους ὑμῖν παρέδωκα οὓς εὔχομαι οὕτως καταδέχεσθαι ὑπό ὑμῶν ὡς αὐτοὶ οἱ λόγοι θέλουσιν .
+Subordinate start οἷς. Matched verb εἴδετε. Sent with subordinate verbs: ἐπὶ πᾶσιν οἷς εἴδετε .
+Subordinate start οἷς. Matched verb ἠκούσατε. Sent with subordinate verbs: οἷς ἠκούσατε .
+Subordinate start οἷς. Matched verb ἐκοινωνήσατε. Sent with subordinate verbs: οἷς ἐκοινωνήσατε .
+Subordinate start ὃν. Matched verb ἐπιστεύσατε. Sent with subordinate verbs: καὶ ὑμᾶς ὁ θεὸς εἰς ὃν ἐπιστεύσατε ἐλεήσας εὐαρέστους παραστήσει ἑαυτῷ ἀναπεπαυμένους εἰς ἅπαντας αἰῶνας .
+Subordinate start ᾧ. Matched verb παρέσχετο. Sent with subordinate verbs: ᾧ πολλὰ παρέσχετο αὐτὸς ὁ θεὸς διὰ ἔργων καὶ λόγων .
+Subordinate start ὅπως. Matched verb συνθῶνται. Sent with subordinate verbs: ὅπως αὐτῷ συνθῶνται .
+Subordinate start ὃ. Matched verb βούλεται. Sent with subordinate verbs: καὶ οὐχ ἕξει ὃ βούλεται .
+Subordinate start εἰ. Matched verb δεῖ. Sent with subordinate verbs: καὶ εἰ δεῖ λέγειν .
+Subordinate start ὧν. Matched verb ἐδόκει. Sent with subordinate verbs: διὰ ὧν αὐτοῦ περικρατεῖν ἐδόκει .
+Subordinate start ὅτε. Matched verb ἐξήφθη. Sent with subordinate verbs: άλλὰ ὅτε τὸ τῆς χάριτος μυστήριον ἐξήφθη .
+Subordinate start ὧν. Matched verb ἐδόκει. Sent with subordinate verbs: διὰ ὧν αὐτοῦ ἐδόκει κατοφρυοῦσθαι .
+Subordinate start μέχρις. Matched verb νομίζει. Sent with subordinate verbs: καὶ τοῦτο ἐν ἔργῳ τέθεικεν μὴ παύσασθαι ἀπό ἡμῶν μέχρις ἂν εἰς ἃ νομίζει χωρήσωμεν .
+Subordinate start ἃ. Matched verb νομίζει. Sent with subordinate verbs: καὶ τοῦτο ἐν ἔργῳ τέθεικεν μὴ παύσασθαι ἀπό ἡμῶν μέχρις ἂν εἰς ἃ νομίζει χωρήσωμεν .
+Subordinate start ὅ. Matched verb ἐστιν. Sent with subordinate verbs: τοῦτο ἤλεγξεν καὶ ὁμολογεῖν ὅ ἐστιν παρεσκεύασεν .
+Subordinate start ὅστις. Matched verb ἐστὶ. Sent with subordinate verbs: ὅπως καὶ αὐτὸς λοιπὸν δειχθῇ ὅστις ἐστὶ τὴν φύσιν .
 ============
 MartAndrPrieurB
-
+Subordinate start ὡς. Matched verb ἐνετείλατο. Sent with subordinate verbs: πάντως μέμνησθε ὡς ἐνετείλατο ἡμῖν λαβοῦσιν τὸ πνεῦμα τὸ ἅγιον διασπαρῆναι εἰς ὅλην τὴν οἰκουμένην κηρύσσοντας μετάνοιαν καὶ ἄφεσιν ἁμαρτιῶν τοῖς πιστεύουσιν εἰς τὸ ὄνομα τὸ ἅγιον αὐτοῦ .
+Subordinate start ὃ. Matched verb προσκέκληκεν. Sent with subordinate verbs: ἡμεῖς δὲ ὀκνοῦμεν καὶ ῥᾳθυμοῦμεν ἐξελθεῖν εἰς τὸ ἔργον ὃ προσκέκληκεν ἡμᾶς καὶ εἰς ὃ ἐξελέξατο ἡμᾶς .
+Subordinate start ὃ. Matched verb ἐξελέξατο. Sent with subordinate verbs: ἡμεῖς δὲ ὀκνοῦμεν καὶ ῥᾳθυμοῦμεν ἐξελθεῖν εἰς τὸ ἔργον ὃ προσκέκληκεν ἡμᾶς καὶ εἰς ὃ ἐξελέξατο ἡμᾶς .
+Subordinate start ὅτι. Matched verb ἦλθεν. Sent with subordinate verbs: καὶ εἰσελθόντος αὐτοῦ εἰς τὴν πόλιν φήμη διεδόθη ὅτι ἄνθρωπος ξένος ἦλθεν εἰς τὴν πόλιν γυ μνός .
+Subordinate start ὃν. Matched verb κηρύσσει. Sent with subordinate verbs: τί παθὼν παρὰ τοῦ ξένου ἀνδρέα κακῶς ἐλογίσω διαχειρίσασθαι αὐτὸν καὶ παρελογίσω τὸν θεὸν ὃν κηρύσσει .
+Subordinate start ἕως. Matched verb ἐπιγνῷς. Sent with subordinate verbs: καὶ νῦν ἰδοὺ χεὶρ κυρίου αὐτοῦ ἐπὶ σὲ καὶ ἔσῃ παραπλὴξ ἕως οὗ ἐπιγνῷς διὰ αὐτοῦ τὴν ἀλήθειαν .
+Subordinate start οὗ. Matched verb ἐπιγνῷς. Sent with subordinate verbs: καὶ νῦν ἰδοὺ χεὶρ κυρίου αὐτοῦ ἐπὶ σὲ καὶ ἔσῃ παραπλὴξ ἕως οὗ ἐπιγνῷς διὰ αὐτοῦ τὴν ἀλήθειαν .
+Subordinate start μετ’. Matched verb ἐκάλει. Sent with subordinate verbs: καὶ μετ’ οὐ πολὺ ὀλίγον ἀνανήψας ἐκάλει τοὺς διακονοῦντας αὐτῷ στρατιώτας καὶ ἔλεγεν αὐτοῖς μετὰ δακρύων .
+Subordinate start ὃς. Matched verb κηρύσσει. Sent with subordinate verbs: ὃς κηρύσσει ξένον θεόν .
+Subordinate start οὗ. Matched verb δυνήσομαι. Sent with subordinate verbs: διὰ οὗ δυνήσομαι ἐπιγνῶναι τὴν ἀλήθειαν .
+Subordinate start ἵνα. Matched verb ἔσται. Sent with subordinate verbs: ἵνα καὶ αὐτὸς ἔσται τῶν σῶν ἀνθρώπων .
+Subordinate start ἐπειδὴ. Matched verb πεπίστευκας. Sent with subordinate verbs: ἐπειδὴ μεγάλως πεπίστευκας εἰς τὸν ἀποστείλαντά με .
+Subordinate start ὡς. Matched verb ἦν. Sent with subordinate verbs: ὡς δὲ ἐν τούτοις ἦν καὶ πᾶσα ἡ πόλις ἔχαιρεν ἐπὶ τῇ σωτηρίᾳ τοῦ ἀνθυπάτου .
+Subordinate start ὡς. Matched verb παρενόχλησεν. Sent with subordinate verbs: ὡς δὲ ὄχλος ἱκανὸς παρενόχλησεν .
+Subordinate start ὅτι. Matched verb ἀπώλεσας. Sent with subordinate verbs: καὶ ἀνεδίδαξαν αὐτὸν ὡς ὅτι θεοὺς ἀπώλεσας πατρῶν καὶ ναοὺς κατέστρεψας καὶ τὰ ἄλση αὐτῶν ἐξέκοψας καὶ ἕνα τινὰ ἔπεισας ἐσταυρωμένον προσκυνεῖν .
+Subordinate start ἵνα. Matched verb δοξασθῇς. Sent with subordinate verbs: ἵνα σὺ δοξασθῇς κἀκεῖνος ἐντραπῇ .
+Subordinate start ὡς. Matched verb ηὔχετο. Sent with subordinate verbs: καὶ ὡς ἔτι τὴν εὐχὴν ηὔχετο .
+Subordinate start ἐπειδὴ. Matched verb παρέστησεν. Sent with subordinate verbs: ἐπειδὴ πάντας ἡμᾶς τῷ ζωοποιῷ χριστῷ ὡς ἀρνία παρέστησεν .
+Subordinate start ὡς. Matched verb παρέστησεν. Sent with subordinate verbs: ἐπειδὴ πάντας ἡμᾶς τῷ ζωοποιῷ χριστῷ ὡς ἀρνία παρέστησεν .
+Subordinate start μήποτε. Matched verb διαχειρίσωνται. Sent with subordinate verbs: ταῦτα αὐτῶν βοώντων φοβηθεὶς ὁ μακάριος μήποτε τὸ πλῆθος διαχειρίσωνται τοὺς ἀποσταλέντας παρὰ τοῦ αἰγεάτου .
+Subordinate start ὃς. Matched verb διῆλθεν. Sent with subordinate verbs: ὃς διῆλθεν διὰ τοῦ δούλου αὐτοῦ εὐεργετῶν πάντας τοὺς καταδυναστευομένους ὑπὸ τοῦ διαβόλου .
+Subordinate start ἵνα. Matched verb πιστεύσητε. Sent with subordinate verbs: οὐ τοῦτο μόνον χάρις ἐστὶν ἵνα εἰς τὸν ἀποστείλαντά με πιστεύσητε .
+Subordinate start ἵνα. Matched verb ἀποθάνητε. Sent with subordinate verbs: άλλὰ ἵνα καὶ ὑπὲρ αὐτοῦ ἀποθάνητε .
+Subordinate start οἷς. Matched verb ἵστανται. Sent with subordinate verbs: ἐν οἷς ὀνόματα βασιλέων καὶ εἰκόνες αὐτοκρατόρων ἵστανται καὶ τρόπαια κατά ἐχθρῶν .
+Subordinate start ᾧ. Matched verb πέποιθα. Sent with subordinate verbs: καλὸς θεός μου ᾧ πέποιθα ἤγαγέν σε .
+Subordinate start οὗ. Matched verb ἔρριπται. Sent with subordinate verbs: διὰ οὗ τὸ μὲν στῖφος τῶν δαιμόνων εἰς ἄβυσσον ἔρριπται .
+Subordinate start ὃς. Matched verb ἦλθεν. Sent with subordinate verbs: ὃς θεὸς ὢν τῇ ἰδίᾳ δυνάμει σῶμα ἀναλαβὼν ἦλθεν εἰς τὸν κόσμον καὶ ἡμᾶς τοὺς ἀποστόλους ἐξελέξατο καὶ ἔδωκεν ἡμῖν ἐξουσίαν διαδραμεῖν εἰς πάντα τὰ ἔθνη καὶ κηρῦξαι ἐν τῷ ὀνόματι αὐτοῦ μετάνοιαν καὶ ἄφεσιν ἁμαρτιῶν .
+Subordinate start ἵνα. Matched verb ἀκούσῃς. Sent with subordinate verbs: ἵνα ἐὰν ἀκούσῃς πιστεύσας εἰς αὐτὸν σωθήσῃ .
+Subordinate start ἐὰν. Matched verb ἀκούσῃς. Sent with subordinate verbs: ἵνα ἐὰν ἀκούσῃς πιστεύσας εἰς αὐτὸν σωθήσῃ .
+Subordinate start εἰ. Matched verb ἀνανεύσεις. Sent with subordinate verbs: εἰ δὲ ἀπιστήσας ἀνανεύσεις κριθήσῃ μετὰ τῶν λεγομένων θεῶν σου .
+Subordinate start ὅτι. Matched verb κεκόσμηκας. Sent with subordinate verbs: καλὸς εἶ ἰησοῦ ὅτι κεκόσμηκας ἡμᾶς τῷ σῷ ὅπλῳ καὶ ἐστεφάνωσας ἡμᾶς τῇ σῇ χάριτι .
+Subordinate start ἵνα. Matched verb αἰνέσῃ. Sent with subordinate verbs: ἵνα ἡ ψυχή μου μετὰ ἀγγέλων χορεύουσα αἰνέσῃ σε .
+Subordinate start ὡς. Matched verb ἦλθεν. Sent with subordinate verbs: ὡς δὲ ἦλθεν ἐπὶ τὸν σταυρόν .
+Subordinate start ὡς. Matched verb ἦλθεν. Sent with subordinate verbs: ὡς δὲ ἦλθεν ἐπὶ τὸν τόπον .
+Subordinate start ὃν. Matched verb ἐπίσταμαι. Sent with subordinate verbs: ἧκον ἐπὶ σὲ ὃν ἐπίσταμαι ἴδιόν μου .
+Subordinate start ἵνα. Matched verb στηρίξῃς. Sent with subordinate verbs: πέπηξαι γὰρ ἐν κόσμῳ ἵνα τὰ ἄστατα στηρίξῃς .
+Subordinate start ἵνα. Matched verb σημαίνῃς. Sent with subordinate verbs: καὶ τὸ μέν σου εἰς οὐρανὸν ἀνατείνεται ἵνα τὸν οὐράνιον λόγον σημαίνῃς .
+Subordinate start ἵνα. Matched verb ἀντικει. Sent with subordinate verbs: τὸ δέ σου ἥπλωται δεξιᾷ καὶ ἀριστερᾷ ἵνα τὴν φθονερὰν καὶ ἀντικει μένην δύναμιν τροπώσῃ καὶ τὸν κόσμον συναγάγῃ εἰς ἕν .
+Subordinate start ἵνα. Matched verb συνάψῃς. Sent with subordinate verbs: τὸ δέ σου πέπηκται εἰς τὴν γῆν ἵνα τὰ εἰς γῆν καὶ τὰ ἐν τοῖς καταχθονίοις συνάψῃς τοῖς ἐπουρανίοις .
+Subordinate start ἵνα. Matched verb ἐξέλθω. Sent with subordinate verbs: ἵνα ἐν τῷ σταυρῷ ζωοποιηθῶ καὶ διὰ σταυροῦ τὸν κοινὸν θάνατον τοῦ βίου ἐξέλθω .
+Subordinate start ὅτι. Matched verb ζῇ. Sent with subordinate verbs: καὶ ὁ αἰγεάτης ἀκούσας ὅτι ἔτι ζῇ ἐθαύμασεν καὶ δρομαῖος ὁρμᾷ πρὸς αὐτόν .
+Subordinate start ἵνα. Matched verb πιστεύσωσιν. Sent with subordinate verbs: ἵνα διὰ ἐμοῦ πολλοὶ πιστεύσωσιν εἰς σὲ καὶ γένωμαι ἀληθὴς μάρτυς τῆς σῆς θεότητος .
 ============
 MartAndrBonTert
-
+Subordinate start ἧσπερ. Matched verb ὡρμᾶτο. Sent with subordinate verbs: ἐξ ἧσπερ καὶ φίλιππος ὡρμᾶτο καί τινες τῶν λοιπῶν ἀποστόλων καὶ μαθητῶν .
+Subordinate start ὃν. Matched verb εἶπεν. Sent with subordinate verbs: ὃν στραφεὶς καὶ θεασάμενος ὁ σωτὴρ τοῦ κόσμου εἶπεν πρὸς αὐτὸν τίνα ζητεῖς .
+Subordinate start ὃν. Matched verb ἔρχου. Sent with subordinate verbs: πρὸς ὃν ὁ χριστὸς ἔρχου καὶ ὅδε .
+Subordinate start ὃς. Matched verb μένει. Sent with subordinate verbs: ὃς ἐλθὼν καὶ ἰδὼν ποῦ μένει ἔμεινεν παρά αὐτῷ τὴν μετὰ δὲ ταῦτα εὑρηκὼς ἐν πρώτοις τὸν ἴδιον ὁμαίμονα ἔφη πρὸς αὐτὸν ἀδελφὲ πέτρε .
+Subordinate start ὃν. Matched verb ἐζητοῦμεν. Sent with subordinate verbs: ὃν ἐζητοῦμεν εὑρήκαμεν .
+Subordinate start ὃν. Matched verb ἐποθοῦμεν. Sent with subordinate verbs: ὃν ἐποθοῦμεν κατέχομεν .
+Subordinate start ὃν. Matched verb ἔφη. Sent with subordinate verbs: ὃν θεασάμενος ἐρχόμενον ὁ τοῦ θεοῦ λόγος ἔφη σὺ εἶ σίμων .
+Subordinate start ὅ. Matched verb ἐστιν. Sent with subordinate verbs: ὅ ἐστιν τῇ ἑλληνίδι ἑρμηνευόμενον πέτρος .
+Subordinate start ᾗ. Matched verb παρεμβάλλει. Sent with subordinate verbs: ἐν ᾗ παρεμβάλλει ὅ τε ἄψαρος καὶ φᾶσις οἱ ποταμοί .
+Subordinate start ᾗ. Matched verb διέκειντο. Sent with subordinate verbs: ἐν ᾗ οἱ ταύτην οἰκοῦντες αἱμοβόροι τινὲς καὶ ἀνήμεροι καὶ θηρίων ἀγριωδέστερον τῇ γνώμῃ διέκειντο οὐ μόνον πρὸς ἀλλήλους ἀλλὰ καὶ πρὸς πάντας τοὺς ἔξωθεν ἐπεισερχομένους ἐπήλυδάς τε καὶ νεήλυδας .
+Subordinate start ἣν. Matched verb ἐσφραγίσθητε. Sent with subordinate verbs: μέχρι τέλους ἀνεξάρνητον αὐτοῦ φυλάξατε τὸ ὄνομα καὶ τὴν σφραγῖδα ἣν ἐσφραγίσθητε .
+Subordinate start ἵνα. Matched verb πεποίηκας. Sent with subordinate verbs: καὶ ἵνα τί τοῦτο πεποίηκας .
+Subordinate start ὡς. Matched verb παραγέγονα. Sent with subordinate verbs: ἕνεκεν γὰρ τοῦ παραινέσαι σε καταλιπὼν τὸ δικάζειν ὡς ἀναγκαῖον ὂν παραγέγονα .
+Subordinate start εἰ. Matched verb πεισθῇς. Sent with subordinate verbs: εἰ οὖν πεισθῇς μοι συμβουλεύοντι .
+Subordinate start ὃν. Matched verb κατέχω. Sent with subordinate verbs: ἀπολύσω δὲ χάριν σου καὶ ὃν κατέχω ἐν τῷ δεσμωτηρίῳ ὡς κατάδικον ξένον .
+Subordinate start εἰ. Matched verb βουληθῇς. Sent with subordinate verbs: εἰ δὲ μὴ βουληθῇς ταῖς ἐμαῖς πεισθῆναι παραινέσεσιν αἷς νῦν πρὸς σὲ δυσωπῶν διεξέρχομαι .
+Subordinate start αἷς. Matched verb διεξέρχομαι. Sent with subordinate verbs: εἰ δὲ μὴ βουληθῇς ταῖς ἐμαῖς πεισθῆναι παραινέσεσιν αἷς νῦν πρὸς σὲ δυσωπῶν διεξέρχομαι .
+Subordinate start ὃν. Matched verb ἔχω. Sent with subordinate verbs: ὃν δὲ ἔχω ἐν δεσμοῖς ξένον .
+Subordinate start ὃν. Matched verb στέργεις. Sent with subordinate verbs: ὃν καὶ πλέον ἐμοῦ ποθοῦσα στέργεις .
+Subordinate start εἰ. Matched verb βούλῃ. Sent with subordinate verbs: εἰ τῆς ἐμῆς νουθεσίας καὶ διδαχῆς τὴν ἄγκυραν βεβαίαν κατασχεῖν βούλῃ καὶ τῆς εἰς χριστὸν πίστεως οὐδαμῶς ἀποστῆναι .
+Subordinate start ὅπερ. Matched verb ὑποκρίνεται. Sent with subordinate verbs: μὴ πράξῃς τοῦτο ὅπερ ὁ αἰγεάτης κολακεύων δολερῶς ὑποκρίνεται .
+Subordinate start εἰ. Matched verb ἐπαγγέλλεται. Sent with subordinate verbs: εἰ καὶ κατὰ σοῦ μηδὲν δεινὸν πράξειν ἐπαγγέλλεται .
+Subordinate start ὃν. Matched verb πεπίστευκας. Sent with subordinate verbs: άλλὰ ὑπομείνασα πᾶσαν αὐτοῦ ἀπειλουμένην ἢ καὶ ἐπαγομένην θλῖψιν ἀφόρα εἰς ἡμᾶς τοὺς διὰ χριστὸν ὃν πεπίστευκας ἑτοίμως ἔχοντας πᾶσαν κολαστηρίων ἐπίνοιαν ὑπὸ τοῦ μισοχρίστου αἰγεάτου προσαγομένην ὑπενεγκεῖν .
+Subordinate start οὗ. Matched verb ἐνυμφεύθης. Sent with subordinate verbs: τηροῦσα τὸν χιτῶνα οὗ ἐνυμφεύθης νυμφίου ἀρύπωτον ἀκηλίδωτον καὶ ἀμίαντον μέχρι τῆς ἐσχάτης σου ἡμέρας καὶ ἀναπνοῆς .
+Subordinate start ὅσα. Matched verb ἔξεστιν. Sent with subordinate verbs: ἡμῖν δὲ ὅσα ἔξεστιν τῷ ἀνθυπάτῳ ἐπαπειλεῖν μὴ λόγοις μόνον ἀλλὰ καὶ ἔργοις ταῦτα διεξερχέσθω κατὰ τὸ αὐτῷ δοκοῦν .
+Subordinate start εἴτε. Matched verb τεμνέτω. Sent with subordinate verbs: εἴτε ξίφει τεμνέτω .
+Subordinate start εἴτε. Matched verb προσηλωσάτω. Sent with subordinate verbs: εἴτε σταυρῷ προσηλωσάτω .
+Subordinate start ὧν. Matched verb ἔλεγεν. Sent with subordinate verbs: εἰς κατάνυξιν ἐλθὼν περὶ ὧν ὁ μακάριος ἀπόστολος νουθετῶν ἔλεγεν τῇ μαξιμίλλῃ .
+Subordinate start ὃν. Matched verb ἐπύθετο. Sent with subordinate verbs: ὃν θεασάμενος ὁ πρωτόκλητος καὶ λαβόμενος τῆς χειρὸς αὐτοῦ ἐπύθετο πρὸς αὐτὸν τί οὕτως δακρύων ἀκαθέκτως οὐ διαλιμπάνεις καὶ στένων οὐκ ἐφησυχάζεις .
+Subordinate start ὅτι. Matched verb πεποίημαι. Sent with subordinate verbs: ὁρῶ γάρ σου τὸν ἀδιάπαυστον ὀδυρμὸν καὶ χαίρω ὅτι οὐ μάτην τοὺς λόγους πεποίημαι .
+Subordinate start ὅτι. Matched verb ἀποδύρομαι. Sent with subordinate verbs: καὶ ὁ στρατοκλῆς αὐτῷ ἀπεκρίνατο μὴ νόμιζε ὦ ἀπόστολε πρωτόκλητε ὅτι διὰ ἕτερόν τι δακρύων ἀποδύρομαι ἢ ἕνεκεν σοῦ .
+Subordinate start ἧς. Matched verb δύναται. Sent with subordinate verbs: ἧς χωρὶς οὐδὲν εἰς τὸ φανερὸν προελθεῖν δύναται .
+Subordinate start κἀ. Matched verb εὐφραίνομαι. Sent with subordinate verbs: ταῦτα κἀ γὼ τέκνον ἐννοῶν στρατόκλη εὐφραίνομαι .
+Subordinate start ἵνα. Matched verb γνῶτε. Sent with subordinate verbs: ἵνα δὲ γνῶτε .
+Subordinate start οὗ. Matched verb ἐστιν. Sent with subordinate verbs: οὗ ἐστιν οὗτος συγγενὴς διὰ τὴν πρὸς αὐτὸν σχέσιν .
+Subordinate start ᾧπερ. Matched verb νενύμφευται. Sent with subordinate verbs: ἅπαντα τὰ τοῦ κόσμου χαίρειν φράσασα καὶ μόνῳ τῷ θεῷ συνεῖναι ᾧπερ καὶ νενύμφευται .
+Subordinate start εἰ. Matched verb βούλοιτο. Sent with subordinate verbs: ὁ δὲ αἰγεάτης προσκαλεσάμενος αὐτὴν περὶ τῶν ὁμοίων ἠξίου προτρεπόμενος διασκέψασθαι εἰ ἄρα βούλοιτο πρὸς αὐτὸν ὡς πάλαι διατεθῆναι .
+Subordinate start ὧν. Matched verb ἠσχολοῦντο. Sent with subordinate verbs: ὑπομνῆσαι ἅπαντας περὶ ὧν ματαίως ἠσχολοῦντο τῶν ψευδωνύμων θεῶν .
+Subordinate start ἧς. Matched verb συνέστηκεν. Sent with subordinate verbs: ἧς ἄνευ οὐδὲν τῶν ὄντων συνέστηκεν .
+Subordinate start ἵνα. Matched verb ἔδρασας. Sent with subordinate verbs: ἵνα τί ταῦτα κατά ἐμοῦ καὶ πάσης ἔδρασας ἀχαΐας .
+Subordinate start ὧν. Matched verb διεπράξω. Sent with subordinate verbs: τοιγαροῦν ἐν ἀνέσει ἀπολαύων καὶ ἐντρυφῶν τῶν παρά ἐμοῦ δωρεῶν τε καὶ ἀμοιβῶν ἀντί ὧν εἰς ἐμὲ διεπράξω .
+Subordinate start ὃν. Matched verb κατεῖχεν. Sent with subordinate verbs: ὡς ὁ δίκαιος καὶ χριστοῦ δοῦλος ὃν ὁ αἰγεάτης δέσμιον κατεῖχεν πορεύεται τιμωρηθησόμενος .
+Subordinate start ὡς. Matched verb διῆγον. Sent with subordinate verbs: ὡς δὲ διῆγον αὐτὸν πρὸς τὸν τῆς τελειώσεως οἱ δήμιοι τόπον .
+Subordinate start ὅτι. Matched verb διέρρηξεν. Sent with subordinate verbs: οἱ δὲ παραλαβόντες αὐτὸν παρὰ τοῦ ἀνθυπάτου στρατιῶται ἀφέντες τὸν ἀπόστολον μετὰ τοῦ στρατοκλῆ καὶ ὑποστρέψαντες ἀνήγγειλαν τῷ αἰγεάτῃ λέγοντες ὅτι βαδιζόντων ἡμῶν ἅμα ἀνδρέου προφθάσας ὁ στρατοκλῆς διέρρηξεν ἡμῶν τοὺς χιτῶνας καὶ ἀποσπάσας αὐτὸν ἀπό ἡμῶν ἔλαβεν αὐτὸν μετά ἑαυτοῦ .
+Subordinate start εἴ. Matched verb διαπράξηται. Sent with subordinate verbs: τῷ δὲ στρατοκλεῖ μηδὲ ὅλως ὀφθῆτε ἤ τι ἄλογον ἀντείπητε τάχα εἴ τι τοιοῦτον διαπράξηται .
+Subordinate start ‹ἐάν. Matched verb ῥαπίσῃ. Sent with subordinate verbs: μεμνημένον τοῦ κυριακοῦ λόγου τοῦ λέγοντος ‹ἐάν τίς σε ῥαπίσῃ εἰς τὴν δεξιὰν σιαγόνα .
+Subordinate start ᾧ. Matched verb ὑπάρχει. Sent with subordinate verbs: ἐν ᾧ ἡ πᾶσα ἡμῶν ἔφεσις ὑπάρχει .
+Subordinate start οὗ. Matched verb ᾤκησεν. Sent with subordinate verbs: χαίροις σταυρὲ διὰ οὗ ὁ λῃστὴς παράδεισον ᾤκησεν καὶ τὰ χερουβὶμ ὑπεχώρησεν τῆς εἰσόδου .
+Subordinate start οὗ. Matched verb ἀπολαμβάνει. Sent with subordinate verbs: χαίροις σταυρὲ διὰ οὗ τὸ γένος τῶν ἀνθρώπων τὸ πρῶτον ἀπολαμβάνει καὶ ἀρχαῖον ἀξίωμα .
+Subordinate start εἰ. Matched verb πέφυκα. Sent with subordinate verbs: εἰ καὶ ἀνάξιος τοῦ δεσπότου δοῦλος πέφυκα .
+Subordinate start οἵτινες. Matched verb ἐπέδησαν. Sent with subordinate verbs: οἵτινες ἐλθόντες μόνον ἐπέδησαν αὐτοῦ τοὺς πόδας καὶ τὰς μασχάλας .
+Subordinate start ὡς. Matched verb βρωθείη. Sent with subordinate verbs: ὡς ἂν καὶ τῆς νυκτὸς ἐπιλαβομένης τὸ σῶμα αὐτοῦ ἔτι ἐμπνέον ὑπὸ κυνῶν βρωθείη .
+Subordinate start ὅτι. Matched verb ἐποίησαν. Sent with subordinate verbs: ἰδόντες δὲ οἱ περιεστῶτες ὄχλοι οἱ ὑπό αὐτοῦ ἐν χριστῷ μαθητευθέντες ὅτι οὐδὲν τῶν ἀνασκολοπιζομένων ἐποίησαν αὐτῷ ἤλπισαν πάλιν ἀκούεσθαί τι παρά αὐτοῦ .
+Subordinate start ὅτι. Matched verb μειδιᾷς. Sent with subordinate verbs: ὁ δὲ στρατοκλῆς ἐπύθετο παρά αὐτοῦ λέγων τί ὅτι μειδιᾷς δοῦλε τοῦ θεοῦ πρωτόκλητε .
+Subordinate start ὡς. Matched verb παρήκουσεν. Sent with subordinate verbs: ὡς δὲ πρῶτα μὲν παρήκουσεν ὁ αἰγεάτης .
+Subordinate start μή. Matched verb πάθοι. Sent with subordinate verbs: ὁ οὖν ἀνθύπατος ἐμμανὴς γενάμενος καὶ δεδιὼς μή τι νεωτερικὸν πάθοι .
+Subordinate start ἣν. Matched verb παραγίνεται. Sent with subordinate verbs: μηνύοντες διὰ ἣν αἰτίαν παραγίνεται ὁ ἀνθύπατος .
+Subordinate start ᾧ. Matched verb ὁρᾶτε. Sent with subordinate verbs: ἄφετέ με λοιπὸν ἐν τῷ σχήματι ἐν ᾧ ὁρᾶτε ἀναιρεθῆναι .
+Subordinate start ᾧ. Matched verb συνεσταύρωμαι. Sent with subordinate verbs: ᾧ καὶ συνεσταύρωμαι .
+Subordinate start ὅπερ. Matched verb γενήσεται. Sent with subordinate verbs: ὅπερ δὴ καὶ γενήσεται .
+Subordinate start εἰ. Matched verb ἐστιν. Sent with subordinate verbs: εἰ καὶ δεινός ἐστιν καὶ λυμεὼν ὑπάρχει καὶ ἐχθρὸς καὶ ἀπατεὼν καὶ φθορεὺς καὶ μανιώδης καὶ περίεργος καὶ φονεὺς καὶ κόλαξ καὶ ὀργίλος καὶ ἀσυμπαθής .
+Subordinate start οἷα. Matched verb πέφυκεν. Sent with subordinate verbs: οἷα δὴ καὶ ὁ πατὴρ αὐτοῦ ἐξ ἀρχῆς πέφυκεν ὁ σατανᾶς.› τοιγαροῦν ἐπέγνων σε διὰ τοῦ ἐπιστρέψαντός μοι ἀψευδοῦς θεοῦ .
+Subordinate start ὅτι. Matched verb κόψῃ. Sent with subordinate verbs: καὶ εὖ οἶδα ὅτι κόψῃ καὶ ἀνιάσῃ καὶ ἀθυμήσεις ἡνίκα ὄψῃς σεαυτὸν ἐμβαλλόμενον εἰς πῦρ τῆς γεέννης τὸ ἡτοιμασμένον σοί τε καὶ τοῖς σὺν σοὶ τῷ πατρί σου λατρεύουσιν τῷ διαβόλῳ .
+Subordinate start ἡνίκα. Matched verb ὄψῃς. Sent with subordinate verbs: καὶ εὖ οἶδα ὅτι κόψῃ καὶ ἀνιάσῃ καὶ ἀθυμήσεις ἡνίκα ὄψῃς σεαυτὸν ἐμβαλλόμενον εἰς πῦρ τῆς γεέννης τὸ ἡτοιμασμένον σοί τε καὶ τοῖς σὺν σοὶ τῷ πατρί σου λατρεύουσιν τῷ διαβόλῳ .
+Subordinate start ὃν. Matched verb εἶδον. Sent with subordinate verbs: ὃν εἶδον .
+Subordinate start ὃν. Matched verb ἔχω. Sent with subordinate verbs: ὃν ἔχω .
+Subordinate start ὃν. Matched verb φιλῶ. Sent with subordinate verbs: ὃν φιλῶ .
+Subordinate start ᾧ. Matched verb εἰμὶ. Sent with subordinate verbs: ἐν ᾧ εἰμὶ καὶ ἔσομαι .
+Subordinate start ἣν. Matched verb ἴσχυσεν. Sent with subordinate verbs: ἣν πολλὰ λιπαρήσας καὶ ὑπισχνούμενος αὖθις αὐτὴν τῶν αὐτοῦ πάντων κυριεύειν καὶ δεσπόζειν οὐδαμῶς μαλάξαι ἴσχυσεν .
+Subordinate start ὡς. Matched verb ἴσχυσεν. Sent with subordinate verbs: ὡς δὲ οὐκ ἴσχυσεν αὐτὴν ὁ ἀνθύπατος πειθήνιον αὐτῷ καταστῆσαι .
+Subordinate start ὃν. Matched verb πεπίστευκα. Sent with subordinate verbs: εἰς ὃν καὶ πεπίστευκα καὶ εὔχομαι τῶν μακαρίων ἀξίως διδαχῶν ὑπακούων τοῦ ἀποστόλου συμμέτοχος αὐτοῦ ἀναδειχθῆναι ἐν τῇ ἀγήρῳ καὶ ἀτελευτήτῳ βασιλείᾳ .
 ============
 MartAndrPrieurA
-Sent with subordinate verbs: ἐπεὶ εἰ εἶχεν .
+Subordinate start ᾧ. Matched verb ἔμαθον. Sent with subordinate verbs: ἐπί ᾧ ἔμαθον πεισθεὶς παρά αὐτῆς νῦν σοὶ καὶ τῷ σῷ θεῷ χαίρειν .
+Subordinate start ὡς. Matched verb ἦγον. Sent with subordinate verbs: ὡς δὲ ἦγον αὐτὸν εἰς τὸν τόπον οἱ δήμιοι τὸ κελευσθὲν εἰς πέρας ἐπαγαγεῖν βουλόμενοι .
+Subordinate start ὧν. Matched verb ἐφείσατο. Sent with subordinate verbs: ὧν οὐκ ἐφείσατο .
+Subordinate start ἐπεὶ. Matched verb ἔδειξα. Sent with subordinate verbs: ἐπεὶ ἔδειξα ἂν ὑμῖν τί στρατοκλῆς δύναται καὶ τί ὁ μιαρὸς αἰγεάτης .
+Subordinate start εἴ. Matched verb χρῄζει. Sent with subordinate verbs: ἀλλὰ μηδὲ ἀντείπητε εἴ τινος χρῄζει ὑμῶν .
+Subordinate start ὡς. Matched verb ἀφειδήσει. Sent with subordinate verbs: οἶδα γὰρ τὸ τῆς ψυχῆς αὐτοῦ εὐγενὲς οἷόν ἐστιν ὡς τάχα κἀμοῦ ἀφειδήσει εἰ ἄρα παροξυνθείη .
+Subordinate start εἰ. Matched verb παροξυνθείη. Sent with subordinate verbs: οἶδα γὰρ τὸ τῆς ψυχῆς αὐτοῦ εὐγενὲς οἷόν ἐστιν ὡς τάχα κἀμοῦ ἀφειδήσει εἰ ἄρα παροξυνθείη .
+Subordinate start ὅτε. Matched verb ἠρέμα. Sent with subordinate verbs: ὁ δὲ στρατοκλῆς βαδίζων ἅμα τῷ ἀποστόλῳ ἐρχομένῳ ἐπὶ τὸ προκείμενον ἐπηπόρει διαγανακτῶν πρὸς τὸν αἰγεάτην ἔσθ ’ ὅτε καὶ ἠρέμα διαλοιδορούμενος αὐτόν .
+Subordinate start μέχρις. Matched verb ἔχῃ. Sent with subordinate verbs: ἡ δαιμονικὴ φύσις μέχρις μὴ ἔχῃ τὴν αἱματώδη τροφὴν μηδὲ τὸ διὰ αὐτῆς νόστιμον ἀνασπᾷ μὴ ἀναιρουμένων ζῴων .
+Subordinate start εἰ. Matched verb ἔχει. Sent with subordinate verbs: εἰ δὲ ἔχει ὃ ποθεῖ καὶ στερρύνεται καὶ εὐρύνεται καὶ ἐξανίσταται αὔξουσα οἷς ἥδεται .
+Subordinate start ὃ. Matched verb ποθεῖ. Sent with subordinate verbs: εἰ δὲ ἔχει ὃ ποθεῖ καὶ στερρύνεται καὶ εὐρύνεται καὶ ἐξανίσταται αὔξουσα οἷς ἥδεται .
+Subordinate start οἷς. Matched verb ἥδεται. Sent with subordinate verbs: εἰ δὲ ἔχει ὃ ποθεῖ καὶ στερρύνεται καὶ εὐρύνεται καὶ ἐξανίσταται αὔξουσα οἷς ἥδεται .
+Subordinate start οἳ. Matched verb νεκροῦνται. Sent with subordinate verbs: συμβαίνει περὶ τοὺς ἐκτὸς ἀνθρώπους οἳ νεκροῦνται μὴ ἐξαπτομένων ἡμῶν πρὸς ὃ ἐξάπτουσιν .
+Subordinate start ὃ. Matched verb ἐξάπτουσιν. Sent with subordinate verbs: συμβαίνει περὶ τοὺς ἐκτὸς ἀνθρώπους οἳ νεκροῦνται μὴ ἐξαπτομένων ἡμῶν πρὸς ὃ ἐξάπτουσιν .
+Subordinate start ὅτι. Matched verb ἐτέλεσεν. Sent with subordinate verbs: τύπτεται καὶ ἐρείδεται ὅλος εἰς γῆν νεκρούμενος ὅτι μὴ ἐτέλεσεν ὃ ἐπεβάλετο .
+Subordinate start ὃ. Matched verb ἐπεβάλετο. Sent with subordinate verbs: τύπτεται καὶ ἐρείδεται ὅλος εἰς γῆν νεκρούμενος ὅτι μὴ ἐτέλεσεν ὃ ἐπεβάλετο .
+Subordinate start μήπως. Matched verb ἀποσφάξῃ. Sent with subordinate verbs: μήπως ἀποκοιμηθέντων ἡμῶν ὡς ἀντίδικος ἐπεμβὰς ἀποσφάξῃ ἡμᾶς .
+Subordinate start ὃν. Matched verb παρεγενόμεθα. Sent with subordinate verbs: ἐπί ὃν ὁμιλοῦντες παρεγενόμεθα .
+Subordinate start ἃ. Matched verb ἐκελεύσθησαν. Sent with subordinate verbs: καὶ εἰπὼν ταῦτα ὁ μακαριώτατος ἑστὼς ἐπὶ τῆς γῆς καὶ ἀτενὲς ὁρῶν εἰς τὸν σταυρὸν ἀνῆλθεν ἐν αὐτῷ παρακελευσάμενος τοῖς ἀδελφοῖς ἥκειν τοὺς δημίους καὶ ποιεῖν ἃ ἐκελεύσθησαν .
+Subordinate start ὧν. Matched verb πάσχουσιν. Sent with subordinate verbs: θεασάμενοι ἐκείνους ἀποστάντας καὶ μηδὲν πεποιηκότας περὶ τὸν μακάριον ὧν οἱ ἀνακρεμάμενοι πάσχουσιν .
+Subordinate start ὅτι. Matched verb στερισκόμεθα. Sent with subordinate verbs: ἦ μὴ ὁ γέλως σου ἡμᾶς πενθεῖν καὶ κλαίειν ποιεῖ ὅτι σοῦ στερισκόμεθα .
+Subordinate start ἧς. Matched verb οἴεται. Sent with subordinate verbs: διὰ ἧς οἴεται ἡμᾶς τιμωρεῖσθαι .
+Subordinate start ὅτι. Matched verb ἐσμὲν. Sent with subordinate verbs: οὐδέπω πέπεισται ὅτι ἀλλότριοι αὐτοῦ ἐσμὲν καὶ τῶν ἐπιβουλῶν αὐτοῦ .
+Subordinate start ἐπεὶ. Matched verb εἶχεν. Sent with subordinate verbs: ἐπεὶ εἰ εἶχεν .
+Subordinate start εἰ. Matched verb εἶχεν. Sent with subordinate verbs: ἐπεὶ εἰ εἶχεν .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: ἀκηκόῃ ἂν ὅτι ὁ ἰησοῦ ἄνθρωπος ἀτιμώρητός ἐστιν λοιπὸν αὐτῷ γνωρισθείς .
+Subordinate start ὁπόσοι. Matched verb μέλλετε. Sent with subordinate verbs: ἄνδρες οἱ παρεστῶτές μοι καὶ γυναῖκες καὶ παῖδες καὶ πρεσβῦται καὶ δοῦλοι καὶ ἐλεύθεροι καὶ ὁπόσοι ἄλλοι μέλλετε ἀκούειν .
+Subordinate start εἰ. Matched verb ἡγεῖσθε. Sent with subordinate verbs: εἰ τοῦτο ἡγεῖσθε τὸ τέλος τῆς ζωῆς τῆς προσκαίρου τὸ τεθνάναι .
+Subordinate start εἰ. Matched verb τίθεσθε. Sent with subordinate verbs: καὶ εἰ τὴν σύνοδον τῆς ψυχῆς τὴν εἰς σῶμα αὐτὴν τὴν ψυχὴν τίθεσθε ὡς μετὰ τὸν χωρισμὸν μηκέτι ὑπάρχειν τι .
+Subordinate start εἰ. Matched verb ἀγαπᾶτε. Sent with subordinate verbs: καὶ εἰ τὰ παρόντα ἡδέα ἀγαπᾶτε καὶ ἐκ παντὸς ταῦτα μεταδιώκετε .
+Subordinate start εἰ. Matched verb οἴεσθε. Sent with subordinate verbs: καὶ εἰ τὸ φαινόμενον μόνον τοῦτο οἴεσθε ἑαυτοὺς εἶναι μηδὲν δὲ ἕτερον παρὰ τοῦτο .
+Subordinate start εἰ. Matched verb καταμανθάνετε. Sent with subordinate verbs: καὶ εἰ τοῦτο καταμανθάνετε τὸ νυκτερινὸν φῶς μόνον ὑπάρχειν .
+Subordinate start εἰ. Matched verb νομίζετε. Sent with subordinate verbs: καὶ εἰ τροφὴν ἑαυτῶν τὴν γεώδη νομίζετε τὴν παρεκτικὴν ὄγκον τοῦ σώματος καὶ δύναμιν συστάσεως αἵματος .
+Subordinate start εἰ. Matched verb οἴεσθε. Sent with subordinate verbs: καὶ εἰ τὸ σῶμα ἄνισον ἔχοντες οἴεσθε εὐδαιμονεῖν .
+Subordinate start εἰ. Matched verb μακαρίζει. Sent with subordinate verbs: καὶ εἰ τὰ ἐκτὸς ὑμῶν εὐτυχήματα μακαρίζει ὑμᾶς .
+Subordinate start εἰ. Matched verb ἐπαίρει. Sent with subordinate verbs: καὶ εἰ τὰ λοιπὰ ὑμῶν κτήματα ἰδίους ἐπαίρει ἑαυτοῖς .
+Subordinate start ὃ. Matched verb ἐστὲ. Sent with subordinate verbs: ὑμῶν αὐτῶν ὃ ἐστὲ οὕτως ἀμελούντων .
+Subordinate start ὧν. Matched verb λέγω. Sent with subordinate verbs: εἴθε δὲ ἑωρᾶτε νῦν καὶ αὐτοὶ περὶ ὧν λέγω τοῖς τῆς ψυχῆς ὀφθαλμοῖς .
+Subordinate start ὧν. Matched verb διαλέγομαι. Sent with subordinate verbs: καὶ καταμάθετε τοὺς ἐμοὺς πόνους ὑπὲρ ὧν νῦν διαλέγομαι πρὸς ὑμᾶς .
+Subordinate start ἃ. Matched verb λέγω. Sent with subordinate verbs: καὶ διασμήξατε ὑμῶν τὰς ἀκοὰς ἀκοῦσαι ἃ λέγω .
+Subordinate start ὧν. Matched verb εἰρήκει. Sent with subordinate verbs: καὶ ὁ μακαριώτατος μᾶλλον προήγετο λέγειν πρὸς αὐτοὺς πλείονα ὧν εἰρήκει .
+Subordinate start ὡς. Matched verb ἔστιν. Sent with subordinate verbs: καὶ τοσαῦτα ἦν ὡς ἔστιν τεκμαίρεσθαι τοὺς ἀκούοντας .
+Subordinate start ὡς. Matched verb ἐθεάσαντο. Sent with subordinate verbs: ὡς δὲ καὶ τῇ τετάρτῃ ἡμέρᾳ τὸ γενναῖον αὐτοῦ ἐθεάσαντο καὶ τὸ ἀκαμπὲς τῆς διανοίας καὶ τὸ πολὺ τῶν λόγων καὶ τὸ χρηστὸν τῆς προτροπῆς καὶ τὸ εὐσταθὲς τῆς ψυχῆς καὶ τὸ σοφὸν τοῦ πνεύματος καὶ τὸ ἑδραῖον τοῦ νοῦ καὶ τὸ εἰλικρινὲς τοῦ λογισμοῦ ἀγανακτήσαντες πρὸς τὸν αἰγεάτην σὺν ἑνὶ πάντες ἔσπευδον ἐπὶ τὸ βῆμα .
+Subordinate start ὡς. Matched verb παρήκουσεν. Sent with subordinate verbs: ὡς δὲ παρήκουσεν ὁ αἰγεάτης τὰ πρῶτα .
+Subordinate start μή. Matched verb πάθοι. Sent with subordinate verbs: δεδοικὼς μή τι δεινότερον πάθοι ἀναστὰς τοῦ βήματος συναπῄει αὐτοῖς ὑποσχόμενος ἀπολύειν τὸν μακάριον ἀνδρέαν .
+Subordinate start ἣν. Matched verb παραγίνεται. Sent with subordinate verbs: ἔφθανον οὖν αὐτὸ τοῦτο τῷ ἀποστόλῳ δηλοῦντες καὶ τὴν αἰτίαν διὰ ἣν παραγίνεται ἐπὶ τὸν τόπον .
+Subordinate start ὅτι. Matched verb ἔμελλεν. Sent with subordinate verbs: ἀγαλλιῶντος οὖν τοῦ ὄχλου ὅτι ἔμελλεν ὁ μακάριος ἀνδρέας λύεσθαι .
+Subordinate start ἕως. Matched verb ἐπείσαμεν. Sent with subordinate verbs: ὢ πόσα εἰρηκότες ἕως τοῦ νῦν οὐκ ἐπείσαμεν τοὺς ἰδίους .
+Subordinate start ἵνα. Matched verb φύγωμεν. Sent with subordinate verbs: ὢ πόσα γέγονεν ἵνα τῶν γηΐνων φύγωμεν .
+Subordinate start ἵνα. Matched verb φύγωμεν. Sent with subordinate verbs: ἢ ἵνα τῶν γηΐνων φύγωμεν .
+Subordinate start εἰ. Matched verb ἠπίστασθε. Sent with subordinate verbs: εἰ ἠπίστασθε ὅτι δεσμῶν μὲν ἐλύθην .
+Subordinate start ὅτι. Matched verb ἐλύθην. Sent with subordinate verbs: εἰ ἠπίστασθε ὅτι δεσμῶν μὲν ἐλύθην .
+Subordinate start ἃ. Matched verb λέγω. Sent with subordinate verbs: ταῦτα ἃ γὰρ λέγω εὖ οἶδα ὅτι καὶ γενήσεται .
+Subordinate start ὅτι. Matched verb γενήσεται. Sent with subordinate verbs: ταῦτα ἃ γὰρ λέγω εὖ οἶδα ὅτι καὶ γενήσεται .
+Subordinate start ἐπεὶ. Matched verb πρόσεισί. Sent with subordinate verbs: άλλὰ ἐπεὶ πρόσεισί μοι νῦν ὁ αἰγεάτης .
+Subordinate start ἃ. Matched verb δεῖ. Sent with subordinate verbs: ἃ δεῖ με πρὸς αὐτὸν εἰπόντα ἀναλῦσαι ταῦτα ἐρῶ .
+Subordinate start ᾧ. Matched verb συνέσομαι. Sent with subordinate verbs: ἔχω ᾧ συνέσομαι εἰς ἀεί .
+Subordinate start ᾧ. Matched verb συμπολιτεύσομαι. Sent with subordinate verbs: ἔχω ᾧ συμπολιτεύσομαι εἰς ἀναριθμήτους αἰῶνας .
+Subordinate start ᾧ. Matched verb λέγω. Sent with subordinate verbs: εὖ οἶδα τυπτόμενόν σε καὶ πενθήσαντα ᾧ πρὸς ὃν λέγω ἀνθύπατον τὸν ὑπὲρ αὐτὸν ἀναφυγόντος μου .
+Subordinate start ὃν. Matched verb λέγω. Sent with subordinate verbs: εὖ οἶδα τυπτόμενόν σε καὶ πενθήσαντα ᾧ πρὸς ὃν λέγω ἀνθύπατον τὸν ὑπὲρ αὐτὸν ἀναφυγόντος μου .
+Subordinate start ἣν. Matched verb ὁρᾷς. Sent with subordinate verbs: καὶ γὰρ κλαύσῃ καὶ τύψῃ καὶ βρύξῃ καὶ λυπηθήσῃ καὶ ἀθυμήσῃ καὶ κόψῃ καὶ ἀνιάσῃ καὶ παρασκευάσῃ ἅμα τῇ συγγενίδι σου θαλάσσῃ ἣν καὶ νῦν ὁρᾷς κυμαινομένην ὀργίλως ὅτι ὑμῶν ἀπήλλαγμαι .
+Subordinate start ὅτι. Matched verb ἀπήλλαγμαι. Sent with subordinate verbs: καὶ γὰρ κλαύσῃ καὶ τύψῃ καὶ βρύξῃ καὶ λυπηθήσῃ καὶ ἀθυμήσῃ καὶ κόψῃ καὶ ἀνιάσῃ καὶ παρασκευάσῃ ἅμα τῇ συγγενίδι σου θαλάσσῃ ἣν καὶ νῦν ὁρᾷς κυμαινομένην ὀργίλως ὅτι ὑμῶν ἀπήλλαγμαι .
+Subordinate start οἷς. Matched verb ἐδόκεις. Sent with subordinate verbs: καὶ πᾶσιν οἷς ἐδόκεις διὰ ἐμοῦ κεκοσμῆσθαι .
+Subordinate start ὧν. Matched verb τολμᾷς. Sent with subordinate verbs: ἤρεμος καὶ ἡσύχιος καὶ μηδὲν δυνάμενος ὧν τολμᾷς .
+Subordinate start ὃ. Matched verb εἶ. Sent with subordinate verbs: σὲ ἐῶντες εἶναι ὃ εἶ καὶ ὃ μὴ ἐπίστασαι αὐτὸς περὶ σεαυτοῦ .
+Subordinate start ὃν. Matched verb ἐπόθησα. Sent with subordinate verbs: ὃν ἐπόθησα .
+Subordinate start ὃν. Matched verb ἠγάπησα. Sent with subordinate verbs: ὃν ἠγάπησα .
+Subordinate start ὃν. Matched verb οἶδα. Sent with subordinate verbs: ὃν οἶδα .
+Subordinate start ὃν. Matched verb ἔχω. Sent with subordinate verbs: ὃν ἔχω .
+Subordinate start ὃν. Matched verb φιλῶ. Sent with subordinate verbs: ὃν φιλῶ .
+Subordinate start ὅπως. Matched verb γένηται. Sent with subordinate verbs: δέξαι με ὅπως διὰ τῆς ἐμῆς ἐξόδου τῆς ἐπὶ σὲ ἡ τῶν πολλῶν μου συγγενῶν σύνοδος γένηται .
+Subordinate start ὃν. Matched verb προσήκατο. Sent with subordinate verbs: ὃν οὐδὲ προσήκατο τοῦ λοιποῦ ὅλως ὑποκρίσει αὐτοῦ προσφερομένου .
+Subordinate start ἵνα. Matched verb εἴπω. Sent with subordinate verbs: ἵνα μὴ καὶ ἀφράστων εἴπω .
+Subordinate start ὅπως. Matched verb ᾖ. Sent with subordinate verbs: ὅπως ᾖ ληπτὰ ἅπαντα αὐτοῦ τὰ χαρίσματα ἐν χριστῷ ἰησοῦ τῷ κυρίῳ ἡμῶν μετά οὗ τῷ πατρὶ δόξα τιμὴ καὶ κράτος σὺν τῷ παναγίῳ καὶ ἀγαθῷ καὶ ζωοποιῷ πνεύματι νῦν καὶ ἀεὶ καὶ εἰς τοὺς αἰῶνας τῶν αἰώνων .
 ============
 ActAndrBon
-Sent with subordinate verbs: ἐγὼ μὲν οὖν ταῦτα εἰπὼν ὡς εἶπον .
-Sent with subordinate verbs: καὶ διὰ τί σε εὔχομαι τέκνον ὅπως διατεθῇ .
-
+Subordinate start οὗ. Matched verb ῥίπτομεν. Sent with subordinate verbs: διὰ οὗ τὸ ἄδικον ῥίπτομεν .
+Subordinate start οὗ. Matched verb ἀφίεμεν. Sent with subordinate verbs: διὰ οὗ τὸν ἀνελεήμονα ἀφίεμεν .
+Subordinate start οὗ. Matched verb ἐγνωρίσαμεν. Sent with subordinate verbs: διὰ οὗ τὸν ἀπολλύντα ἐγνωρίσαμεν .
+Subordinate start οὗ. Matched verb ἐρρίψαμεν. Sent with subordinate verbs: διὰ οὗ τὸ σκότος ἐρρίψαμεν .
+Subordinate start οὗ. Matched verb ἀπεστράμμεθα. Sent with subordinate verbs: διὰ οὗ τὰ πολλὰ ἀπεστράμμεθα .
+Subordinate start οὗ. Matched verb ἐμάθομεν. Sent with subordinate verbs: διὰ οὗ τὰ ἐπίγεια ἐμάθομεν .
+Subordinate start οὗ. Matched verb εἴδομεν. Sent with subordinate verbs: διὰ οὗ τὰ μένοντα εἴδομεν .
+Subordinate start αἷς. Matched verb ἔσχεν. Sent with subordinate verbs: ἐν αἷς οὐκ ἔσχεν ὁ αἰγεάτης ἔννοιαν ἐπεξελθεῖν τὴν κατὰ τὸν ἀπόστολον αἰτίαν .
+Subordinate start συλλεγͅόμενοι. Matched verb ἔχουσιν. Sent with subordinate verbs: καὶ συλλεγͅόμενοι πάντες ἀφόβως εἰς τὸ δεσμωτήριον ἅμα τῇ μαξιμίλλῃ καὶ ἰφιδάμᾳ καὶ τοῖς λοιποῖς ἀδιαλείπτως ἔχουσιν περισκεπτόμενοι τῇ περιβολῇ καὶ χάριτι τοῦ κυρίου .
+Subordinate start ἣν. Matched verb ἔσχεν. Sent with subordinate verbs: καὶ ὥσπερ τις ἐμμανὴς γενόμενος ἀφίησιν ἣν ἐν χερσὶν δίκην ἔσχεν .
+Subordinate start ἵνα. Matched verb ἐβουλόμην. Sent with subordinate verbs: καὶ ἵνα πολλὰ ὧν ἐβουλόμην εἰς ὄνειδός σου ἐκφέρειν .
+Subordinate start ὧν. Matched verb ἐβουλόμην. Sent with subordinate verbs: καὶ ἵνα πολλὰ ὧν ἐβουλόμην εἰς ὄνειδός σου ἐκφέρειν .
+Subordinate start ὧν. Matched verb ἔπαθον. Sent with subordinate verbs: ὧν τε ἐγὼ ὑπὸ τῶν γονέων σου ἔπαθον ὧν τε αὐτὴ ὑπό ἐμοῦ ἐν τῷ παντὶ ἡμῶν βίῳ .
+Subordinate start εἰ. Matched verb εἴης. Sent with subordinate verbs: εἰ μὲν εἴης ἐκείνη ὁποία ἦσθα πάλαι .
+Subordinate start ὃν. Matched verb ἐπιστάμεθα. Sent with subordinate verbs: συμβιοῦσά μοι ὃν ἐπιστάμεθα τρόπον .
+Subordinate start ὃν. Matched verb ἔχω. Sent with subordinate verbs: ἐπεὶ μᾶλλον καὶ ὃν ἔχω ἐν τῷ δεσμωτηρίῳ ξένον ἀπολύσω .
+Subordinate start εἰ. Matched verb βούλει. Sent with subordinate verbs: εἰ δὲ μὴ βούλει .
+Subordinate start ὃν. Matched verb στέργεις. Sent with subordinate verbs: ἐκεῖνον δὲ ὃν μάλιστα ἐμοῦ στέργεις πλεῖον ἀνιάσω .
+Subordinate start ὃ. Matched verb βούλει. Sent with subordinate verbs: πρὸς ὁπότερον τοιγαροῦν ὃ βούλει μαξιμίλλα σκεψαμένη αὔριον ἀποκρίνου .
+Subordinate start ὃ. Matched verb ἐχρῆν. Sent with subordinate verbs: ὃ γὰρ μάλιστα ἐχρῆν με εἰπεῖν πρός σε .
+Subordinate start ὃ. Matched verb ἔπαθεν. Sent with subordinate verbs: ὃ γὰρ ἐκείνη ἔπαθεν ἀγνοοῦσα .
+Subordinate start ἣν. Matched verb ἀποτείνομαι. Sent with subordinate verbs: πρὸς ἣν ἀποτείνομαι ψυχήν .
+Subordinate start ὅπερ. Matched verb ἔπαθεν. Sent with subordinate verbs: καὶ ὅπερ ὁ σὺν ἐκείνῃ καταχθεὶς καὶ ἀπολισθήσας ἑαυτοῦ νοῦς ἔπαθεν .
+Subordinate start ὃ. Matched verb παρήκουσεν. Sent with subordinate verbs: καὶ ὃ ἐκείνη παρήκουσεν σὺ ἤκουσας .
+Subordinate start ὃ. Matched verb συνέθετο. Sent with subordinate verbs: καὶ ὃ ἐκεῖνος συνέθετο ἐγὼ φεύγω .
+Subordinate start ἃ. Matched verb ἐσφάλησαν. Sent with subordinate verbs: καὶ ἃ ἐκεῖνοι ἐσφάλησαν ἡμεῖς ἐγνωρίσαμεν .
+Subordinate start ὡς. Matched verb εἶπον. Sent with subordinate verbs: ἐγὼ μὲν οὖν ταῦτα εἰπὼν ὡς εἶπον .
+Subordinate start ἃ. Matched verb ἔπαθες. Sent with subordinate verbs: εὖ γε ψυχὴ βοῶσα ἃ ἔπαθες καὶ ἐπανιοῦσα ἐπί ἑαυτήν .
+Subordinate start ὡς. Matched verb καταμανθάνω. Sent with subordinate verbs: ὡς μείζονά σε καταμανθάνω νοούμενον ἢ λεγόμενον .
+Subordinate start ὧν. Matched verb εἶ. Sent with subordinate verbs: ἐπί ὧν ὄντως εἶ .
+Subordinate start ᾧ. Matched verb ὑπερέχεις. Sent with subordinate verbs: συλλαβὼν ἑαυτὸν ἐν καταστάσει σου καὶ ἀπολαβὼν νόει ἐν ᾧ ὑπερέχεις .
+Subordinate start ὧν. Matched verb θέμεθα. Sent with subordinate verbs: ὧν σοι προσηγορίας θέμεθα ὑπερμεγέθεις οὔσας .
+Subordinate start ὃν. Matched verb γνωρίσει. Sent with subordinate verbs: ὃν τάχα εἷς μόνος γνωρίσει θαρρῶν .
+Subordinate start ὅτι. Matched verb ἔχομεν. Sent with subordinate verbs: εἰδυῖα ὅτι θεὸν ἔχομεν τὸν ἐλεοῦντα ἡμᾶς .
+Subordinate start μὴ. Matched verb κινείτωσαν. Sent with subordinate verbs: καὶ μὴ σε οἱ ἐκείνου ψόφοι κινείτωσαν .
+Subordinate start ὅπως. Matched verb θέλει. Sent with subordinate verbs: ἑνὸς ὄντος τούτου τοῦ σώματος ὅπως θέλει τοῦτῳ καταχρησάσθω συγγενοῦς ὄντος αὐτοῦ .
+Subordinate start ἐὰν. Matched verb ἐκδῷς. Sent with subordinate verbs: ἐὰν γὰρ μὴ ἐκδῷς ἑαυτὴν μαξιμίλλα πρὸς τὰ τούτων ἐναντία .
+Subordinate start εἰ. Matched verb ἀπελαθείην. Sent with subordinate verbs: εἰ δὲ ἐγὼ ἀπελαθείην ἐντεῦθεν .
+Subordinate start μέχρις. Matched verb γνῷς. Sent with subordinate verbs: ἴσθι με ἕνεκέν σου κολασθησόμενον μέχρις ἂν αὐτὴ γνῷς ὅτι μὴ ὑπὲρ ἀξίας ψυχῆς τὸ τοῦ βίου ζῆν ἀπέπτυσα .
+Subordinate start ὅτι. Matched verb ἀπέπτυσα. Sent with subordinate verbs: ἴσθι με ἕνεκέν σου κολασθησόμενον μέχρις ἂν αὐτὴ γνῷς ὅτι μὴ ὑπὲρ ἀξίας ψυχῆς τὸ τοῦ βίου ζῆν ἀπέπτυσα .
+Subordinate start ὅπως. Matched verb διαμείνῃ. Sent with subordinate verbs: δέομαί σου οὖν τοῦ φρονίμου ἀνδρὸς ὅπως διαμείνῃ εὔοψις νοῦς .
+Subordinate start ὅπως. Matched verb διαφυλαχθῇ. Sent with subordinate verbs: δέομαι σου τοῦ μὴ φαινομένου νοῦ ὅπως αὐτὸς διαφυλαχθῇ .
+Subordinate start ὃν. Matched verb παρακαλῶ. Sent with subordinate verbs: συλλαβοῦ κἀμοὶ ὃν παρακαλῶ ἄνθρωπον .
+Subordinate start ἵνα. Matched verb γένωμαι. Sent with subordinate verbs: ἵνα τέλειος γένωμαι .
+Subordinate start ἵνα. Matched verb γνωρίσῃς. Sent with subordinate verbs: ἵνα γνωρίσῃς τὴν ἀληθῆ σου φύσιν .
+Subordinate start ἵνα. Matched verb γνωρίσῃς. Sent with subordinate verbs: ἵνα γνωρίσῃς ὃ πάσχω καὶ τοῦ παθεῖν φεύξῃ .
+Subordinate start ὃ. Matched verb πάσχω. Sent with subordinate verbs: ἵνα γνωρίσῃς ὃ πάσχω καὶ τοῦ παθεῖν φεύξῃ .
+Subordinate start ἃς. Matched verb ὁρῶ. Sent with subordinate verbs: ἴδε ἃς αὐτὸς ὁρῶ .
+Subordinate start ἃς. Matched verb ὁρᾷς. Sent with subordinate verbs: καὶ ἃς ὁρᾷς πηρώσεις .
+Subordinate start ἃ. Matched verb δεῖ. Sent with subordinate verbs: ἴδε ἃ δεῖ .
+Subordinate start ἃ. Matched verb δεῖ. Sent with subordinate verbs: καὶ ἃ μὴ δεῖ οὐκ ὄψει .
+Subordinate start ὧν. Matched verb λέγω. Sent with subordinate verbs: ἄκουσον ὧν λέγω .
+Subordinate start ἅπερ. Matched verb ἤκουσας. Sent with subordinate verbs: καὶ ἅπερ ἤκουσας ῥῖψον .
+Subordinate start εἰ. Matched verb ἀκούσῃ. Sent with subordinate verbs: εἰ ἄρα ἀκούσῃ .
+Subordinate start ὅπως. Matched verb διατεθῇ. Sent with subordinate verbs: καὶ διὰ τί σε εὔχομαι τέκνον ὅπως διατεθῇ .
+Subordinate start ὃν. Matched verb ὁρῶ. Sent with subordinate verbs: ἔστιν τις ἐν σοὶ ὁμιλῆσαι ὃν ἐγὼ ὁρῶ ἴδιόν μου .
+Subordinate start οἷς. Matched verb ἀνέξεταί. Sent with subordinate verbs: μή τις ἐν σοὶ οἷς οὐκ ἀνέξεταί μου στρατοκλῆ λέγοντος ταῦτα .
+Subordinate start ὃν. Matched verb ἠγάπων. Sent with subordinate verbs: ἔχω ὃν ἠγάπων .
+Subordinate start ὃν. Matched verb προσεδόκουν. Sent with subordinate verbs: ἀναπαύσομαι ἐπί ὃν προσεδόκουν .
+Subordinate start ὅτι. Matched verb πεποίημαι. Sent with subordinate verbs: ὅτι οὐ μάτην πεποίημαι πρὸς σὲ τοὺς συγγενεῖς μου λόγους .
+Subordinate start ὅτι. Matched verb ἐστιν. Sent with subordinate verbs: μὴ νόμιζε μακαριώτατε ἀνδρέα ὅτι ἕτερόν τί ἐστιν τὸ ἀνιῶν με άλλὰ ἢ σύ .
+Subordinate start ὧν. Matched verb ἔχω. Sent with subordinate verbs: ὅπως δυναίμην ἄξιος γενέσθαι ὧν ἔχω σου σπερμάτων .
+Subordinate start ἃ. Matched verb ἐπιδώσει. Sent with subordinate verbs: ἃ οὐκ ἄλλως ἐπιδώσει ἄληκτα καὶ εἰς τὸ φανερὸν ἀνίσχοντα μὴ οὐχὶ σου βουληθέντος καὶ εὐξαμένου ὑπὲρ αὐτῶν καὶ ἐμοῦ ὅλου .
+Subordinate start ἃ. Matched verb ἑώρων. Sent with subordinate verbs: ταῦτα ἦν τέκνον ἃ καὶ αὐτὸς ἑώρων ἐν σοί .
+Subordinate start ὅτι. Matched verb κενεμβάτησεν. Sent with subordinate verbs: καὶ μου τὸν κύριον δοξάζω ὅτι μου ἡ περὶ σὲ ἔννοια οὐ κενεμβάτησεν .
+Subordinate start ὃ. Matched verb εἶπεν. Sent with subordinate verbs: άλλὰ οἶδεν ὃ εἶπεν .
+Subordinate start ὅπως. Matched verb εἰδῆτε. Sent with subordinate verbs: ὅπως δὲ εἰδῆτε .
+Subordinate start οὓς. Matched verb ἀπεκρίνατο. Sent with subordinate verbs: ἐκείνη γὰρ τοὺς λόγους κατακούσασα οὓς πρὸς αὐτὴν ἀπεκρίνατο .
+Subordinate start ὅπερ. Matched verb ἐδείκνυον. Sent with subordinate verbs: καὶ τρόπον τινὰ διατεθεῖσα ἐπί αὐτῶν καὶ γενομένη τοῦτο ὅπερ οἱ λόγοι ἐδείκνυον .
+Subordinate start ἧς. Matched verb ἔφησεν. Sent with subordinate verbs: καὶ τοῦ αἰγεάτου ἀνενεγκόντος αὐτῇ τὴν ὁμοίαν ἀξίωσιν περὶ ἧς ἔφησεν αὐτῇ διασκέψασθαι .
+Subordinate start εἰ. Matched verb βούλοιτο. Sent with subordinate verbs: εἰ ἄρα βούλοιτο αὐτῷ συγκαθεύδειν .
+Subordinate start ὡς. Matched verb ἐπεκράτησεν. Sent with subordinate verbs: καὶ ὡς ἐπεκράτησεν αὐτῷ τῶν πάντων μόνον τὸ ἀνασκολοπισθῆναι .
+Subordinate start ὧν. Matched verb κατηξίωσεν. Sent with subordinate verbs: ἐγὼ ἀδελφοὶ ἐξεπέμφθην ὑπὸ τοῦ κυρίου ἀπόστολος εἰς τὰ κλίματα ταῦτα ὧν με κατηξίωσεν ὁ κύριός μου .
+Subordinate start ὧν. Matched verb παρεκάλεσα. Sent with subordinate verbs: ὧν ἀεὶ καὶ ὑμᾶς παρεκάλεσα ἐκστῆναι καὶ ἐπὶ τὰ μόνιμα ἐπείγεσθαι προτρέψασθαι καὶ πάντων ῥευστῶν τὴν φυγὴν ποιήσασθαι .
+Subordinate start ἧς. Matched verb ᾠκοδόμηται. Sent with subordinate verbs: ἧς ἕνεκεν τὰ πάντα ᾠκοδόμηται .
+Subordinate start ὧν. Matched verb γεγόνασιν. Sent with subordinate verbs: στηρίχθητε μνημονεύοντες ὧν ὅσα τε γεγόνασιν συναναστρέφοντός μου πᾶσιν ὑμῖν .
+Subordinate start ὅσα. Matched verb γεγόνασιν. Sent with subordinate verbs: στηρίχθητε μνημονεύοντες ὧν ὅσα τε γεγόνασιν συναναστρέφοντός μου πᾶσιν ὑμῖν .
+Subordinate start οἷς. Matched verb ἔ̓χετε. Sent with subordinate verbs: εἴδετε διὰ ἐμοῦ ἔργα γεγονότα οἷς οὐκ ἔ̓χετε ἀπιστῆσαι αὐτοῖς .
+Subordinate start ἃ. Matched verb κεκράξεται. Sent with subordinate verbs: γεγονότα σημεῖα τοιαῦτα ἃ καὶ τάχα ἡ ἄλαλος φύσις κεκράξεται .
+Subordinate start οὓς. Matched verb εὔχομαι. Sent with subordinate verbs: λόγους ὑμῖν παρέδωκα οὓς εὔχομαι οὕτως καταδέχεσθαι ὑπό ὑμῶν ὡς αὐτοὶ οἱ λόγοι θέλουσιν .
+Subordinate start οἷς. Matched verb εἴδετε. Sent with subordinate verbs: στηρίζεσθε οὖν ἀγαπητοὶ ἐπὶ πᾶσιν οἷς εἴδετε .
+Subordinate start οἷς. Matched verb ἠκούσατε. Sent with subordinate verbs: οἷς ἠκούσατε .
+Subordinate start οἷς. Matched verb ἐκοινωνήσατε. Sent with subordinate verbs: οἷς ἐκοινωνήσατε .
+Subordinate start ὃν. Matched verb ἐπιστεύσατε. Sent with subordinate verbs: καὶ ὑμᾶς ὁ θεὸς εἰς ὃν ἐπιστεύσατε ἐλεήσας εὐαρέστους παραστήσει ἑαυτῷ ἀναπεπαυμένους εἰς ἅπαντας αἰῶνας .
+Subordinate start ᾧ. Matched verb παρέσχετο. Sent with subordinate verbs: ᾧ πολλὰ παρέσχετο αὐτὸς ὁ θεὸς διὰ ἔργων καὶ λόγων .
+Subordinate start ὅπως. Matched verb συνθῶνται. Sent with subordinate verbs: ὅπως αὐτῷ συνθῶνται .
+Subordinate start ὃ. Matched verb βούλεται. Sent with subordinate verbs: καὶ οὐκ ἕξει ὃ βούλεται .
+Subordinate start οὗπερ. Matched verb κατῆλθεν. Sent with subordinate verbs: καὶ ἤδη λέγειν ἐξ οὗπερ ὁ ἄναρχος ὑπό αὐτὸν ἀρχῇ κατῆλθεν .
+Subordinate start ὧν. Matched verb ἐδόκει. Sent with subordinate verbs: διὰ ὧν αὐτοῦ περικρατεῖν ἐδόκει .
+Subordinate start ὅτε. Matched verb ἐξήφθη. Sent with subordinate verbs: άλλὰ ὅτε τῆς χάριτος μυστήτιον ἐξήφθη .
+Subordinate start ὧν. Matched verb ἐδόκει. Sent with subordinate verbs: διὰ ὧν αὐτοῦ ἐδόκει καταφρυοῦσθαι διὰ τὴν τοῦ ἐλεήσαντος χρηστότητα .
+Subordinate start μέχρις. Matched verb νομίζῃ. Sent with subordinate verbs: μὴ παύσασθαι ἀπό ἡμῶν μέχρις ἂν νομίζῃ χωρίζειν .
+Subordinate start ὅ. Matched verb ἐστιν. Sent with subordinate verbs: τοῦτο ἤλεγξεν καὶ ὁμολογεῖν ὅ ἐστιν παρεσκεύασεν .
