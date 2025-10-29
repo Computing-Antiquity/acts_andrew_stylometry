@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+data
+
 # Distribution / packaging
 .Python
 build/
@@ -163,3 +165,9 @@ cython_debug/
 
 # Add DS_Store to gitignore
 .DS_Store
+
+data/cleaned/
+data/lemmatized/
+data/raw/
+data/raw_text_bu/
+data/raw_txt/
